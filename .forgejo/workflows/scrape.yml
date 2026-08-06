@@ -1,0 +1,29 @@
+name: Re-scrape peptide protocol pages
+
+on:
+  schedule:
+    # Weekly, Monday 09:00 UTC. Adjust to taste.
+    - cron: "0 9 * * 1"
+  workflow_dispatch: {}   # lets you trigger it manually from the Forgejo UI
+
+jobs:
+  scrape:
+    runs-on: docker
+    container:
+      image: python:3.12-slim
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python -m scraper.core
+
+      - name: Commit changes if anything moved
+        run: |
+          git config user.name "peptide-archive-bot"
+          git config user.email "bot@localhost"
+          git add data/ markdown/
+          git diff --cached --quiet || git commit -m "chore: scheduled re-scrape $(date -u +%Y-%m-%d)"
+          git push

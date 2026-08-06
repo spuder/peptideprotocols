@@ -1,0 +1,271 @@
+{
+  "source_url": "https://peptidedosages.com/single-peptide-dosages/ghk-cu-50-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-06T04:25:02+00:00",
+  "peptide": "GHK-Cu",
+  "vial_size_text": "50 mg Vial",
+  "vial_size_mg": 50.0,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": 3.0,
+    "concentration_mg_ml": 16.67,
+    "steps": [
+      "Draw 3.0 mL of the protocol-specified sterile diluent with a sterile syringe.",
+      "Add it slowly down the vial wall to reduce foaming.",
+      "Gently swirl or roll until dissolved. Do not shake.",
+      "Label the vial with the 16.67 mg/mL concentration, preparation date, and storage instructions."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "Standard / Conservative Approach",
+      "heading_raw": "Standard / Conservative Approach (3 mL = 16.67 mg/mL; 5 days/week)",
+      "frequency": "Frequency: Once daily, 5 days per week , progressing from 1.0 mg to 1.5 mg and then 2.0 mg as shown above. At 16.67 mg/mL, those doses equal 6, 9, and 12 U-100 units [18] . Use a U-100 syringe with markings that clearly display every value in the table.",
+      "rows": [
+        {
+          "week_phase": "Weeks 1-4",
+          "dose_text": "1.0 mg (1000 mcg)",
+          "dose_mg": 1.0,
+          "units_text": "6 units (0.06 mL)",
+          "units": 6.0,
+          "ml": 0.06
+        },
+        {
+          "week_phase": "Weeks 5-8",
+          "dose_text": "1.5 mg (1500 mcg)",
+          "dose_mg": 1.5,
+          "units_text": "9 units (0.09 mL)",
+          "units": 9.0,
+          "ml": 0.09
+        },
+        {
+          "week_phase": "Weeks 9-12+",
+          "dose_text": "2.0 mg (2000 mcg)",
+          "dose_mg": 2.0,
+          "units_text": "12 units (0.12 mL)",
+          "units": 12.0,
+          "ml": 0.12
+        }
+      ]
+    },
+    {
+      "name": "Alternative Protocol",
+      "heading_raw": "Alternative Protocol (3 mL = 16.67 mg/mL; 3 times weekly)",
+      "frequency": "Frequency: 2.0 mg three times per week , such as Monday, Wednesday, and Friday. At 16.67 mg/mL, each injection equals 12 U-100 units (0.12 mL) , for approximately 6 mg per week [18] .",
+      "rows": [
+        {
+          "week_phase": "Weeks 1-12+",
+          "dose_text": "2.0 mg (2000 mcg)",
+          "dose_mg": 2.0,
+          "units_text": "12 units (0.12 mL)",
+          "units": 12.0,
+          "ml": 0.12
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "Peptide Vials (GHK-Cu, 50 mg each):",
+      "schedule": "5 days/week (1.0-2.0 mg/day)",
+      "label": "8 weeks (~50 mg total)",
+      "quantity_text": "1 vial",
+      "quantity": 1.0,
+      "unit": "vial"
+    },
+    {
+      "item": "Peptide Vials (GHK-Cu, 50 mg each):",
+      "schedule": "5 days/week (1.0-2.0 mg/day)",
+      "label": "12 weeks (~90 mg total)",
+      "quantity_text": "2 vials",
+      "quantity": 2.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (GHK-Cu, 50 mg each):",
+      "schedule": "5 days/week (1.0-2.0 mg/day)",
+      "label": "16 weeks (~130 mg total)",
+      "quantity_text": "3 vials",
+      "quantity": 3.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (GHK-Cu, 50 mg each):",
+      "schedule": "3 times/week (2 mg each)",
+      "label": "8 weeks (~48 mg total)",
+      "quantity_text": "1 vial",
+      "quantity": 1.0,
+      "unit": "vial"
+    },
+    {
+      "item": "Peptide Vials (GHK-Cu, 50 mg each):",
+      "schedule": "3 times/week (2 mg each)",
+      "label": "12 weeks (~72 mg total)",
+      "quantity_text": "2 vials",
+      "quantity": 2.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (GHK-Cu, 50 mg each):",
+      "schedule": "3 times/week (2 mg each)",
+      "label": "16 weeks (~96 mg total)",
+      "quantity_text": "2 vials",
+      "quantity": 2.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Sterile or Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "1 vial",
+      "quantity_text": "3 mL",
+      "quantity": 3.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Sterile or Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "2 vials",
+      "quantity_text": "6 mL",
+      "quantity": 6.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Sterile or Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "3 vials",
+      "quantity_text": "9 mL",
+      "quantity": 9.0,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Mulder GD, et al. Wound Repair and Regeneration.",
+      "description": "Human diabetic-ulcer study of topical glycyl-L-histidyl-L-lysine copper.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17147644/",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Miller TR, et al. Archives of Facial Plastic Surgery. 2006.",
+      "description": "Topical copper tripeptide complex after carbon-dioxide laser resurfacing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Abdulghani AA, et al. 1998.",
+      "description": "Comparative topical-cream study including a copper-binding peptide preparation.",
+      "url": "https://doi.org/10.1016/S1088-3371(98)00011-4",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Badenhorst T, et al. 2016.",
+      "description": "Split-face GHK-Cu nano-serum study of collagen, elastin, and wrinkle-related outcomes.",
+      "url": "https://doi.org/10.4172/2329-8847.1000166",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "Hostynek JJ, et al. Inflammation Research. 2010.",
+      "description": "Final human-skin penetration paper for a GHK-Cu preparation.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2945467/",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "Maquart FX, et al. Journal of Clinical Investigation. 1993.",
+      "description": "Local GHK-Cu exposure in a rat wound-chamber model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8227353/",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "Pickart L, Margolina A. International Journal of Molecular Sciences. 2018.",
+      "description": "Review of regenerative and gene-expression research involving GHK-Cu.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6073405/",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "Maquart FX, et al. 2000.",
+      "description": "GHK-related modulation of matrix metalloproteinase-2 expression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11045606/",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "ClinicalTrials.gov. NCT07437586.",
+      "description": "Ongoing Phase 2 study of topical GHK-Cu gel for acute skin-wound healing.",
+      "url": "https://clinicaltrials.gov/study/NCT07437586",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "U.S. Food and Drug Administration.",
+      "description": "Compounding safety-risk information that includes injectable GHK-Cu.",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "U.S. Food and Drug Administration. 503A Categories Update.",
+      "description": "Route-specific bulk-substance evaluation context for GHK-Cu.",
+      "url": "https://www.fda.gov/media/94155/download?attachment=",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-12",
+      "citation": "U.S. Food and Drug Administration. 510(k) K953853.",
+      "description": "Iamin Gel topical wound-dressing device record.",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K953853",
+      "category": "Research References"
+    },
+    {
+      "ref_id": "ref-13",
+      "citation": "GenScript.",
+      "description": "General peptide storage and handling guidance.",
+      "url": "https://www.genscript.com/peptide_storage_and_handling.html",
+      "category": "Additional Technical and Protocol Sources"
+    },
+    {
+      "ref_id": "ref-14",
+      "citation": "Tocris Bioscience.",
+      "description": "General stability and storage guidance for laboratory materials.",
+      "url": "https://www.tocris.com/support/stability-and-storage",
+      "category": "Additional Technical and Protocol Sources"
+    },
+    {
+      "ref_id": "ref-15",
+      "citation": "Roswell Park Comprehensive Cancer Center.",
+      "description": "General self-injection preparation, site rotation, and disposal guidance.",
+      "url": "https://www.roswellpark.org/cancertalk/202110/giving-yourself-injection",
+      "category": "Additional Technical and Protocol Sources"
+    },
+    {
+      "ref_id": "ref-16",
+      "citation": "Centers for Disease Control and Prevention.",
+      "description": "Current subcutaneous injection technique job aid.",
+      "url": "https://www.cdc.gov/vaccines/hcp/admin/downloads/YCTS-VaxAdmin-Subcut-injection.pdf",
+      "category": "Additional Technical and Protocol Sources"
+    },
+    {
+      "ref_id": "ref-17",
+      "citation": "World Health Organization, NCBI Bookshelf.",
+      "description": "Best practices for injections and related procedures.",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
+      "category": "Additional Technical and Protocol Sources"
+    },
+    {
+      "ref_id": "ref-18",
+      "citation": "Salhab Pharmacy.",
+      "description": "Practice-convention source for commonly published GHK-Cu schedules. This is not a controlled human dose-ranging trial.",
+      "url": "https://www.salhabpharmacy.com/ghk-cu-injection/",
+      "category": "Additional Technical and Protocol Sources"
+    }
+  ],
+  "content_hash": "ea5ed978b78b372e"
+}

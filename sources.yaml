@@ -1,0 +1,14 @@
+# List every page you want archived. One adapter (scraper/adapters/*.py)
+# handles all pages on a given site template, so adding another
+# peptidedosages.com page is just another URL below.
+#
+# To add a NEW site with a different layout: write scraper/adapters/<site>.py
+# (can_handle + parse, same shape as peptidedosages.py) and register it in
+# ADAPTERS in scraper/core.py.
+
+sources:
+  - url: https://peptidedosages.com/single-peptide-dosages/ghk-cu-50-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ghk-cu-100-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/bpc-157-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/bpc-157-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/tb-500-5-mg-vial-dosage-protocol/
