@@ -1,0 +1,175 @@
+{
+  "source_url": "https://peptidedosages.com/peptide-blend-dosages/neuroxelin-48-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:51:20+00:00",
+  "peptide": "Neuroxelin",
+  "vial_size_text": "48 mg Vial",
+  "vial_size_mg": 48.0,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": 3.0,
+    "concentration_mg_ml": 16.0,
+    "steps": [
+      "Allow lyophilized vial to reach room temperature before opening.",
+      "Draw 3.0 mL bacteriostatic water with a sterile syringe.",
+      "Inject slowly down the vial wall; avoid foaming.",
+      "Gently swirl/roll until dissolved (do not shake).",
+      "Label with concentration (16 mg/mL) and date; refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "Standard / Gradual Approach",
+      "heading_raw": "Standard / Gradual Approach (3 mL = 16 mg/mL)",
+      "frequency": "Frequency: Inject once daily subcutaneously, preferably in the morning. For ≤10-unit (≤0.10 mL) administrations, consider 30- or 50-unit insulin syringes for improved readability.",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–4",
+          "dose_text": "500 mcg",
+          "dose_mg": 500.0,
+          "units_text": "3 units (0.03 mL)",
+          "units": 3.0,
+          "ml": 0.03
+        },
+        {
+          "week_phase": "Weeks 5–8",
+          "dose_text": "750 mcg",
+          "dose_mg": 750.0,
+          "units_text": "4.7 units (0.047 mL)",
+          "units": 4.7,
+          "ml": 0.047
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "Peptide Vials (Neuroxelin, 48 mg each):",
+      "schedule": null,
+      "label": "8 weeks (500 mcg/day)",
+      "quantity_text": "1 vial",
+      "quantity": 1.0,
+      "unit": "vial"
+    },
+    {
+      "item": "Peptide Vials (Neuroxelin, 48 mg each):",
+      "schedule": null,
+      "label": "12 weeks (500 mcg/day)",
+      "quantity_text": "1 vial",
+      "quantity": 1.0,
+      "unit": "vial"
+    },
+    {
+      "item": "Peptide Vials (Neuroxelin, 48 mg each):",
+      "schedule": null,
+      "label": "8 weeks (1000 mcg/day)",
+      "quantity_text": "2 vials",
+      "quantity": 2.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "1 vial reconstitution",
+      "quantity_text": "3 mL (also: 1 × 10 mL)",
+      "quantity": 3.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "2 vials reconstitution",
+      "quantity_text": "6 mL (also: 1 × 10 mL)",
+      "quantity": 6.0,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "The Lancet",
+      "description": "Efficacy and safety of nerinetide for acute ischaemic stroke (ESCAPE-NA1): Phase 3 RCT of PSD-95 inhibitor peptide",
+      "url": "https://pure.johnshopkins.edu/en/publications/efficacy-and-safety-of-nerinetide-for-the-treatment-of-acute-isch/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Scientific Reports (Nature)",
+      "description": "Neuroprotective pentapeptide CN-105 reduces sterile inflammation and improves outcomes in TBI murine model",
+      "url": "https://www.nature.com/articles/srep46461",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Drugs (Springer/PubMed)",
+      "description": "Efficacy and safety of sovateltide in acute cerebral ischaemic stroke: Phase III clinical trial",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39542995/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Nutrients (PMC)",
+      "description": "Neuropsychological performance after extended N-Pep-12 supplementation in ischemic stroke (12-month study)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11506754/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "GenScript",
+      "description": "Peptide storage and handling guidelines: stability, reconstitution, and freeze-thaw considerations",
+      "url": "https://www.genscript.com/peptide_storage_and_handling.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "NIBSC (UK MHRA)",
+      "description": "Peptide handling, dissolution, and storage guidelines from standards agency",
+      "url": "https://nibsc.org/science_and_research/virology/cjd_resource_centre/available_samples/peptide_library/peptide_storage.aspx",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "Biochimica et Biophysica Acta (ScienceDirect)",
+      "description": "Advances in clinical studies of peptide drugs in stroke disease: mechanisms and progress",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0925443925003187",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "Stroke (AHA Journals)",
+      "description": "Factors influencing nerinetide effect on infarct volume in stroke patients",
+      "url": "https://www.ahajournals.org/doi/10.1161/STROKEAHA.124.048601",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "PubMed",
+      "description": "Phase 1 randomized, double-blind, placebo-controlled study of CN-105 safety and pharmacokinetics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27990643/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "CDC",
+      "description": "Vaccine administration: subcutaneous injection technique (angle, site, no aspiration)",
+      "url": "https://www.cdc.gov/vaccines/hcp/admin/downloads/YCTS-VaxAdmin-Subcut-injection.pdf",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "CDC",
+      "description": "Vaccine administration during vaccination: subcutaneous injection guidance",
+      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-12",
+      "citation": "Advances in Therapy (PMC)",
+      "description": "Subcutaneous injection of drugs: factors influencing pain sensation at injection site",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822791/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "05fa04d429167275"
+}

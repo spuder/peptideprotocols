@@ -1,0 +1,170 @@
+{
+  "source_url": "https://peptidedosages.com/single-peptide-dosages/cjc-1295-dac-5-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:45:11+00:00",
+  "peptide": "CJC-1295 DAC",
+  "vial_size_text": "5 mg Vial",
+  "vial_size_mg": 5.0,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": null,
+    "concentration_mg_ml": null,
+    "steps": [
+      "Draw 2.0 mL bacteriostatic water with a sterile syringe.",
+      "Inject slowly down the vial wall; avoid foaming.",
+      "Gently swirl/roll until dissolved (do not shake).",
+      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "Standard / Gradual Approach",
+      "heading_raw": "Standard / Gradual Approach (2 mL = 2500 mcg/mL)",
+      "frequency": "Frequency: Inject twice weekly subcutaneously (e.g., Monday/Thursday or Tuesday/Friday). The extended 6–8-day half-life from the DAC modification supports less frequent dosing compared to non-DAC GHRH analogs [1] [2] . Once-weekly dosing is also studied; adjust frequency based on protocol requirements.",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2",
+          "dose_text": "300 mcg (0.3 mg)",
+          "dose_mg": 300.0,
+          "units_text": "12 units (0.12 mL)",
+          "units": 12.0,
+          "ml": 0.12
+        },
+        {
+          "week_phase": "Weeks 3–4",
+          "dose_text": "500 mcg (0.5 mg)",
+          "dose_mg": 500.0,
+          "units_text": "20 units (0.20 mL)",
+          "units": 20.0,
+          "ml": 0.2
+        },
+        {
+          "week_phase": "Weeks 5–6",
+          "dose_text": "750 mcg (0.75 mg)",
+          "dose_mg": 750.0,
+          "units_text": "30 units (0.30 mL)",
+          "units": 30.0,
+          "ml": 0.3
+        },
+        {
+          "week_phase": "Weeks 7–12",
+          "dose_text": "1000 mcg (1 mg)",
+          "dose_mg": 1000.0,
+          "units_text": "40 units (0.40 mL)",
+          "units": 40.0,
+          "ml": 0.4
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "Peptide Vials (CJC-1295 DAC, 5 mg each):",
+      "schedule": null,
+      "label": "8 weeks ≈",
+      "quantity_text": "3 vials",
+      "quantity": 3.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (CJC-1295 DAC, 5 mg each):",
+      "schedule": null,
+      "label": "12 weeks ≈",
+      "quantity_text": "4 vials",
+      "quantity": 4.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (CJC-1295 DAC, 5 mg each):",
+      "schedule": null,
+      "label": "16 weeks ≈",
+      "quantity_text": "6 vials",
+      "quantity": 6.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "8 weeks (3 vials)",
+      "quantity_text": "6 mL (also: 1 × 10 mL)",
+      "quantity": 6.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "12 weeks (4 vials)",
+      "quantity_text": "8 mL (also: 1 × 10 mL)",
+      "quantity": 8.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "16 weeks (6 vials)",
+      "quantity_text": "12 mL (also: 2 × 10 mL)",
+      "quantity": 12.0,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "J Clin Endocrinol Metab (2006)",
+      "description": "Teichman SL et al. Prolonged stimulation of GH and IGF-1 by CJC-1295 in healthy adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "J Clin Endocrinol Metab (2006)",
+      "description": "Ionescu M et al. Pulsatile GH secretion persists during continuous CJC-1295 stimulation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17018654/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "StatPearls (NCBI Bookshelf)",
+      "description": "Brinkman JE et al. Physiology, Growth Hormone",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK482141/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "CDC Pink Book (Chapter 6)",
+      "description": "Vaccine administration: subcutaneous route (angle/site; no aspiration)",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-6-vaccine-administration.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "Johns Hopkins Arthritis Center",
+      "description": "How to give a subcutaneous injection (patient guidance)",
+      "url": "https://www.hopkinsarthritis.org/patient-corner/how-to-give-a-subcutaneous-injection/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "StatPearls (NCBI Bookshelf)",
+      "description": "Regular Insulin: subcutaneous administration and site rotation",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK553094/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "Immunize Canada",
+      "description": "How to Vaccinate: Best Practices (subcutaneous injection technique)",
+      "url": "https://www.immunize.ca/sites/default/files/Immunize%20Canada_How%20to%20Vaccinate%20Booklet_2022_ENG.pdf",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "Postgrad Med J (2006)",
+      "description": "Ayuk J, Sheppard MC. Growth hormone and its disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16461469/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "3aff031782cfe543"
+}

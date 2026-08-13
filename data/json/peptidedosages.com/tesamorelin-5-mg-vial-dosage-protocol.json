@@ -1,0 +1,169 @@
+{
+  "source_url": "https://peptidedosages.com/single-peptide-dosages/tesamorelin-5-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:50:04+00:00",
+  "peptide": "Tesamorelin",
+  "vial_size_text": "5 mg Vial",
+  "vial_size_mg": 5.0,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": 2.5,
+    "concentration_mg_ml": 2.0,
+    "steps": [
+      "Draw 2.5 mL bacteriostatic water with a sterile syringe.",
+      "Inject slowly down the vial wall; avoid foaming.",
+      "Gently swirl until dissolved (do not shake).",
+      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light.",
+      "Use within 7 days when reconstituted with bacteriostatic water [1] ."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "Standard FDA-Approved Protocol",
+      "heading_raw": "Standard FDA-Approved Protocol (2.5 mL = 2.0 mg/mL)",
+      "frequency": "Frequency: Inject once daily subcutaneously, preferably in the evening to coincide with nocturnal GH release [5] [6] . The 2 mg daily dose is the standard FDA-approved regimen for HIV lipodystrophy [7] [8] . A one-week titration at 1 mg may improve tolerability before advancing to the full 2 mg dose.",
+      "rows": [
+        {
+          "week_phase": "Week 1",
+          "dose_text": "1 mg / 1000 mcg",
+          "dose_mg": 1.0,
+          "units_text": "50 units (0.50 mL)",
+          "units": 50.0,
+          "ml": 0.5
+        },
+        {
+          "week_phase": "Weeks 2–12+",
+          "dose_text": "2 mg / 2000 mcg",
+          "dose_mg": 2.0,
+          "units_text": "100 units (1.00 mL)",
+          "units": 100.0,
+          "ml": 1.0
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "Peptide Vials (Tesamorelin, 5 mg each):",
+      "schedule": null,
+      "label": "8 weeks ≈",
+      "quantity_text": "23 vials",
+      "quantity": 23.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (Tesamorelin, 5 mg each):",
+      "schedule": null,
+      "label": "12 weeks ≈",
+      "quantity_text": "34 vials",
+      "quantity": 34.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (Tesamorelin, 5 mg each):",
+      "schedule": null,
+      "label": "16 weeks ≈",
+      "quantity_text": "45 vials",
+      "quantity": 45.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "8 weeks (23 vials)",
+      "quantity_text": "57.5 mL (also: 6 × 10 mL)",
+      "quantity": 57.5,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "12 weeks (34 vials)",
+      "quantity_text": "85 mL (also: 9 × 10 mL)",
+      "quantity": 85.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "16 weeks (45 vials)",
+      "quantity_text": "112.5 mL (also: 12 × 10 mL)",
+      "quantity": 112.5,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Tesamorelin – LiverTox: Clinical and Research Information on Drug-Induced Liver Injury",
+      "description": "National Institutes of Health, NIDDK (2018)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548730/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Tesamorelin (Subcutaneous route) – Drug Information",
+      "description": "Mayo Clinic / IBM Merative (2025)",
+      "url": "https://www.mayoclinic.org/drugs-supplements/tesamorelin-subcutaneous-route/description/drg-20074632",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Effects of tesamorelin (TH9507), a growth hormone–releasing factor analog, in HIV-infected patients with excess abdominal fat: a pooled analysis of two phase 3 trials",
+      "description": "J. Clin. Endocrinol. Metab. (2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20554713/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Safety and metabolic effects of tesamorelin in patients with type 2 diabetes: A randomized, placebo-controlled trial",
+      "description": "PLoS ONE (2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28617838/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "Tesamorelin can improve cognitive function (Research Highlight)",
+      "description": "Nature Reviews Endocrinology (2012)",
+      "url": "https://www.nature.com/articles/nrendo.2012.151",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "Tesamorelin Injection – MedlinePlus Drug Information",
+      "description": "MedlinePlus (U.S. National Library of Medicine) (2025)",
+      "url": "https://medlineplus.gov/druginfo/meds/a611035.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "EGRIFTA SV (tesamorelin) – Full Prescribing Information",
+      "description": "Theratechnologies, Inc. (FDA Label) (2024)",
+      "url": null,
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "Tesamorelin: Uses, Dosage, Side Effects, Warnings",
+      "description": "Drugs.com (AHFS Monograph & Patient Info) (2025)",
+      "url": "https://www.drugs.com/tesamorelin.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "Tesamorelin – LiverTox (Safety Profile)",
+      "description": "NIH NIDDK LiverTox Database (2018)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548730/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "Administration of Parenteral Medications – Nursing Skills (Open RN Textbook)",
+      "description": "Open RN, Chippewa Valley Technical College (2023)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK596739/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "5b69126ceeb3c7d6"
+}

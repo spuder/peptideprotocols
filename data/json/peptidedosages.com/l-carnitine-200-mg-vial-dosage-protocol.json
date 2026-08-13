@@ -1,0 +1,184 @@
+{
+  "source_url": "https://peptidedosages.com/single-peptide-dosages/l-carnitine-200-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:46:53+00:00",
+  "peptide": "L-Carnitine",
+  "vial_size_text": "200 mg Vial",
+  "vial_size_mg": 200.0,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": 2.0,
+    "concentration_mg_ml": 100.0,
+    "steps": [
+      "Draw 2.0 mL bacteriostatic water (0.9% benzyl alcohol) with a sterile syringe.",
+      "Inject slowly down the vial wall to minimize foaming; avoid direct stream onto powder.",
+      "Gently swirl or roll the vial until powder is fully dissolved (do not shake vigorously).",
+      "Label vial with reconstitution date and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light.",
+      "Use within 2–4 weeks ; bacteriostatic water preservative inhibits microbial growth during multi-dose use [6] ."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "Standard / Gradual Approach",
+      "heading_raw": "Standard / Gradual Approach (2.0 mL = 100 mg/mL)",
+      "frequency": "Frequency: Inject once daily subcutaneously. This 2.0 mL reconstitution provides optimal concentration for convenient dosing: 100 mg maintenance dose = exactly 1.0 mL (100 units) [8] . For advanced protocols requiring 150–200 mg daily, doses above 1.0 mL may be split into two injections at different sites to improve comfort.",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2",
+          "dose_text": "50 mg",
+          "dose_mg": 50.0,
+          "units_text": "50 units (0.50 mL)",
+          "units": 50.0,
+          "ml": 0.5
+        },
+        {
+          "week_phase": "Weeks 3–8",
+          "dose_text": "100 mg",
+          "dose_mg": 100.0,
+          "units_text": "100 units (1.0 mL)",
+          "units": 100.0,
+          "ml": 1.0
+        },
+        {
+          "week_phase": "Weeks 9–12",
+          "dose_text": "100 mg",
+          "dose_mg": 100.0,
+          "units_text": "100 units (1.0 mL)",
+          "units": 100.0,
+          "ml": 1.0
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "Peptide Vials (L-Carnitine, 200 mg each):",
+      "schedule": null,
+      "label": "8 weeks (56 days @ 100 mg/day) ≈",
+      "quantity_text": "28 vials",
+      "quantity": 28.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (L-Carnitine, 200 mg each):",
+      "schedule": null,
+      "label": "12 weeks (84 days @ 100 mg/day) ≈",
+      "quantity_text": "42 vials",
+      "quantity": 42.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (L-Carnitine, 200 mg each):",
+      "schedule": null,
+      "label": "16 weeks (112 days @ 100 mg/day) ≈",
+      "quantity_text": "56 vials",
+      "quantity": 56.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "8 weeks (28 vials)",
+      "quantity_text": "56 mL (also: 6 × 10 mL)",
+      "quantity": 56.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "12 weeks (42 vials)",
+      "quantity_text": "84 mL (also: 9 × 10 mL)",
+      "quantity": 84.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "16 weeks (56 vials)",
+      "quantity_text": "112 mL (also: 12 × 10 mL)",
+      "quantity": 112.0,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Journal of the International Society of Sports Nutrition (2020)",
+      "description": "Sawicka AK et al. The bright and the dark sides of L-carnitine supplementation: a systematic review (dose ranges, mechanisms, and metabolic effects)",
+      "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-020-00377-2",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Clinical Nutrition ESPEN (2020)",
+      "description": "Talenezhad N et al. Meta-analysis of 37 RCTs: L-carnitine supplementation yields ~1.2 kg weight loss at ~2,000 mg/day oral dosing with diminishing returns above that dose (PMID: 32359762)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32359762/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Clinical Pharmacokinetics (2003)",
+      "description": "Evans AM & Fornasini G. Pharmacokinetics of L-carnitine: oral bioavailability only 5–18% at high doses (1–6 g) vs. much higher absorption from IV/parenteral routes (PMID: 12908852)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12908852/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Molecular Nutrition & Food Research (2018)",
+      "description": "Zhao Y et al. Subcutaneous L-carnitine bypasses gut bacterial TMAO production and does not promote atherosclerosis in ApoE−/− mice, unlike oral dosing (PMID: 29178259)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29178259/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "American Journal of Kidney Diseases (2001)",
+      "description": "Brass EP et al. IV L-carnitine (10–40 mg/kg after dialysis, 3×/week for 24 weeks) increased plasma carnitine, reduced fatigue, preserved exercise capacity in hemodialysis patients with excellent safety profile (PMID: 11325685)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11325685/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "Advances in Therapy (2019)",
+      "description": "Usach I et al. Subcutaneous injection review: volumes <0.8 mL minimize pain; room-temperature solutions, benzyl alcohol (vs. m-cresol) reduce pain; abdomen preferred site (PMID: 31529256)",
+      "url": "https://link.springer.com/article/10.1007/s12325-019-01101-6",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "Drugs.com (2024)",
+      "description": "Levocarnitine (Carnitor) dosing: 50 mg/kg IV daily for metabolic disorders; 10–20 mg/kg IV after dialysis for ESRD; doses up to 300 mg/kg/day used safely (medically reviewed Apr 23, 2024)",
+      "url": "https://www.drugs.com/dosage/levocarnitine.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "NIH Office of Dietary Supplements (2022)",
+      "description": "Carnitine Health Professional Fact Sheet: high oral doses (>3 g/day) cause fishy odor, nausea; unabsorbed carnitine → gut bacterial TMAO production (potential CV risk)",
+      "url": "https://ods.od.nih.gov/factsheets/Carnitine-HealthProfessional/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "CDC Vaccine Administration Guidelines",
+      "description": "Best practices during vaccination: subcutaneous injection angle (45–90°), site selection, no aspiration needed, rotation to prevent lipohypertrophy",
+      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-12",
+      "citation": "NCBI Bookshelf",
+      "description": "Clinical Procedures: Best Practices in Injection Administration (aseptic technique, preparation, sharps disposal)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-13",
+      "citation": "SB Peptide",
+      "description": "Peptide Handling & Storage Guidelines: lyophilized peptides stable for months–years at −20 °C; reconstituted solutions stable 1–2 weeks at 4 °C, longer if frozen in aliquots; avoid freeze–thaw cycles",
+      "url": "https://www.sb-peptide.com/support/handling-storage/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "905faff75aa3e656"
+}

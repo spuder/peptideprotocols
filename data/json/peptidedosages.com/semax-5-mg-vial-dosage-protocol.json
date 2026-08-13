@@ -1,0 +1,101 @@
+{
+  "source_url": "https://peptidedosages.com/single-peptide-dosages/semax-5-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:49:09+00:00",
+  "peptide": "Semax Dosage",
+  "vial_size_text": "5 mg Vial",
+  "vial_size_mg": 5.0,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": null,
+    "concentration_mg_ml": null,
+    "steps": [
+      "Confirm the 5 mg vial, selected sterile research vehicle, actuator bottle capacity, and documented pump output.",
+      "Add 3.0 mL of compatible sterile vehicle to the vial with aseptic transfer technique.",
+      "Gently swirl until the contents are dissolved. Do not shake.",
+      "Transfer the complete 3.0 mL solution into a sterile 5 mL or 10 mL nasal actuator bottle.",
+      "Add enough vehicle to reach a measured final volume of exactly 5.0 mL or 10.0 mL . The theoretical additions are approximately 2.0 mL and 7.0 mL.",
+      "Secure the pump and label the bottle with the peptide amount, final volume, concentration, pump output, and preparation date.",
+      "Prime the pump according to the actuator instructions and record the priming sprays in the research log."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "Semax 5 mg Nasal Spray Calculations",
+      "heading_raw": "Semax 5 mg Nasal Spray Calculations",
+      "frequency": "",
+      "rows": [
+        {
+          "week_phase": "5.0 mL",
+          "dose_text": "About 2.0 mL",
+          "dose_mg": 2.0,
+          "units_text": "1,000 mcg/mL",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "10.0 mL",
+          "dose_text": "About 7.0 mL",
+          "dose_mg": 7.0,
+          "units_text": "500 mcg/mL",
+          "units": null,
+          "ml": null
+        }
+      ]
+    }
+  ],
+  "supplies": [],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Kaplan et al. (1996)",
+      "description": "Synthetic ACTH analogue Semax displays nootropic-like activity in humans. Reports intranasal healthy-volunteer experiments, including physiological solution context.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291520-6769%28199609%2919%3A2%3C115%3A%3AAID-NRC171%3E3.0.CO%3B2-B",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Lebedeva et al. (2018)",
+      "description": "Effects of Semax on the default mode network of the brain. Healthy-volunteer fMRI study using a single 1.2 mg intranasal exposure.",
+      "url": "https://doi.org/10.1007/s10517-018-4234-3",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Gusev et al. (2018)",
+      "description": "Efficacy of Semax in patients at different stages of ischemic stroke. Reports 6,000 mcg per day in two 10-day courses separated by 20 days.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29798983/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Official Semax 0.1% Instructions",
+      "description": "Registered intranasal drop formulation, composition, amount per drop, administration details, and storage conditions.",
+      "url": "https://semax.ru/upload/iblock/867/867fc8166acadfb577dc956d855999a3.pdf",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "Trows et al. (2014)",
+      "description": "Analytical challenges and regulatory requirements for nasal drug products in Europe and the United States. Reviews pump output and device variables.",
+      "url": "https://doi.org/10.3390/pharmaceutics6020195",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "U.S. Food and Drug Administration",
+      "description": "Nasal Spray and Inhalation Solution, Suspension, and Spray Drug Products. CMC guidance covering pump delivery, priming, dose uniformity, and product performance.",
+      "url": "https://www.fda.gov/media/70857/download",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "Deigin et al. (2022)",
+      "description": "Development of peptide biopharmaceuticals in Russia. Academic review of Semax development, formulation, and research context.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030433/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "3112af264a44ea9e"
+}

@@ -1,8 +1,8 @@
 # Peptide Protocol Archive
 
 Scrapes key metrics (not full pages) from peptide dosage-protocol pages and
-stores them as JSON (canonical), CSV (tidy/analyzable), and Markdown
-(human-readable, Obsidian-friendly). Built to be re-run on a schedule so you
+stores them as JSON (canonical) and Markdown (human-readable,
+Obsidian-friendly). Built to be re-run on a schedule so you
 get a **version history via git commits** — every re-scrape that changes
 something shows up as a diff.
 
@@ -23,13 +23,11 @@ Per page:
 pip install -r requirements.txt
 python -m scraper.core                # scrape everything in sources.yaml
 python -m scraper.core --only bpc-157 # scrape only sources matching this substring
-python -m scraper.core --rebuild-only # skip fetching; just rebuild CSV/MD from data/json/
+python -m scraper.core --rebuild-only # skip fetching; just rebuild MD from data/json/
 ```
 
 Outputs:
 - `data/json/<domain>/<slug>.json` — canonical structured snapshot (source of truth)
-- `data/csv/{protocols,supplies,references,reconstitution}.csv` — rebuilt
-  from **all** json files every run, so these always reflect everything archived
 - `markdown/<slug>.md` — one file per page, safe to symlink/copy into an Obsidian vault
 
 ## Adding a source
@@ -54,7 +52,7 @@ Different sites will have different HTML. Add a new adapter:
    `parse(url, html) -> PageRecord`.
 3. Register it in the `ADAPTERS` list near the top of `scraper/core.py`.
 
-Everything downstream (JSON/CSV/Markdown writers) works off the shared
+Everything downstream (JSON/Markdown writers) works off the shared
 `PageRecord` shape in `scraper/models.py`, so new sites don't need changes
 anywhere else.
 
@@ -72,16 +70,42 @@ script — an n8n Cron node calling `python -m scraper.core` in a container
 (or an Execute Command node over Tailscale) works identically; there's
 nothing CI-specific in the scraper itself.
 
-Either way you get free versioning: `git log -p data/csv/protocols.csv`
+Either way you get free versioning: `git log -p data/json/peptidedosages.com/`
 shows you exactly when and how a site changed a dosing table.
 
-## Feeding this into a webpage later
+## Website
 
-`data/csv/*.csv` and `data/json/**/*.json` are the stable interface — an
-Astro site (or anything else) can read them at build time without touching
-the scraper. The JSON is one file per page if you want per-peptide detail
-pages; the CSVs are pre-flattened if you want a searchable/sortable table
-across everything archived.
+`site/` is an [Astro](https://astro.build) static site that renders
+`markdown/*.md` with a styled layout — one page per protocol plus an index,
+grouped by peptide. It reads the markdown directly via Astro's content-layer
+`glob()` loader (see `site/src/content.config.ts`), so it never touches the
+scraper and always reflects whatever is currently archived.
+
+```bash
+cd site
+npm install
+npm run dev       # http://localhost:4321
+npm run build     # outputs static HTML to site/dist/
+```
+
+### Deploying to Cloudflare Pages
+
+**Git integration (recommended)** — auto-deploys on every push:
+1. Push this repo to GitHub/GitLab.
+2. Cloudflare dashboard → **Workers & Pages** → **Create** → **Pages** →
+   **Connect to Git** → select this repo.
+3. Build settings: **Root directory** `site`, **Build command**
+   `npm run build`, **Build output directory** `dist`.
+
+**Direct upload** (no git required):
+```bash
+cd site
+npm run build
+npx wrangler pages deploy dist --project-name=peptide-protocol-archive
+```
+
+`data/json/**/*.json` remains the stable interface too — useful if you want
+to build something other than the Astro site off the raw data.
 
 ## Politeness / etiquette notes
 

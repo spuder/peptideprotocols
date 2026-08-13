@@ -1,0 +1,167 @@
+{
+  "source_url": "https://peptidedosages.com/single-peptide-dosages/hmg-75-iu-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:46:27+00:00",
+  "peptide": "HMG",
+  "vial_size_text": "0.15 mg / 75 IU Vial",
+  "vial_size_mg": 0.15,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": null,
+    "concentration_mg_ml": null,
+    "steps": [
+      "Draw 3.0 mL bacteriostatic water with a sterile 3 mL syringe.",
+      "Inject slowly down the vial wall to avoid foaming.",
+      "Gently swirl or roll the vial until fully dissolved (do not shake).",
+      "Label with date and time; refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light.",
+      "For optimal potency, use reconstituted solution promptly or within a few days [9] ."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "Male Fertility Protocol",
+      "heading_raw": "Male Fertility Protocol (3 mL = 25 IU/mL)",
+      "frequency": "Frequency: Inject three times per week subcutaneously (for example, Monday, Wednesday, and Friday) [3] [4] . HMG therapy is typically combined with hCG injections to maximize testosterone production and spermatogenesis [5] [6] .",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–12",
+          "dose_text": "75 IU (0.15 mg)",
+          "dose_mg": 75.0,
+          "units_text": "3.0 mL (300 units)",
+          "units": 300.0,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 13–16 (optional extension)",
+          "dose_text": "75 IU (0.15 mg)",
+          "dose_mg": 75.0,
+          "units_text": "3.0 mL (300 units)",
+          "units": 300.0,
+          "ml": null
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "Peptide Vials (HMG, 75 IU / 0.15 mg each):",
+      "schedule": null,
+      "label": "12 weeks ≈",
+      "quantity_text": "36 vials",
+      "quantity": 36.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (HMG, 75 IU / 0.15 mg each):",
+      "schedule": null,
+      "label": "16 weeks ≈",
+      "quantity_text": "48 vials",
+      "quantity": 48.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic Water (30 mL bottles):",
+      "schedule": null,
+      "label": "12 weeks (36 vials)",
+      "quantity_text": "108 mL (also: 4 × 30 mL)",
+      "quantity": 108.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (30 mL bottles):",
+      "schedule": null,
+      "label": "16 weeks (48 vials)",
+      "quantity_text": "144 mL (also: 5 × 30 mL)",
+      "quantity": 144.0,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Metrovan Urology – hMG (Menotropin) Overview",
+      "description": "hMG composition: 1:1 blend of FSH and LH derived from postmenopausal urine; standard preparations provide 75 IU FSH + 75 IU LH per vial",
+      "url": "https://www.metrovanurology.com/hormones-and-male-infertility",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Menopur® (Menotropins) Product Monograph",
+      "description": "Human menopausal gonadotropin for subcutaneous administration; each vial contains 75 IU FSH + 75 IU LH activity",
+      "url": "https://pdf.hres.ca/dpd_pm/00061244.PDF",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "ASRM Practice Committee 2020 – Gonadotropin Use for Ovulation Induction",
+      "description": "Clinical guidance on gonadotropin therapy; low-dose protocols (37.5–75 IU) with careful monitoring",
+      "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/use-of-exogenous-gonadotropins-for-ovulation-induction-in-anovulatory-women-a-committee-opinion-2020/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "ASRM Patient Fact Sheet – Medications for Inducing Ovulation",
+      "description": "Typical gonadotropin protocols: 75–150 IU injected daily for approximately 7–12 days; course may extend if ovaries respond slowly",
+      "url": "https://www.reproductivefacts.org/news-and-publications/fact-sheets-and-infographics/medications-for-inducing-ovulation/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "Metrovan Urology – Hormones and Male Infertility Treatment",
+      "description": "In hypogonadal men, hMG added at 75–150 IU three times weekly if hCG alone insufficient for spermatogenesis",
+      "url": "https://www.metrovanurology.com/hormones-and-male-infertility",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "Metrovan Urology – Combined hCG and hMG Therapy",
+      "description": "hCG given 2–3 times weekly stimulates testosterone; hMG provides FSH activity to stimulate sperm production when FSH deficient",
+      "url": "https://www.metrovanurology.com/hormones-and-male-infertility",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "International Journal of Reproductive BioMedicine (Iran JRM, 2014)",
+      "description": "Randomized trial: HMG 75 IU subcutaneously three times weekly for 3 months significantly improved sperm motility and morphology; pregnancy rate 57% vs. control",
+      "url": null,
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "Menopur® Monograph – Administration and Reconstitution",
+      "description": "Subcutaneous administration for follicular stimulation; each 75 IU vial typically reconstituted in 1 mL diluent for 75 IU/mL concentration",
+      "url": "https://pdf.hres.ca/dpd_pm/00061244.PDF",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "Menopur® Monograph – Stability and Storage",
+      "description": "Lyophilized menotropin stable at room temperature (15–25 °C) away from light; reconstituted solution should be used immediately to ensure potency and sterility",
+      "url": "https://pdf.hres.ca/dpd_pm/00061244.PDF",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "MedlinePlus – Subcutaneous Injection Instructions",
+      "description": "Use short, thin needle for SC injections; insert at 90° angle into pinched fatty tissue (45° if limited subcutaneous fat); do not reuse needles",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000430.htm",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "MedlinePlus – Injection Site Rotation",
+      "description": "Maintain skin health by alternating injection sites at least one inch apart; avoid areas with irritation, scars, or bruises",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000430.htm",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-12",
+      "citation": "Reproductive Medicine and Biology (2018) – Gonadotropin Therapy for Male Infertility",
+      "description": "Review of hCG and hMG combination therapy for hypogonadotropic hypogonadism; FSH supplementation critical for spermatogenesis when hCG monotherapy inadequate",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6105660/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "4698fc4d5d78e078"
+}

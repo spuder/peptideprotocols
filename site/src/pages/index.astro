@@ -1,0 +1,198 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import { parseProtocolMeta } from "../lib/meta";
+import { quickSupplyBadge, vialLifespanWeeks, formatVialLifespan } from "../lib/supplies";
+
+const entries = await getCollection("protocols");
+const supplyEntries = await getCollection("supplies");
+const supplyById = new Map(supplyEntries.map((e) => [e.id, e]));
+
+const protocols = entries
+	.map((entry) => {
+		const supplyLines = supplyById.get(entry.id)?.data.supplies ?? [];
+		return {
+			id: entry.id,
+			...parseProtocolMeta(entry.body ?? "", entry.id),
+			badge: quickSupplyBadge(supplyLines),
+			lifespan: formatVialLifespan(vialLifespanWeeks(supplyLines)),
+		};
+	})
+	.sort((a, b) => a.title.localeCompare(b.title));
+
+// Group by peptide name so multiple vial sizes of the same peptide sit
+// together, smallest vial first (50 mg left of 100 mg, not alphabetical).
+const groups = new Map<string, typeof protocols>();
+for (const p of protocols) {
+	const key = p.peptide ?? p.title;
+	if (!groups.has(key)) groups.set(key, []);
+	groups.get(key)!.push(p);
+}
+for (const items of groups.values()) {
+	items.sort((a, b) => (a.vialSizeMg ?? Infinity) - (b.vialSizeMg ?? Infinity));
+}
+---
+
+<Layout title="Archive" description="Archived peptide dosage & reconstitution protocols, updated and versioned automatically.">
+	<h1 class="page-title">Peptide Protocol Archive</h1>
+
+	<div class="research-warning" role="alert">
+		<span class="warning-icon" aria-hidden="true">⚠️</span>
+		<p><strong>For research purposes only.</strong> This data is archived automatically from third-party sources and may be inaccurate or out of date. Not for human use.</p>
+	</div>
+
+	<div class="search-wrap">
+		<input
+			type="search"
+			id="protocol-search"
+			class="search-input"
+			placeholder="Search peptides…"
+			aria-label="Search protocols"
+			autocomplete="off"
+		/>
+	</div>
+	<p id="no-results" class="no-results" hidden>No protocols match your search.</p>
+
+	<div class="groups" id="protocol-groups">
+		{[...groups.entries()].map(([peptide, items]) => (
+			<section class="group" data-group-search={peptide.toLowerCase()}>
+				<h2>{peptide}</h2>
+				<ul class="card-list">
+					{items.map((p) => (
+						<li data-card-search={`${p.peptide} ${p.vialSize} ${p.title}`.toLowerCase()}>
+							<a class="card" href={`/${p.id}/`}>
+								<span class="card-title">{p.amountLabel ?? p.title}</span>
+								{p.lifespan && <span class="card-lifespan">{p.lifespan}</span>}
+								{(p.badge.peptide || p.badge.water) && (
+									<span class="card-badges">
+										{p.badge.peptide && <span class="badge">🧪 {p.badge.peptide.replace(/\s*vials?\b/i, "")}</span>}
+										{p.badge.water && <span class="badge">💧 {p.badge.water}</span>}
+									</span>
+								)}
+							</a>
+						</li>
+					))}
+				</ul>
+			</section>
+		))}
+	</div>
+</Layout>
+
+<script>
+	const input = document.getElementById("protocol-search") as HTMLInputElement | null;
+	const groupsEl = document.getElementById("protocol-groups");
+	const noResults = document.getElementById("no-results");
+	if (input && groupsEl && noResults) {
+		const groupSections = Array.from(groupsEl.querySelectorAll<HTMLElement>("[data-group-search]"));
+		const filter = () => {
+			const query = input.value.trim().toLowerCase();
+			let visibleCount = 0;
+			for (const section of groupSections) {
+				const cards = Array.from(section.querySelectorAll<HTMLElement>("[data-card-search]"));
+				let groupHasMatch = false;
+				for (const card of cards) {
+					const match = !query || (card.dataset.cardSearch ?? "").includes(query);
+					card.hidden = !match;
+					if (match) groupHasMatch = true;
+				}
+				section.hidden = !groupHasMatch;
+				if (groupHasMatch) visibleCount++;
+			}
+			noResults.hidden = visibleCount > 0;
+		};
+		input.addEventListener("input", filter);
+		filter();
+	}
+</script>
+
+<style>
+	.page-title {
+		font-family: var(--font-serif);
+		font-size: 2.1rem;
+		margin: 0 0 1.25rem;
+		letter-spacing: -0.01em;
+	}
+	.research-warning {
+		display: flex;
+		align-items: flex-start;
+		gap: 0.65rem;
+		background: var(--warn-bg);
+		border: 1px solid var(--warn-border);
+		border-radius: 10px;
+		padding: 0.85rem 1rem;
+		margin: 0 0 1.5rem;
+	}
+	.warning-icon { font-size: 1.1rem; line-height: 1.4; }
+	.research-warning p {
+		margin: 0;
+		font-size: 0.88rem;
+		line-height: 1.5;
+		color: var(--warn-text);
+	}
+	.research-warning strong { font-weight: 700; }
+	.search-wrap { margin: 0 0 0.75rem; }
+	.search-input {
+		width: 100%;
+		font: inherit;
+		font-size: 0.95rem;
+		padding: 0.65rem 0.9rem;
+		border: 1px solid var(--border);
+		border-radius: 10px;
+		background: var(--bg-elevated);
+		color: var(--text);
+		box-shadow: var(--shadow);
+	}
+	.search-input:focus {
+		outline: none;
+		border-color: var(--gold);
+		box-shadow: 0 0 0 3px var(--gold-soft);
+	}
+	.search-input::placeholder { color: var(--text-muted); }
+	.no-results {
+		color: var(--text-muted);
+		font-size: 0.9rem;
+		margin: 0 0 1.5rem;
+	}
+	.groups { display: flex; flex-direction: column; gap: 2rem; margin-top: 2rem; }
+	.group h2 {
+		font-family: var(--font-serif);
+		font-size: 1.1rem;
+		margin: 0 0 0.75rem;
+		color: var(--blue);
+	}
+	.card-list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+		gap: 0.75rem;
+	}
+	.card {
+		display: flex;
+		flex-direction: column;
+		gap: 0.4rem;
+		padding: 1rem 1.1rem;
+		background: var(--bg-elevated);
+		border: 1px solid var(--border);
+		border-top: 3px solid var(--blue);
+		border-radius: var(--radius);
+		text-decoration: none;
+		color: var(--text);
+		box-shadow: var(--shadow);
+		transition: transform 0.12s ease, border-color 0.12s ease;
+	}
+	.card:hover { transform: translateY(-1px); border-color: var(--gold); }
+	.card-title { font-weight: 600; }
+	.card-lifespan { font-size: 0.82rem; color: var(--blue); font-weight: 600; }
+	.card-badges { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+	.badge {
+		font-size: 0.78rem;
+		font-weight: 600;
+		background: var(--gold-soft);
+		color: var(--text);
+		padding: 0.15rem 0.5rem;
+		border-radius: 999px;
+		white-space: nowrap;
+	}
+</style>

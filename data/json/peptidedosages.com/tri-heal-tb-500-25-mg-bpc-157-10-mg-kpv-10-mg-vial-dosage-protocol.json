@@ -1,0 +1,312 @@
+{
+  "source_url": "https://peptidedosages.com/peptide-blend-dosages/tri-heal-tb-500-25-mg-bpc-157-10-mg-kpv-10-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:51:29+00:00",
+  "peptide": "Tri-Heal (45 mg Blend) Dosage Protocol",
+  "vial_size_text": "",
+  "vial_size_mg": null,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": 3.0,
+    "concentration_mg_ml": 15.0,
+    "steps": []
+  },
+  "protocols": [
+    {
+      "name": "Standard 8-Week Protocol",
+      "heading_raw": "Standard 8-Week Protocol (3 mL = 15 mg/mL)",
+      "frequency": "Frequency: Inject once daily subcutaneously [6] . This schedule uses the largest practical dilution (3.0 mL) to optimize syringe accuracy across all dose levels.",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2",
+          "dose_text": "500 mcg",
+          "dose_mg": 500.0,
+          "units_text": "0.5 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 3–4",
+          "dose_text": "1000 mcg",
+          "dose_mg": 1000.0,
+          "units_text": "1.0 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 5–6",
+          "dose_text": "1500 mcg",
+          "dose_mg": 1500.0,
+          "units_text": "1.5 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 7–8",
+          "dose_text": "2000 mcg",
+          "dose_mg": 2000.0,
+          "units_text": "2.0 mg",
+          "units": null,
+          "ml": null
+        }
+      ]
+    },
+    {
+      "name": "Extended 12-Week Protocol",
+      "heading_raw": "Extended 12-Week Protocol (3 mL = 15 mg/mL)",
+      "frequency": "",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2",
+          "dose_text": "500 mcg",
+          "dose_mg": 500.0,
+          "units_text": "0.5 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 3–4",
+          "dose_text": "1000 mcg",
+          "dose_mg": 1000.0,
+          "units_text": "1.0 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 5–6",
+          "dose_text": "1500 mcg",
+          "dose_mg": 1500.0,
+          "units_text": "1.5 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 7–8",
+          "dose_text": "2000 mcg",
+          "dose_mg": 2000.0,
+          "units_text": "2.0 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 9–10",
+          "dose_text": "2500 mcg",
+          "dose_mg": 2500.0,
+          "units_text": "2.5 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 11–12",
+          "dose_text": "3000 mcg",
+          "dose_mg": 3000.0,
+          "units_text": "3.0 mg",
+          "units": null,
+          "ml": null
+        }
+      ]
+    },
+    {
+      "name": "Extended 16-Week Protocol",
+      "heading_raw": "Extended 16-Week Protocol (3 mL = 15 mg/mL)",
+      "frequency": "",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2",
+          "dose_text": "500 mcg",
+          "dose_mg": 500.0,
+          "units_text": "0.5 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 3–4",
+          "dose_text": "1000 mcg",
+          "dose_mg": 1000.0,
+          "units_text": "1.0 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 5–6",
+          "dose_text": "1500 mcg",
+          "dose_mg": 1500.0,
+          "units_text": "1.5 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 7–8",
+          "dose_text": "2000 mcg",
+          "dose_mg": 2000.0,
+          "units_text": "2.0 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 9–10",
+          "dose_text": "2500 mcg",
+          "dose_mg": 2500.0,
+          "units_text": "2.5 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 11–12",
+          "dose_text": "3000 mcg",
+          "dose_mg": 3000.0,
+          "units_text": "3.0 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 13–14",
+          "dose_text": "3500 mcg",
+          "dose_mg": 3500.0,
+          "units_text": "3.5 mg",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 15–16",
+          "dose_text": "4000 mcg",
+          "dose_mg": 4000.0,
+          "units_text": "4.0 mg",
+          "units": null,
+          "ml": null
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "Peptide Vials (Tri-Heal, 45 mg each):",
+      "schedule": null,
+      "label": "8 weeks (56 doses, ~70 mg total)",
+      "quantity_text": "2 vials",
+      "quantity": 2.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (Tri-Heal, 45 mg each):",
+      "schedule": null,
+      "label": "12 weeks (84 doses, ~147 mg total)",
+      "quantity_text": "4 vials",
+      "quantity": 4.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (Tri-Heal, 45 mg each):",
+      "schedule": null,
+      "label": "16 weeks (112 doses, ~252 mg total)",
+      "quantity_text": "6 vials",
+      "quantity": 6.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "8 weeks (2 vials)",
+      "quantity_text": "6 mL (also: 1 × 10 mL)",
+      "quantity": 6.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "12 weeks (4 vials)",
+      "quantity_text": "12 mL (also: 2 × 10 mL)",
+      "quantity": 12.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "16 weeks (6 vials)",
+      "quantity_text": "18 mL (also: 2 × 10 mL)",
+      "quantity": 18.0,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Pure Lab Peptides",
+      "description": "",
+      "url": "https://purelabpeptides.com/buy-peptides/buy-tri-heal-45mg/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Annals of the New York Academy of Sciences (2012)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23050815/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "HSS Journal / PMC (2025)",
+      "description": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12313605/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Molecular Therapy Methods & Clinical Development / PMC (2017)",
+      "description": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5498804/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "Clinical Chemistry (2016)",
+      "description": "",
+      "url": null,
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "CDC Pink Book (2024)",
+      "description": "",
+      "url": null,
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "Frontiers in Endocrinology (2021)",
+      "description": "",
+      "url": "https://www.frontiersin.org/articles/10.3389/fendo.2021.767785/full",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "Current Reviews in Musculoskeletal Medicine (2025)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40789979/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "Journal of Orthopaedic Research (2003)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14554208/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "CDC (Subcutaneous Injection PDF)",
+      "description": "",
+      "url": "https://www.cdc.gov/vaccines/hcp/admin/downloads/YCTS-VaxAdmin-Subcut-injection.pdf",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "NCBI Bookshelf",
+      "description": "",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "427187b54237426d"
+}

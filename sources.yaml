@@ -5,10 +5,121 @@
 # To add a NEW site with a different layout: write scraper/adapters/<site>.py
 # (can_handle + parse, same shape as peptidedosages.py) and register it in
 # ADAPTERS in scraper/core.py.
+#
+# Full list below was pulled from peptidedosages.com/page-sitemap.xml
+# (all *-dosage-protocol/ pages across single-peptide, blend, and stack).
 
 sources:
-  - url: https://peptidedosages.com/single-peptide-dosages/ghk-cu-50-mg-vial-dosage-protocol/
-  - url: https://peptidedosages.com/single-peptide-dosages/ghk-cu-100-mg-vial-dosage-protocol/
-  - url: https://peptidedosages.com/single-peptide-dosages/bpc-157-5-mg-vial-dosage-protocol/
+  # single-peptide-dosages
+  - url: https://peptidedosages.com/single-peptide-dosages/5-amino-1mq-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/5-amino-1mq-50-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/adamax-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/adipotide-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/aicar-50-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/aod-9604-2-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/aod-9604-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ara-290-16-mg-vial-dosage-protocol/
   - url: https://peptidedosages.com/single-peptide-dosages/bpc-157-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/bpc-157-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/cagrilintide-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/cagrilintide-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/cartalax-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/cerebrolysin-60-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/chonluten-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/cjc-1295-dac-2-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/cjc-1295-dac-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/cjc-1295-no-dac-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/cortagen-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/dsip-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/dsip-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/epitalon-epithalon-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/foxo4-dri-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ghk-cu-100-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ghk-cu-50-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ghrp-2-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ghrp-2-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ghrp-6-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ghrp-6-2-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ghrp-6-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/glutathione-600-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/gonadorelin-2-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/hcg-5000-iu-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/hgh-191aa-10-iu-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/hmg-75-iu-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/igf-1-lr3-1-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ipamorelin-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ipamorelin-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/kisspeptin-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/kpv-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/l-carnitine-200-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/livagen-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ll-37-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/mazdutide-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/mazdutide-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/melanotan-ii-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/mgf-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/mots-c-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/mots-c-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/mots-c-40-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/mots-c-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/nad-1000-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/nad-500-mg-10ml-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ovagen-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/oxytocin-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/oxytocin-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/pe-22-28-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/peg-mgf-2-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/pinealon-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/pnc-27-30-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/prostamax-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/pt-141-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/retatrutide-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/retatrutide-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/retatrutide-30-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/retatrutide-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/selank-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/selank-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/semaglutide-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/semaglutide-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/semaglutide-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/semax-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/semax-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/sermorelin-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/sermorelin-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/slu-pp-332-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/snap-8-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ss-31-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ss-31-30-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/ss-31-50-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/survodutide-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/tb-500-10-mg-vial-dosage-protocol/
   - url: https://peptidedosages.com/single-peptide-dosages/tb-500-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/tesamorelin-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/tesamorelin-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/tesamorelin-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/testagen-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/thymosin-alpha-1-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/thymosin-alpha-1-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/tirzepatide-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/tirzepatide-15-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/tirzepatide-30-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/tirzepatide-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/vesugen-20-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/single-peptide-dosages/vilon-20-mg-vial-dosage-protocol/
+  # peptide-blend-dosages
+  - url: https://peptidedosages.com/peptide-blend-dosages/aod-9604-cjc-1295-ipamorelin-12-mg-blend-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-blend-dosages/bpc-157-tb-500-10mg-blend-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-blend-dosages/bpc-157-tb-500-20mg-blend-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-blend-dosages/cagrilintide-semaglutide-10-mg-blend-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-blend-dosages/cjc-1295-ghrp-2-10mg-blend-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-blend-dosages/cjc-1295-no-dac-ipamorelin-10-mg-blend-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-blend-dosages/glow-peptide-blend-70-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-blend-dosages/klow-80-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-blend-dosages/neuroxelin-48-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-blend-dosages/tesamorelin-5-mg-ipamorelin-5-mg-10-mg-blend-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-blend-dosages/tri-heal-tb-500-25-mg-bpc-157-10-mg-kpv-10-mg-vial-dosage-protocol/
+  # peptide-stack-dosages
+  - url: https://peptidedosages.com/peptide-stack-dosages/cjc-1295-dac-2-mg-vial-ipamorelin-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-stack-dosages/cjc-1295-dac-5-mg-vial-ipamorelin-5-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-stack-dosages/melanotan-ii-10-mg-vial-pt-141-10-mg-vial-dosage-protocol/
+  - url: https://peptidedosages.com/peptide-stack-dosages/tb-500-5-mg-vial-bpc-157-5-mg-vial-dosage-protocol/

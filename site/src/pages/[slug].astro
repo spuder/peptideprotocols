@@ -1,0 +1,74 @@
+---
+import { getCollection, render } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import SupplyBox from "../components/SupplyBox.astro";
+import { parseProtocolMeta } from "../lib/meta";
+import { groupSupplies, peptideVialImage } from "../lib/supplies";
+
+export async function getStaticPaths() {
+	const entries = await getCollection("protocols");
+	const supplyEntries = await getCollection("supplies");
+	const supplyById = new Map(supplyEntries.map((e) => [e.id, e]));
+	return entries.map((entry) => ({
+		params: { slug: entry.id },
+		props: { entry, supplyEntry: supplyById.get(entry.id) },
+	}));
+}
+
+const { entry, supplyEntry } = Astro.props;
+const { Content } = await render(entry);
+const meta = parseProtocolMeta(entry.body ?? "", entry.id);
+const supplyGroups = groupSupplies(supplyEntry?.data.supplies ?? []);
+const vialImage = peptideVialImage(meta.peptide ?? meta.title);
+---
+
+<Layout title={meta.displayTitle}>
+	<a class="back-link" href="/">&larr; All protocols</a>
+	<div class="detail-header">
+		<h1 class="page-title">{meta.displayTitle}</h1>
+		<img class="hero-vial" src={vialImage.src} alt={vialImage.alt} />
+	</div>
+	<SupplyBox groups={supplyGroups} />
+	<div class="prose">
+		<!-- The rendered markdown repeats the H1 (we render our own above so
+		     the supply box can sit between title and body) and the
+		     Source/Archived bullet list, moved from right under the H1 to
+		     the bottom of the doc by moveMetaToBottom() in content.config.ts
+		     — both handled via `.prose h1:first-of-type` / `.prose hr + ul`
+		     in Layout.astro. -->
+		<Content />
+	</div>
+</Layout>
+
+<style>
+	.back-link {
+		display: inline-block;
+		margin: 0 0 1.25rem;
+		font-size: 0.88rem;
+		color: var(--text-muted);
+		text-decoration: none;
+	}
+	.back-link:hover { color: var(--gold); }
+	.detail-header {
+		display: flex;
+		align-items: flex-start;
+		justify-content: space-between;
+		gap: 1.5rem;
+		margin: 0 0 1.5rem;
+	}
+	.page-title {
+		font-family: var(--font-serif);
+		font-size: 2rem;
+		letter-spacing: -0.01em;
+		margin: 0;
+	}
+	.hero-vial {
+		flex: none;
+		height: 140px;
+		width: auto;
+		object-fit: contain;
+	}
+	@media (max-width: 520px) {
+		.hero-vial { height: 90px; }
+	}
+</style>

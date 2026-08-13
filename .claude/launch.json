@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "peptide-site",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "site", "run", "preview", "--", "--host", "--port", "4322"],
+      "port": 4322
+    }
+  ]
+}

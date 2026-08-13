@@ -1,0 +1,262 @@
+{
+  "source_url": "https://peptidedosages.com/peptide-stack-dosages/cjc-1295-dac-2-mg-vial-ipamorelin-5-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:51:34+00:00",
+  "peptide": "CJC-1295 DAC (2 mg) + Ipamorelin (5 mg) Stack Dosage Protocol",
+  "vial_size_text": "",
+  "vial_size_mg": null,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": null,
+    "concentration_mg_ml": null,
+    "steps": [
+      "Draw 2.0 mL bacteriostatic water with a sterile syringe.",
+      "Inject slowly down the vial wall; avoid foaming or direct stream onto powder.",
+      "Gently swirl/roll until fully dissolved (do not shake).",
+      "Label with date and refrigerate at 2–8 °C (35.6–46.4 °F) ."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "CJC-1295 DAC (2 mg Vial) — Weekly Subcutaneous",
+      "heading_raw": "CJC-1295 DAC (2 mg Vial) — Weekly Subcutaneous",
+      "frequency": "",
+      "rows": [
+        {
+          "week_phase": "Standard",
+          "dose_text": "1000 mcg (1.0 mg)",
+          "dose_mg": 1000.0,
+          "units_text": "100 units (1.0 mL)",
+          "units": 100.0,
+          "ml": 1.0
+        },
+        {
+          "week_phase": "Aggressive",
+          "dose_text": "2000 mcg (2.0 mg)",
+          "dose_mg": 2000.0,
+          "units_text": "100 units × 2 injections (2.0 mL total)",
+          "units": 100.0,
+          "ml": null
+        }
+      ]
+    },
+    {
+      "name": "Ipamorelin (5 mg Vial) — Daily Subcutaneous",
+      "heading_raw": "Ipamorelin (5 mg Vial) — Daily Subcutaneous",
+      "frequency": "",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2 (Initiation)",
+          "dose_text": "100 mcg",
+          "dose_mg": 100.0,
+          "units_text": "6 units (0.06 mL)",
+          "units": 6.0,
+          "ml": 0.06
+        },
+        {
+          "week_phase": "Weeks 3–4 (Titration)",
+          "dose_text": "150 mcg",
+          "dose_mg": 150.0,
+          "units_text": "9 units (0.09 mL)",
+          "units": 9.0,
+          "ml": 0.09
+        },
+        {
+          "week_phase": "Weeks 5+ (Maintenance)",
+          "dose_text": "200 mcg",
+          "dose_mg": 200.0,
+          "units_text": "12 units (0.12 mL)",
+          "units": 12.0,
+          "ml": 0.12
+        },
+        {
+          "week_phase": "Aggressive (Optional)",
+          "dose_text": "300 mcg",
+          "dose_mg": 300.0,
+          "units_text": "18 units (0.18 mL)",
+          "units": 18.0,
+          "ml": 0.18
+        }
+      ]
+    },
+    {
+      "name": "Combined Stack Schedule — Standard Approach",
+      "heading_raw": "Combined Stack Schedule — Standard Approach",
+      "frequency": "",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2",
+          "dose_text": "1000 mcg (100 units) once weekly",
+          "dose_mg": 1000.0,
+          "units_text": "100 mcg (6 units) once daily",
+          "units": 6.0,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 3–4",
+          "dose_text": "1000 mcg (100 units) once weekly",
+          "dose_mg": 1000.0,
+          "units_text": "150 mcg (9 units) once daily",
+          "units": 9.0,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 5–12",
+          "dose_text": "1000 mcg (100 units) once weekly",
+          "dose_mg": 1000.0,
+          "units_text": "200 mcg (12 units) once daily",
+          "units": 12.0,
+          "ml": null
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "CJC-1295 DAC Vials (2 mg each):",
+      "schedule": null,
+      "label": "8 weeks ≈",
+      "quantity_text": "4 vials",
+      "quantity": 4.0,
+      "unit": "vials"
+    },
+    {
+      "item": "CJC-1295 DAC Vials (2 mg each):",
+      "schedule": null,
+      "label": "12 weeks ≈",
+      "quantity_text": "6 vials",
+      "quantity": 6.0,
+      "unit": "vials"
+    },
+    {
+      "item": "CJC-1295 DAC Vials (2 mg each):",
+      "schedule": null,
+      "label": "16 weeks ≈",
+      "quantity_text": "8 vials",
+      "quantity": 8.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Ipamorelin Vials (5 mg each):",
+      "schedule": null,
+      "label": "8 weeks ≈",
+      "quantity_text": "3 vials",
+      "quantity": 3.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Ipamorelin Vials (5 mg each):",
+      "schedule": null,
+      "label": "12 weeks ≈",
+      "quantity_text": "4 vials",
+      "quantity": 4.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Ipamorelin Vials (5 mg each):",
+      "schedule": null,
+      "label": "16 weeks ≈",
+      "quantity_text": "5 vials",
+      "quantity": 5.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "8 weeks: CJC (4 × 2 mL) + Ipam (3 × 3 mL) = 17 mL →",
+      "quantity_text": "2 × 10 mL",
+      "quantity": 2.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "12 weeks: CJC (6 × 2 mL) + Ipam (4 × 3 mL) = 24 mL →",
+      "quantity_text": "3 × 10 mL",
+      "quantity": 3.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "16 weeks: CJC (8 × 2 mL) + Ipam (5 × 3 mL) = 31 mL →",
+      "quantity_text": "4 × 10 mL",
+      "quantity": 4.0,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Journal of Clinical Endocrinology & Metabolism",
+      "description": "Prolonged stimulation of GH and IGF-I secretion by CJC-1295 in healthy adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "European Journal of Endocrinology",
+      "description": "Ipamorelin, the first selective growth hormone secretagogue",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9849822/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Endocrine Reviews",
+      "description": "Growth hormone secretagogues: mechanisms and clinical applications",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11739335/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Sleep Medicine Reviews",
+      "description": "Sleep and the GH/IGF-1 axis: physiological and clinical implications",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10838019/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "Bachem",
+      "description": "Handling and storage guidelines for peptides (lyophilized stability)",
+      "url": "https://www.bachem.com/knowledge-center/peptide-guide/handling-and-storage-guidelines-for-peptides/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "Bachem",
+      "description": "Reconstituted peptide storage and stability recommendations",
+      "url": "https://www.bachem.com/knowledge-center/peptide-guide/handling-and-storage-guidelines-for-peptides/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "Translational Andrology and Urology (PMC)",
+      "description": "GH secretagogues in body composition management for hypogonadal males",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7108996/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "International Journal of Surgery (PubMed)",
+      "description": "Ipamorelin for postoperative ileus: tolerability and safety in bowel resection patients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "NCBI Bookshelf",
+      "description": "Parenteral medication administration: subcutaneous injection technique",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK596739/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "CDC",
+      "description": "Vaccine administration guidelines: subcutaneous route (no aspiration required)",
+      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
+      "category": "References"
+    }
+  ],
+  "content_hash": "a148d421acdd8e5b"
+}

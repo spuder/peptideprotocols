@@ -1,0 +1,191 @@
+{
+  "source_url": "https://peptidedosages.com/single-peptide-dosages/cartalax-20-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:44:53+00:00",
+  "peptide": "Cartalax",
+  "vial_size_text": "20 mg Vial",
+  "vial_size_mg": 20.0,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": null,
+    "concentration_mg_ml": null,
+    "steps": [
+      "Draw 3.0 mL bacteriostatic water with a sterile syringe.",
+      "Insert needle through the stopper; let the diluent run slowly down the vial wall to avoid foaming.",
+      "Gently swirl or roll until fully dissolved (do not shake).",
+      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "Standard / Gradual Approach",
+      "heading_raw": "Standard / Gradual Approach (3 mL = ~6.67 mg/mL)",
+      "frequency": "",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2",
+          "dose_text": "2,000 mcg (2.0 mg)",
+          "dose_mg": 2000.0,
+          "units_text": "30 units (0.30 mL)",
+          "units": 30.0,
+          "ml": 0.3
+        },
+        {
+          "week_phase": "Weeks 3–4",
+          "dose_text": "3,000 mcg (3.0 mg)",
+          "dose_mg": 3000.0,
+          "units_text": "45 units (0.45 mL)",
+          "units": 45.0,
+          "ml": 0.45
+        },
+        {
+          "week_phase": "Weeks 5–8",
+          "dose_text": "4,000 mcg (4.0 mg)",
+          "dose_mg": 4000.0,
+          "units_text": "60 units (0.60 mL)",
+          "units": 60.0,
+          "ml": 0.6
+        },
+        {
+          "week_phase": "Weeks 9–12",
+          "dose_text": "5,000 mcg (5.0 mg)",
+          "dose_mg": 5000.0,
+          "units_text": "75 units (0.75 mL)",
+          "units": 75.0,
+          "ml": 0.75
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "Peptide Vials (Cartalax, 20 mg each):",
+      "schedule": null,
+      "label": "8 weeks ≈",
+      "quantity_text": "10 vials",
+      "quantity": 10.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (Cartalax, 20 mg each):",
+      "schedule": null,
+      "label": "12 weeks ≈",
+      "quantity_text": "15 vials",
+      "quantity": 15.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (Cartalax, 20 mg each):",
+      "schedule": null,
+      "label": "16 weeks ≈",
+      "quantity_text": "20 vials",
+      "quantity": 20.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "8 weeks (10 vials)",
+      "quantity_text": "30 mL (also: 3 × 10 mL)",
+      "quantity": 30.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "12 weeks (15 vials)",
+      "quantity_text": "45 mL (also: 5 × 10 mL)",
+      "quantity": 45.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "16 weeks (20 vials)",
+      "quantity_text": "60 mL (also: 6 × 10 mL)",
+      "quantity": 60.0,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Neuroendocrinology Letters (2002)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12374906/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Bulletin of Experimental Biology and Medicine (2016)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27259496/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Bulletin of Experimental Biology and Medicine (2014)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24958378/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Molecular Biology Reports (2020)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32430698/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "International Journal of Molecular Sciences (2023)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37175656/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "Advances in Gerontology (2020)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32362083/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "CDC",
+      "description": "",
+      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "Advances in Therapy (PubMed)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28229318/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "StatPearls (NCBI Bookshelf)",
+      "description": "",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK568677/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "Bachem",
+      "description": "",
+      "url": "https://www.bachem.com/knowledge-center/peptide-guide/handling-and-storage-guidelines-for-peptides/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-12",
+      "citation": "NCBI Bookshelf",
+      "description": "",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "8bb81940fcca33a5"
+}

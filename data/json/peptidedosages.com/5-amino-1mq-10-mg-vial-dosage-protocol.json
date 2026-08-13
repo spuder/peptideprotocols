@@ -1,0 +1,198 @@
+{
+  "source_url": "https://peptidedosages.com/single-peptide-dosages/5-amino-1mq-10-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:52:13+00:00",
+  "peptide": "5-Amino-1MQ",
+  "vial_size_text": "10 mg Vial",
+  "vial_size_mg": 10.0,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": 2.0,
+    "concentration_mg_ml": 5.0,
+    "steps": [
+      "Remove the vial from freezer storage (−20 °C / −4 °F) and allow to equilibrate at room temperature for 15–20 minutes .",
+      "Draw 2.0 mL bacteriostatic water with a sterile syringe.",
+      "Inject slowly down the vial wall; avoid foaming.",
+      "Gently swirl/roll until dissolved—solution should be clear (do not shake).",
+      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light; use within 2–4 weeks."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "Subcutaneous Protocol",
+      "heading_raw": "Subcutaneous Protocol (2 mL = 5 mg/mL)",
+      "frequency": "Frequency: Inject once or twice daily subcutaneously. Due to the compound’s plasma half-life of approximately 3.8–6.9 hours [5] , twice-daily (BID) dosing may provide more sustained NNMT inhibition. A single 10 mg vial provides 2–4 days of material at these doses.",
+      "rows": [
+        {
+          "week_phase": "Days 1–2 (Tolerance)",
+          "dose_text": "2.5 mg (2500 mcg)",
+          "dose_mg": 2.5,
+          "units_text": "50 units (0.50 mL)",
+          "units": 50.0,
+          "ml": 0.5
+        },
+        {
+          "week_phase": "Days 3+ (Standard)",
+          "dose_text": "5 mg (5000 mcg)",
+          "dose_mg": 5.0,
+          "units_text": "100 units (1.00 mL)",
+          "units": 100.0,
+          "ml": 1.0
+        },
+        {
+          "week_phase": "Alternative BID",
+          "dose_text": "2.5 mg twice daily",
+          "dose_mg": 2.5,
+          "units_text": "50 units (0.50 mL) × 2",
+          "units": 50.0,
+          "ml": 0.5
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "5-Amino-1MQ Vials (10 mg each):",
+      "schedule": null,
+      "label": "1 week (5 mg/day = 35 mg total) →",
+      "quantity_text": "4 vials",
+      "quantity": 4.0,
+      "unit": "vials"
+    },
+    {
+      "item": "5-Amino-1MQ Vials (10 mg each):",
+      "schedule": null,
+      "label": "2 weeks (5 mg/day = 70 mg total) →",
+      "quantity_text": "7 vials",
+      "quantity": 7.0,
+      "unit": "vials"
+    },
+    {
+      "item": "5-Amino-1MQ Vials (10 mg each):",
+      "schedule": null,
+      "label": "4 weeks (5 mg/day = 140 mg total) →",
+      "quantity_text": "14 vials",
+      "quantity": 14.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "1 week (4 vials × 2.0 mL = 8 mL) →",
+      "quantity_text": "1 × 10 mL",
+      "quantity": 1.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "2 weeks (7 vials × 2.0 mL = 14 mL) →",
+      "quantity_text": "2 × 10 mL",
+      "quantity": 2.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "4 weeks (14 vials × 2.0 mL = 28 mL) →",
+      "quantity_text": "3 × 10 mL",
+      "quantity": 3.0,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Nature Medicine (2014)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24717514/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "PMC (2024)",
+      "description": "",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11622326/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Frontiers in Pharmacology (2024)",
+      "description": "",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1410479/full",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Creative Peptides",
+      "description": "",
+      "url": "https://www.creative-peptides.com/resources/how-long-do-peptides-last.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "PubMed (2021)",
+      "description": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34304009/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "PMC",
+      "description": "",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822791/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "NCBI Bookshelf",
+      "description": "",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "ResearchGate (2021)",
+      "description": "",
+      "url": "https://www.researchgate.net/publication/349971059_Combined_nicotinamide_N-methyltransferase_inhibition_and_reduced-calorie_diet_normalizes_body_composition_and_enhances_metabolic_benefits_in_obese_mice",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "PMC (2022)",
+      "description": "",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8748953/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "Scientific Reports / NMN.com",
+      "description": "",
+      "url": "https://www.nmn.com/news/new-insights-on-muscle-strength-the-role-of-inhibiting-an-enzyme-that-hinders-nad-synthesis",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "Swolverine",
+      "description": "",
+      "url": "https://swolverine.com/blogs/blog/how-5-amino-1mq-works-mechanism-benefits-stacking-and-cycling-guide",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-12",
+      "citation": "CDC",
+      "description": "",
+      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-13",
+      "citation": "CDC (Subcut Injection PDF)",
+      "description": "",
+      "url": "https://www.cdc.gov/vaccines/hcp/admin/downloads/YCTS-VaxAdmin-Subcut-injection.pdf",
+      "category": "References"
+    }
+  ],
+  "content_hash": "de0339a093726e01"
+}

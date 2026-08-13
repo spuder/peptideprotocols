@@ -1,0 +1,77 @@
+---
+import type { SupplyGroup } from "../lib/supplies";
+
+interface Props {
+	groups: SupplyGroup[];
+}
+const { groups } = Astro.props;
+---
+
+{groups.length > 0 && (
+	<aside class="supply-box" aria-label="Supplies needed">
+		<h2 class="supply-box-title">Supplies at a glance</h2>
+		<div class="supply-groups">
+			{groups.map((group) => (
+				<div class="supply-group">
+					<p class="supply-group-name"><span class="supply-emoji" aria-hidden="true">{group.emoji}</span> {group.name}</p>
+					<ul class="supply-rows">
+						{group.rows.map((row) => (
+							<li><span class="supply-label">{row.label}</span><span class="supply-qty">{row.quantityText}</span></li>
+						))}
+					</ul>
+				</div>
+			))}
+		</div>
+	</aside>
+)}
+
+<style>
+	.supply-box {
+		background: var(--bg-elevated);
+		border: 1px solid var(--border);
+		border-top: 3px solid var(--gold);
+		border-radius: var(--radius);
+		box-shadow: var(--shadow);
+		padding: 1.25rem 1.4rem 1.4rem;
+		margin: 0 0 2rem;
+	}
+	.supply-box-title {
+		font-family: var(--font-serif);
+		font-size: 0.95rem;
+		font-weight: 600;
+		margin: 0 0 1rem;
+		color: var(--blue);
+		text-transform: uppercase;
+		letter-spacing: 0.04em;
+	}
+	.supply-groups {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+		gap: 1.25rem;
+	}
+	.supply-group-name {
+		margin: 0 0 0.5rem;
+		font-weight: 600;
+		font-size: 0.92rem;
+	}
+	.supply-emoji { margin-right: 0.15rem; }
+	.supply-rows {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: flex;
+		flex-direction: column;
+		gap: 0.3rem;
+	}
+	.supply-rows li {
+		display: flex;
+		justify-content: space-between;
+		gap: 0.75rem;
+		font-size: 0.86rem;
+		padding: 0.3rem 0.6rem;
+		background: var(--gold-soft);
+		border-radius: 8px;
+	}
+	.supply-label { color: var(--text-muted); }
+	.supply-qty { font-weight: 600; white-space: nowrap; }
+</style>

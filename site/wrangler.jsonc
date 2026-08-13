@@ -1,0 +1,6 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "peptide-protocol-archive",
+  "compatibility_date": "2026-08-05",
+  "pages_build_output_dir": "./dist"
+}

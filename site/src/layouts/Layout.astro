@@ -1,0 +1,329 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "Archived peptide dosage & reconstitution protocols." } = Astro.props;
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="generator" content={Astro.generator} />
+		<meta name="description" content={description} />
+		<title>{title} · Peptide Protocol Archive</title>
+		<script is:inline>
+			// Runs before first paint so there's no light/dark flash. Explicit
+			// user choice (if any) lives in localStorage; otherwise we defer to
+			// the `@media (prefers-color-scheme)` rules in the stylesheet below.
+			(function () {
+				try {
+					const stored = localStorage.getItem("theme");
+					if (stored === "light" || stored === "dark") {
+						document.documentElement.setAttribute("data-theme", stored);
+					}
+				} catch (e) {}
+			})();
+		</script>
+	</head>
+	<body>
+		<header class="site-header">
+			<a class="brand" href="/">Peptide Protocol Archive</a>
+			<nav>
+				<a href="https://github.com/" target="_blank" rel="noopener">Source data</a>
+				<button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">
+					<span class="theme-icon" aria-hidden="true">🌙</span>
+				</button>
+			</nav>
+		</header>
+
+		<main>
+			<slot />
+		</main>
+
+		<footer class="site-footer">
+			<p>
+				Archived automatically on a schedule — not medical advice. Verify
+				against primary sources before acting on any protocol.
+			</p>
+		</footer>
+	</body>
+</html>
+
+<script>
+	const root = document.documentElement;
+	const toggle = document.getElementById("theme-toggle");
+	const icon = toggle?.querySelector(".theme-icon");
+	const media = window.matchMedia("(prefers-color-scheme: dark)");
+
+	function effectiveTheme(): "light" | "dark" {
+		const explicit = root.getAttribute("data-theme");
+		if (explicit === "light" || explicit === "dark") return explicit;
+		return media.matches ? "dark" : "light";
+	}
+
+	function syncIcon() {
+		if (icon) icon.textContent = effectiveTheme() === "dark" ? "☀️" : "🌙";
+	}
+
+	syncIcon();
+
+	toggle?.addEventListener("click", () => {
+		const next = effectiveTheme() === "dark" ? "light" : "dark";
+		root.setAttribute("data-theme", next);
+		localStorage.setItem("theme", next);
+		syncIcon();
+	});
+
+	// Keep the icon honest if the user has no explicit preference saved and
+	// their OS theme changes while the page is open.
+	media.addEventListener("change", () => {
+		if (!localStorage.getItem("theme")) syncIcon();
+	});
+</script>
+
+<style is:global>
+	:root {
+		color-scheme: light dark;
+		--bg: #f5f7fb;
+		--bg-elevated: #ffffff;
+		--text: #10182b;
+		--text-muted: #566179;
+		--border: #dde4f0;
+		--gold: #a8760a;
+		--gold-soft: #f7ecc9;
+		--blue: #1d4e89;
+		--blue-soft: #e4ecf7;
+		--code-bg: #eef1f7;
+		--warn-bg: #fdecec;
+		--warn-border: #c23b3b;
+		--warn-text: #7a1f1f;
+		--shadow: 0 1px 2px rgba(16, 24, 43, 0.06), 0 8px 24px rgba(16, 24, 43, 0.05);
+		--radius: 14px;
+		--font-serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+		--font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
+		--font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+	}
+
+	/* Dark palette applies when the OS prefers it (and the user hasn't
+	   explicitly picked light via the toggle), or whenever the toggle has
+	   set data-theme="dark" — regardless of OS preference. */
+	@media (prefers-color-scheme: dark) {
+		:root:not([data-theme="light"]) {
+			--bg: #0a1220;
+			--bg-elevated: #111b30;
+			--text: #eef2fa;
+			--text-muted: #96a3bd;
+			--border: #223252;
+			--gold: #e8c04c;
+			--gold-soft: #2c2612;
+			--blue: #6fa1d8;
+			--blue-soft: #172846;
+			--code-bg: #16223a;
+			--warn-bg: #2e1416;
+			--warn-border: #e0605f;
+			--warn-text: #ffb4b2;
+			--shadow: 0 1px 2px rgba(0, 0, 0, 0.35), 0 8px 24px rgba(0, 0, 0, 0.3);
+		}
+	}
+	:root[data-theme="dark"] {
+		--bg: #0a1220;
+		--bg-elevated: #111b30;
+		--text: #eef2fa;
+		--text-muted: #96a3bd;
+		--border: #223252;
+		--gold: #e8c04c;
+		--gold-soft: #2c2612;
+		--blue: #6fa1d8;
+		--blue-soft: #172846;
+		--code-bg: #16223a;
+		--warn-bg: #2e1416;
+		--warn-border: #e0605f;
+		--warn-text: #ffb4b2;
+		--shadow: 0 1px 2px rgba(0, 0, 0, 0.35), 0 8px 24px rgba(0, 0, 0, 0.3);
+	}
+
+	* { box-sizing: border-box; }
+
+	html, body { margin: 0; padding: 0; }
+
+	body {
+		background: var(--bg);
+		color: var(--text);
+		font-family: var(--font-sans);
+		line-height: 1.6;
+		-webkit-font-smoothing: antialiased;
+	}
+
+	main {
+		max-width: 760px;
+		margin: 0 auto;
+		padding: 0 1.5rem 4rem;
+	}
+
+	.site-header {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		max-width: 760px;
+		margin: 0 auto;
+		padding: 1.75rem 1.5rem 1.5rem;
+		gap: 1rem;
+		border-bottom: 3px solid var(--blue);
+	}
+
+	.brand {
+		font-family: var(--font-serif);
+		font-weight: 600;
+		font-size: 1.05rem;
+		color: var(--gold);
+		text-decoration: none;
+		letter-spacing: -0.01em;
+	}
+
+	.site-header nav {
+		display: flex;
+		align-items: center;
+		gap: 1.1rem;
+	}
+	.site-header nav a {
+		color: var(--text-muted);
+		text-decoration: none;
+		font-size: 0.9rem;
+	}
+	.site-header nav a:hover { color: var(--gold); }
+
+	.theme-toggle {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 2.1rem;
+		height: 2.1rem;
+		padding: 0;
+		background: var(--bg-elevated);
+		border: 1px solid var(--border);
+		border-radius: 999px;
+		font-size: 1.05rem;
+		line-height: 1;
+		cursor: pointer;
+		transition: border-color 0.12s ease, transform 0.12s ease;
+	}
+	.theme-toggle:hover { border-color: var(--gold); transform: translateY(-1px); }
+	.theme-toggle:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+
+	.site-footer {
+		max-width: 760px;
+		margin: 0 auto;
+		padding: 2rem 1.5rem 3rem;
+		color: var(--text-muted);
+		font-size: 0.82rem;
+		border-top: 1px solid var(--border);
+	}
+
+	/* ---- Prose: markdown content rendered via <Content /> ---- */
+	.prose h1, .prose h2, .prose h3 {
+		font-family: var(--font-serif);
+		line-height: 1.25;
+		letter-spacing: -0.01em;
+	}
+	/* [slug].astro renders its own <h1 class="page-title"> above the supply
+	   box, so hide the markdown body's own leading H1 to avoid a duplicate. */
+	.prose h1:first-of-type { display: none; }
+	.prose h2 {
+		font-size: 1.35rem;
+		margin: 2.5rem 0 1rem;
+		padding-bottom: 0.5rem;
+		border-bottom: 2px solid var(--blue);
+		color: var(--blue);
+	}
+	.prose h3 { font-size: 1.05rem; margin: 1.75rem 0 0.6rem; color: var(--gold); }
+
+	.prose p { margin: 0.75rem 0; }
+	.prose ul { padding-left: 1.3rem; }
+	.prose li { margin: 0.3rem 0; }
+	.prose li > strong:first-child { color: var(--text); }
+
+	.prose a { color: var(--gold); text-decoration-color: var(--gold-soft); text-underline-offset: 2px; }
+	.prose a:hover { text-decoration-thickness: 2px; }
+
+	/* Inline [3]-style citation markers linked to the References list by
+	   linkReferenceMarkers() in content.config.ts */
+	.prose a.ref-marker {
+		font-size: 0.78em;
+		font-weight: 700;
+		vertical-align: super;
+		text-decoration: none;
+		padding: 0 0.05em;
+	}
+	.prose li[id^="ref-"]:target {
+		background: var(--gold-soft);
+		border-radius: 6px;
+		outline: 2px solid var(--gold);
+		outline-offset: 3px;
+	}
+
+	.prose table {
+		width: 100%;
+		border-collapse: collapse;
+		margin: 1rem 0 1.75rem;
+		font-size: 0.92rem;
+		background: var(--bg-elevated);
+		border-radius: 10px;
+		overflow: hidden;
+		box-shadow: var(--shadow);
+	}
+	.prose th, .prose td {
+		text-align: left;
+		padding: 0.6rem 0.85rem;
+		border-bottom: 1px solid var(--border);
+	}
+	.prose th {
+		background: var(--blue-soft);
+		color: var(--blue);
+		font-weight: 600;
+		font-size: 0.82rem;
+		text-transform: uppercase;
+		letter-spacing: 0.03em;
+	}
+	.prose tr:last-child td { border-bottom: none; }
+
+	.prose em {
+		display: block;
+		color: var(--text-muted);
+		font-size: 0.88rem;
+		margin: -0.5rem 0 0.75rem;
+	}
+
+	.prose code {
+		font-family: var(--font-mono);
+		font-size: 0.85em;
+		background: var(--code-bg);
+		padding: 0.15em 0.4em;
+		border-radius: 5px;
+	}
+
+	.prose blockquote {
+		margin: 1rem 0;
+		padding: 0.1rem 1rem;
+		border-left: 3px solid var(--gold);
+		color: var(--text-muted);
+	}
+
+	/* Source/Scraped footer, moved to the bottom of each protocol page */
+	.prose hr {
+		border: none;
+		border-top: 1px solid var(--border);
+		margin: 2.5rem 0 1rem;
+	}
+	.prose hr + ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		color: var(--text-muted);
+		font-size: 0.82rem;
+	}
+	.prose hr + ul li { margin: 0.15rem 0; }
+</style>

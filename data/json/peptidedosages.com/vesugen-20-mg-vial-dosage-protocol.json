@@ -1,0 +1,184 @@
+{
+  "source_url": "https://peptidedosages.com/single-peptide-dosages/vesugen-20-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:50:37+00:00",
+  "peptide": "Vesugen",
+  "vial_size_text": "Lys-Glu-Asp) (20 mg Vial",
+  "vial_size_mg": 20.0,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": null,
+    "concentration_mg_ml": null,
+    "steps": [
+      "Draw 3.0 mL bacteriostatic water with a sterile syringe [9] .",
+      "Inject slowly down the vial wall; avoid foaming.",
+      "Gently swirl/roll until dissolved (do not shake).",
+      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light [10] ."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "Standard / Gradual Approach",
+      "heading_raw": "Standard / Gradual Approach (3 mL = ~6.67 mg/mL)",
+      "frequency": "Frequency: Inject once daily subcutaneously. For ≤10-unit (≤0.10 mL) administrations, consider 30- or 50-unit insulin syringes for improved readability. Note that Week 1 dosing falls at 7.5 units; a 50-unit syringe with 0.5-unit graduations improves accuracy.",
+      "rows": [
+        {
+          "week_phase": "Week 1",
+          "dose_text": "500 mcg (0.5 mg)",
+          "dose_mg": 500.0,
+          "units_text": "7.5 units (0.075 mL)",
+          "units": 7.5,
+          "ml": 0.075
+        },
+        {
+          "week_phase": "Week 2",
+          "dose_text": "1000 mcg (1.0 mg)",
+          "dose_mg": 1000.0,
+          "units_text": "15 units (0.15 mL)",
+          "units": 15.0,
+          "ml": 0.15
+        },
+        {
+          "week_phase": "Week 3",
+          "dose_text": "1500 mcg (1.5 mg)",
+          "dose_mg": 1500.0,
+          "units_text": "22.5 units (0.225 mL)",
+          "units": 22.5,
+          "ml": 0.225
+        },
+        {
+          "week_phase": "Weeks 4–8+",
+          "dose_text": "1500–2000 mcg (1.5–2.0 mg)",
+          "dose_mg": 1500.0,
+          "units_text": "22.5–30 units (0.225–0.30 mL)",
+          "units": 30.0,
+          "ml": null
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "Peptide Vials (Vesugen, 20 mg each):",
+      "schedule": null,
+      "label": "8 weeks (~84 mg total) ≈",
+      "quantity_text": "5 vials",
+      "quantity": 5.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (Vesugen, 20 mg each):",
+      "schedule": null,
+      "label": "12 weeks (~126 mg total) ≈",
+      "quantity_text": "7 vials",
+      "quantity": 7.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (Vesugen, 20 mg each):",
+      "schedule": null,
+      "label": "16 weeks (~168 mg total) ≈",
+      "quantity_text": "9 vials",
+      "quantity": 9.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "8 weeks (5 vials)",
+      "quantity_text": "15 mL (also: 2 × 10 mL)",
+      "quantity": 15.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "12 weeks (7 vials)",
+      "quantity_text": "21 mL (also: 3 × 10 mL)",
+      "quantity": 21.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "16 weeks (9 vials)",
+      "quantity_text": "27 mL (also: 3 × 10 mL)",
+      "quantity": 27.0,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Bull Exp Biol Med (2016)",
+      "description": "Short Peptides Regulate Gene Expression (Khavinson et al.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27909961/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Adv Gerontol (2014)",
+      "description": "Epigenetic aspects of peptidergic regulation of vascular endothelial cell proliferation during aging",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25051766/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Molecules (2021)",
+      "description": "Peptide Regulation of Gene Expression: A Systematic Review (MDPI)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34834147/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Adv Gerontol (2016)",
+      "description": "Molecular aspects of vasoprotective peptide KED activity during atherosclerosis and restenosis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28539025/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "Bull Exp Biol Med (2021)",
+      "description": "Peptide KED: Molecular-Genetic Aspects of Neurogenesis Regulation in Alzheimer’s Disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34173097/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "Bull Exp Biol Med (2017)",
+      "description": "Tripeptides Restore the Number of Neuronal Spines under Conditions of In Vitro Modeled Alzheimer’s Disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28853087/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "DailyMed",
+      "description": "Bacteriostatic Water injection, solution (FDA labeling)",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87d6e9dc-fe3b-4593-ac9a-d7493d1959c7",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "PMC (2024)",
+      "description": "Practical advice in the development of a lyophilized protein drug product",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11744310/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "MedlinePlus",
+      "description": "Subcutaneous (SQ) injections: technique and site guidance",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000430.htm",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-12",
+      "citation": "NCBI Bookshelf",
+      "description": "Best practices for injection (WHO guidelines)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "d6e35e9ced47ca50"
+}

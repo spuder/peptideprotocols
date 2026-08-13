@@ -1,7 +1,7 @@
 # BPC-157 (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/bpc-157-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-06T04:25:11+00:00
+- Scraped: 2026-08-13T17:44:41+00:00
 
 ## Dosing & Reconstitution Guide
 

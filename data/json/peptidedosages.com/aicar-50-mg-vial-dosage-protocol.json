@@ -1,0 +1,191 @@
+{
+  "source_url": "https://peptidedosages.com/single-peptide-dosages/aicar-50-mg-vial-dosage-protocol/",
+  "domain": "peptidedosages.com",
+  "scraped_at": "2026-08-13T17:44:20+00:00",
+  "peptide": "AICAR",
+  "vial_size_text": "50 mg Vial",
+  "vial_size_mg": 50.0,
+  "page_updated": null,
+  "reconstitution_summary": {
+    "diluent": "sterile/bacteriostatic water",
+    "volume_ml": null,
+    "concentration_mg_ml": null,
+    "steps": [
+      "Draw 3.0 mL bacteriostatic water with a sterile syringe.",
+      "Inject slowly down the vial wall; avoid foaming.",
+      "Gently swirl/roll until dissolved (do not shake).",
+      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light."
+    ]
+  },
+  "protocols": [
+    {
+      "name": "Standard / Gradual Approach",
+      "heading_raw": "Standard / Gradual Approach (3 mL = ~16.7 mg/mL)",
+      "frequency": "Frequency: Inject once daily subcutaneously [3] . For ≤10-unit (≤0.10 mL) administrations, consider 30- or 50-unit insulin syringes for improved readability.",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2",
+          "dose_text": "1,000 mcg (1 mg)",
+          "dose_mg": 1000.0,
+          "units_text": "6 units (0.06 mL)",
+          "units": 6.0,
+          "ml": 0.06
+        },
+        {
+          "week_phase": "Weeks 3–4",
+          "dose_text": "2,000 mcg (2 mg)",
+          "dose_mg": 2000.0,
+          "units_text": "12 units (0.12 mL)",
+          "units": 12.0,
+          "ml": 0.12
+        },
+        {
+          "week_phase": "Weeks 5–8",
+          "dose_text": "3,000 mcg (3 mg)",
+          "dose_mg": 3000.0,
+          "units_text": "18 units (0.18 mL)",
+          "units": 18.0,
+          "ml": 0.18
+        }
+      ]
+    },
+    {
+      "name": "Advanced Protocol",
+      "heading_raw": "Advanced Protocol (Higher Doses)",
+      "frequency": "",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2",
+          "dose_text": "2,000 mcg (2 mg)",
+          "dose_mg": 2000.0,
+          "units_text": "12 units (0.12 mL)",
+          "units": 12.0,
+          "ml": 0.12
+        },
+        {
+          "week_phase": "Weeks 3–6",
+          "dose_text": "3,000 mcg (3 mg)",
+          "dose_mg": 3000.0,
+          "units_text": "18 units (0.18 mL)",
+          "units": 18.0,
+          "ml": 0.18
+        },
+        {
+          "week_phase": "Weeks 7–12",
+          "dose_text": "5,000 mcg (5 mg)",
+          "dose_mg": 5000.0,
+          "units_text": "30 units (0.30 mL)",
+          "units": 30.0,
+          "ml": 0.3
+        }
+      ]
+    }
+  ],
+  "supplies": [
+    {
+      "item": "Peptide Vials (AICAR, 50 mg each):",
+      "schedule": null,
+      "label": "8 weeks (gradual 1–3 mg/day) ≈",
+      "quantity_text": "3 vials",
+      "quantity": 3.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Peptide Vials (AICAR, 50 mg each):",
+      "schedule": null,
+      "label": "12 weeks (2–5 mg/day advanced) ≈",
+      "quantity_text": "8 vials",
+      "quantity": 8.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "8 weeks (3 vials)",
+      "quantity_text": "9 mL (also: 1 × 10 mL)",
+      "quantity": 9.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "12 weeks (8 vials)",
+      "quantity_text": "24 mL (also: 3 × 10 mL)",
+      "quantity": 24.0,
+      "unit": "mL"
+    }
+  ],
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "U.S. Anti-Doping Agency (USADA)",
+      "description": "What Athletes Should Know About AICAR and Other Prohibited AMPK Activated Protein Kinase Activators (official guidance, 2022)",
+      "url": "https://www.usada.org/spirit-of-sport/aicar-and-other-prohibited-amp-activated-protein-kinase-activators/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "PubMed",
+      "description": "Doping control study of AICAR; endurance enhancement in sedentary animals (Drug Testing and Analysis, 2017)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28407446/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "PMC (PubMed Central)",
+      "description": "AICAR treatment for 14 days normalizes obesity-induced dysregulation in skeletal muscle (Am. J. Physiol., 2010)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6957371/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "MDPI (International Journal of Molecular Sciences)",
+      "description": "AICAR prevents and reverses diabetic polyneuropathy by regulating mitophagy (2024)",
+      "url": "https://www.mdpi.com/1422-0067/26/1/80",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "PubMed",
+      "description": "Acadesine (AICAR) Phase I/II study; maximum tolerated dose 210 mg/kg IV (Cancer Chemotherapy and Pharmacology, 2013)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23228986/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "Cell Signaling Technology",
+      "description": "AICAR (Acadesine) Product Data Sheet; AMPK activation mechanism and cellular effects (2021)",
+      "url": "https://www.cellsignal.com/products/activators-inhibitors/aicar/9944",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "JAMA Network",
+      "description": "Effect of adenosine-regulating agent acadesine in cardiac surgery; IV infusion protocol (JAMA, 1997)",
+      "url": "https://jamanetwork.com/journals/jama/article-abstract/414167",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "MedlinePlus Medical Encyclopedia",
+      "description": "Subcutaneous (SQ) injections: patient instructions for proper technique and site rotation (NIH, 2023)",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000430.htm",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-12",
+      "citation": "CDC",
+      "description": "Vaccine administration: subcutaneous route guidelines (angle, site selection, no aspiration)",
+      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-14",
+      "citation": "Pure Lab Peptides",
+      "description": "AICAR 50mg product specification and storage instructions; quality documentation (2025)",
+      "url": "https://purelabpeptides.com/buy-peptides/buy-aicar-50mg/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "5a8d2bc7d3299c88"
+}

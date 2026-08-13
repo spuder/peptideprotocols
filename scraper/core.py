@@ -1,19 +1,17 @@
 """Fetch configured source pages, parse them via the right adapter, and
-write three kinds of output:
+write two kinds of output:
 
   data/json/<domain>/<slug>.json   canonical structured snapshot (source of truth)
-  data/csv/*.csv                   tidy CSVs rebuilt from ALL json snapshots
   markdown/<slug>.md               human-readable snapshot per page
 
 Run:
     python -m scraper.core                  # scrape everything in sources.yaml
     python -m scraper.core --only ghk-cu     # scrape sources whose slug/url matches
-    python -m scraper.core --rebuild-only    # skip fetching, just regenerate CSV/MD from existing json
+    python -m scraper.core --rebuild-only    # skip fetching, just regenerate MD from existing json
 """
 from __future__ import annotations
 
 import argparse
-import csv
 import dataclasses
 import hashlib
 import json
@@ -32,7 +30,6 @@ from scraper.adapters import peptidedosages
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_JSON = ROOT / "data" / "json"
-DATA_CSV = ROOT / "data" / "csv"
 MARKDOWN = ROOT / "markdown"
 SOURCES_FILE = ROOT / "sources.yaml"
 
@@ -119,92 +116,6 @@ def load_all_records() -> list[dict]:
     return records
 
 
-# ---------------------------------------------------------------- CSV -----
-
-def write_csvs(records: list[dict]) -> None:
-    DATA_CSV.mkdir(parents=True, exist_ok=True)
-    _write_reconstitution_csv(records)
-    _write_protocols_csv(records)
-    _write_supplies_csv(records)
-    _write_references_csv(records)
-
-
-def _base_key(r: dict) -> dict:
-    return {
-        "peptide": r["peptide"],
-        "vial_size": r["vial_size_text"],
-        "source_url": r["source_url"],
-        "scraped_at": r["scraped_at"],
-    }
-
-
-def _write_reconstitution_csv(records: list[dict]) -> None:
-    rows = []
-    for r in records:
-        rc = r.get("reconstitution_summary", {})
-        rows.append({**_base_key(r), **{
-            "volume_ml": rc.get("volume_ml"),
-            "concentration_mg_ml": rc.get("concentration_mg_ml"),
-        }})
-    _write(DATA_CSV / "reconstitution.csv", rows)
-
-
-def _write_protocols_csv(records: list[dict]) -> None:
-    rows = []
-    for r in records:
-        for proto in r.get("protocols", []):
-            for row in proto.get("rows", []):
-                rows.append({**_base_key(r), **{
-                    "protocol_name": proto["name"],
-                    "frequency": proto["frequency"],
-                    "week_phase": row["week_phase"],
-                    "dose_text": row["dose_text"],
-                    "dose_mg": row["dose_mg"],
-                    "units": row["units"],
-                    "ml": row["ml"],
-                }})
-    _write(DATA_CSV / "protocols.csv", rows)
-
-
-def _write_supplies_csv(records: list[dict]) -> None:
-    rows = []
-    for r in records:
-        for s in r.get("supplies", []):
-            rows.append({**_base_key(r), **{
-                "item": s["item"],
-                "schedule": s["schedule"],
-                "label": s["label"],
-                "quantity_text": s["quantity_text"],
-                "quantity": s["quantity"],
-                "unit": s["unit"],
-            }})
-    _write(DATA_CSV / "supplies.csv", rows)
-
-
-def _write_references_csv(records: list[dict]) -> None:
-    rows = []
-    for r in records:
-        for ref in r.get("references", []):
-            rows.append({**_base_key(r), **{
-                "category": ref["category"],
-                "citation": ref["citation"],
-                "description": ref["description"],
-                "url": ref["url"],
-            }})
-    _write(DATA_CSV / "references.csv", rows)
-
-
-def _write(path: Path, rows: list[dict]) -> None:
-    if not rows:
-        return
-    fieldnames = list(rows[0].keys())
-    with open(path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(rows)
-    print(f"  wrote {path.relative_to(ROOT)} ({len(rows)} rows)")
-
-
 # ------------------------------------------------------------ Markdown ----
 
 def write_markdown(record: dict) -> Path:
@@ -282,7 +193,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", help="substring filter on url/slug")
     ap.add_argument("--rebuild-only", action="store_true",
-                     help="skip fetching; just rebuild CSV/MD from existing json/")
+                     help="skip fetching; just rebuild MD from existing json/")
     args = ap.parse_args()
 
     MARKDOWN.mkdir(parents=True, exist_ok=True)
@@ -305,9 +216,8 @@ def main():
             save_json(record)
             time.sleep(REQUEST_DELAY_SEC)
 
-    print("Rebuilding CSV + Markdown from data/json/ ...")
+    print("Rebuilding Markdown from data/json/ ...")
     records = load_all_records()
-    write_csvs(records)
     for r in records:
         write_markdown(r)
     print(f"Done. {len(records)} pages archived.")
