@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/tb-500-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-13T17:49:51+00:00",
+  "scraped_at": "2026-08-17T09:54:53+00:00",
   "peptide": "TB-500",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -215,5 +215,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "1db52655c6a4a6bb"
+  "content_hash": "3c2b58c6995adeca"
 }

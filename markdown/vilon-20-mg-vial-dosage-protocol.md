@@ -1,7 +1,7 @@
 # Vilon (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/vilon-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:50:42+00:00
+- Scraped: 2026-08-17T09:55:44+00:00
 
 ## Dosing & Reconstitution Guide
 

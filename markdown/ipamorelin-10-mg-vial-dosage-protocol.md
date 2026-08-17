@@ -1,7 +1,7 @@
 # Ipamorelin (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/ipamorelin-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:46:36+00:00
+- Scraped: 2026-08-17T09:51:39+00:00
 
 ## Dosing & Reconstitution Guide
 

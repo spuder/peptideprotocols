@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/foxo4-dri-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-13T17:45:37+00:00",
+  "scraped_at": "2026-08-17T09:50:40+00:00",
   "peptide": "FOXO4-DRI",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -194,5 +194,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "b614d9027fd2478a"
+  "content_hash": "0aaa1e98c67cfad2"
 }

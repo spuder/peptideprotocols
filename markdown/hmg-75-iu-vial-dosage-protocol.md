@@ -1,7 +1,7 @@
 # HMG (0.15 mg / 75 IU Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/hmg-75-iu-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:46:27+00:00
+- Scraped: 2026-08-17T09:51:31+00:00
 
 ## Dosing & Reconstitution Guide
 

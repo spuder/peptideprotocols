@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/5-amino-1mq-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-13T17:52:13+00:00",
+  "scraped_at": "2026-08-17T09:49:06+00:00",
   "peptide": "5-Amino-1MQ",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -194,5 +194,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "de0339a093726e01"
+  "content_hash": "8000671b757e3403"
 }

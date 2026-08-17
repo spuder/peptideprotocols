@@ -1,7 +1,7 @@
 # Cerebrolysin (60 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/cerebrolysin-60-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:44:57+00:00
+- Scraped: 2026-08-17T09:50:01+00:00
 - Reconstitution: 3.0 mL -> 20.0 mg/mL
 
 ## Dosing & Reconstitution Guide

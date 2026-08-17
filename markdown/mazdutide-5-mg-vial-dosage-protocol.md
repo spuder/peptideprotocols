@@ -1,7 +1,7 @@
 # Mazdutide (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/mazdutide-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:47:10+00:00
+- Scraped: 2026-08-17T09:52:12+00:00
 - Reconstitution: 2.0 mL -> 2.5 mg/mL
 
 ## Dosing & Reconstitution Guide

@@ -1,7 +1,7 @@
 # IGF-1 LR3 (1 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/igf-1-lr3-1-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:46:32+00:00
+- Scraped: 2026-08-17T09:51:35+00:00
 
 ## Dosing & Reconstitution Guide
 

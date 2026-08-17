@@ -1,7 +1,7 @@
 # Survodutide (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/survodutide-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:49:43+00:00
+- Scraped: 2026-08-17T09:54:45+00:00
 - Reconstitution: 2.0 mL -> 5.0 mg/mL
 
 ## Dosing & Reconstitution Guide

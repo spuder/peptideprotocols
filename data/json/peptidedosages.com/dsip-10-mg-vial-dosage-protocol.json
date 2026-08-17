@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/dsip-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-13T17:45:24+00:00",
+  "scraped_at": "2026-08-17T09:50:27+00:00",
   "peptide": "DSIP",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -164,5 +164,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "3b6b6c3172b80979"
+  "content_hash": "e01bbe0764a4bcd5"
 }

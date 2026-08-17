@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/sermorelin-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-13T17:49:17+00:00",
+  "scraped_at": "2026-08-17T09:54:19+00:00",
   "peptide": "Sermorelin",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -150,5 +150,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "d77bdc101e2ad7b8"
+  "content_hash": "942ed712fe62a12d"
 }

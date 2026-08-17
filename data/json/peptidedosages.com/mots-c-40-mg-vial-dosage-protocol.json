@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/mots-c-40-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-13T17:47:32+00:00",
+  "scraped_at": "2026-08-17T09:52:33+00:00",
   "peptide": "MOTS-C",
   "vial_size_text": "40 mg Vial",
   "vial_size_mg": 40.0,
@@ -189,5 +189,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "6709dc27e6915037"
+  "content_hash": "6f18e4563d919c53"
 }

@@ -1,7 +1,7 @@
 # NAD+ (500 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/nad-500-mg-10ml-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:47:44+00:00
+- Scraped: 2026-08-17T09:52:46+00:00
 - Reconstitution: 3.0 mL -> 166.7 mg/mL
 
 ## Dosing & Reconstitution Guide

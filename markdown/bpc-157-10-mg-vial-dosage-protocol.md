@@ -1,7 +1,7 @@
 # BPC-157 (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/bpc-157-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:44:36+00:00
+- Scraped: 2026-08-17T09:49:40+00:00
 
 ## Dosing & Reconstitution Guide
 

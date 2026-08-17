@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/pinealon-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-13T17:48:10+00:00",
+  "scraped_at": "2026-08-17T09:53:11+00:00",
   "peptide": "Pinealon",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -235,5 +235,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "3bff1d6b92909dda"
+  "content_hash": "fb10324ca876f4ee"
 }

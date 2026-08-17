@@ -1,7 +1,7 @@
 # MGF (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/mgf-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:47:19+00:00
+- Scraped: 2026-08-17T09:52:21+00:00
 
 ## Dosing & Reconstitution Guide
 

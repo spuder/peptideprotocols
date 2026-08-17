@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/glutathione-600-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-13T17:46:10+00:00",
+  "scraped_at": "2026-08-17T09:51:14+00:00",
   "peptide": "Glutathione",
   "vial_size_text": "600 mg Vial",
   "vial_size_mg": 600.0,
@@ -219,5 +219,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "190170d6fedf133d"
+  "content_hash": "88ba739259a028b1"
 }

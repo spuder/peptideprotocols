@@ -1,7 +1,7 @@
 # Prostamax (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/prostamax-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:48:18+00:00
+- Scraped: 2026-08-17T09:53:20+00:00
 - Reconstitution: 2.0 mL -> 10.0 mg/mL
 
 ## Dosing & Reconstitution Guide

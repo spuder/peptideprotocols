@@ -1,7 +1,7 @@
 # Cagrilintide (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/cagrilintide-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:44:45+00:00
+- Scraped: 2026-08-17T09:49:49+00:00
 
 ## Dosing & Reconstitution Guide
 

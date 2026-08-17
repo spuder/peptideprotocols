@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/tb-500-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-13T17:49:47+00:00",
+  "scraped_at": "2026-08-17T09:54:49+00:00",
   "peptide": "TB-500",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -215,5 +215,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "a14ad2408484464e"
+  "content_hash": "c22d97f1dd0c815e"
 }

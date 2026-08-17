@@ -1,7 +1,7 @@
 # Tirzepatide (30 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/tirzepatide-30-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-13T17:50:29+00:00
+- Scraped: 2026-08-17T09:55:31+00:00
 - Reconstitution: 3.0 mL -> 10.0 mg/mL
 
 ## Dosing & Reconstitution Guide

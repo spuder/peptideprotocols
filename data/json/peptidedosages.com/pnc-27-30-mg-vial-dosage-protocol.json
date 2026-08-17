@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/pnc-27-30-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-13T17:48:14+00:00",
+  "scraped_at": "2026-08-17T09:53:16+00:00",
   "peptide": "PNC-27",
   "vial_size_text": "30 mg Vial",
   "vial_size_mg": 30.0,
@@ -188,5 +188,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "e8efc74515ffc490"
+  "content_hash": "e57f19a083217629"
 }
