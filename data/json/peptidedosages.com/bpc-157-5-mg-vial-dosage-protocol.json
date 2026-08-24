@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/bpc-157-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-17T09:49:45+00:00",
+  "scraped_at": "2026-08-24T09:54:47+00:00",
   "peptide": "BPC-157",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -179,5 +179,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "0299b301eb37e676"
+  "content_hash": "bac104d744955e64"
 }

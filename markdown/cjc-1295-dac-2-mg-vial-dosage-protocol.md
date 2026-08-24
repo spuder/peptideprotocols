@@ -1,7 +1,7 @@
 # CJC-1295 DAC (2 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/cjc-1295-dac-2-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-17T09:50:10+00:00
+- Scraped: 2026-08-24T09:55:12+00:00
 - Reconstitution: 1.0 mL -> 2.0 mg/mL
 
 ## Dosing & Reconstitution Guide

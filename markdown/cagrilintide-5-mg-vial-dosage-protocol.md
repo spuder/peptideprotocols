@@ -1,7 +1,7 @@
 # Cagrilintide (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/cagrilintide-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-17T09:49:53+00:00
+- Scraped: 2026-08-24T09:54:55+00:00
 
 ## Dosing & Reconstitution Guide
 

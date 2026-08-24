@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/sermorelin-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-17T09:54:15+00:00",
+  "scraped_at": "2026-08-24T09:59:19+00:00",
   "peptide": "Sermorelin",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -150,5 +150,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "fa983bda5c8dc526"
+  "content_hash": "437370bdbe43f6ae"
 }

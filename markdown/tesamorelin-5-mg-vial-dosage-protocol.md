@@ -1,7 +1,7 @@
 # Tesamorelin (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/tesamorelin-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-17T09:55:06+00:00
+- Scraped: 2026-08-24T10:00:11+00:00
 - Reconstitution: 2.5 mL -> 2.0 mg/mL
 
 ## Dosing & Reconstitution Guide

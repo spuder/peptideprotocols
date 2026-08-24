@@ -1,7 +1,7 @@
 # Mazdutide (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/mazdutide-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-17T09:52:08+00:00
+- Scraped: 2026-08-24T09:57:11+00:00
 - Reconstitution: 2.0 mL -> 5.0 mg/mL
 
 ## Dosing & Reconstitution Guide

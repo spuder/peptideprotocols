@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/aod-9604-2-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-17T09:49:28+00:00",
+  "scraped_at": "2026-08-24T09:54:30+00:00",
   "peptide": "AOD-9604",
   "vial_size_text": "2 mg Vial",
   "vial_size_mg": 2.0,
@@ -185,5 +185,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "2b325f3973aceb3b"
+  "content_hash": "b6229edce5ec1c63"
 }

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/peptide-blend-dosages/tri-heal-tb-500-25-mg-bpc-157-10-mg-kpv-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-17T09:56:31+00:00",
+  "scraped_at": "2026-08-24T10:01:38+00:00",
   "peptide": "Tri-Heal (45 mg Blend) Dosage Protocol",
   "vial_size_text": "",
   "vial_size_mg": null,
@@ -308,5 +308,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "4f30e51789c59bca"
+  "content_hash": "f753c6faa4eb4ec6"
 }

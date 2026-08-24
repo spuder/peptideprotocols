@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ipamorelin-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-17T09:51:43+00:00",
+  "scraped_at": "2026-08-24T09:56:45+00:00",
   "peptide": "Ipamorelin",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -194,5 +194,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "1dc2df74dbb59aa5"
+  "content_hash": "c806878e36af3217"
 }

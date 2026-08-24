@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/mazdutide-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-17T09:52:12+00:00",
+  "scraped_at": "2026-08-24T09:57:15+00:00",
   "peptide": "Mazdutide",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -195,5 +195,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "faa19547969954e3"
+  "content_hash": "d3aadf458090a011"
 }

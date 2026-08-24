@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/hmg-75-iu-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-17T09:51:31+00:00",
+  "scraped_at": "2026-08-24T09:56:32+00:00",
   "peptide": "HMG",
   "vial_size_text": "0.15 mg / 75 IU Vial",
   "vial_size_mg": 0.15,
@@ -163,5 +163,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "5b9a9e0362dad84e"
+  "content_hash": "ac98a8e297368969"
 }

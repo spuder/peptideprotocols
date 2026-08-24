@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/nad-500-mg-10ml-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-17T09:52:46+00:00",
+  "scraped_at": "2026-08-24T09:57:49+00:00",
   "peptide": "NAD+",
   "vial_size_text": "500 mg Vial",
   "vial_size_mg": 500.0,
@@ -254,5 +254,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "d175f60bfa5c94b2"
+  "content_hash": "5fc90708bd7d7830"
 }
