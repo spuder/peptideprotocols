@@ -1,7 +1,7 @@
 # AOD-9604 (2 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/aod-9604-2-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-24T09:54:30+00:00
+- Scraped: 2026-08-31T16:56:45+00:00
 
 ## Dosing & Reconstitution Guide
 

@@ -1,7 +1,7 @@
 # CJC-1295 NO DAC + Ipamorelin (10 mg Blend) Dosage Protocol ()
 
 - Source: <https://peptidedosages.com/peptide-blend-dosages/cjc-1295-no-dac-ipamorelin-10-mg-blend-dosage-protocol/>
-- Scraped: 2026-08-24T10:01:17+00:00
+- Scraped: 2026-08-31T17:03:30+00:00
 
 ## Dosing & Reconstitution Guide
 

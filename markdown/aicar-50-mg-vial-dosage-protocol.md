@@ -1,7 +1,7 @@
 # AICAR (50 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/aicar-50-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-24T09:54:26+00:00
+- Scraped: 2026-08-31T16:56:41+00:00
 
 ## Dosing & Reconstitution Guide
 

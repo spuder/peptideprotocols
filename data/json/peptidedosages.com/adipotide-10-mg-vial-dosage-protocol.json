@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/adipotide-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-24T09:54:22+00:00",
+  "scraped_at": "2026-08-31T16:56:37+00:00",
   "peptide": "Adipotide",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -173,5 +173,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "69efd1e5564e2526"
+  "content_hash": "751d0d9f082103d2"
 }

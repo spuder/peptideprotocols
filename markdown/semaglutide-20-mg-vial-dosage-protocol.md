@@ -1,7 +1,7 @@
 # Semaglutide (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/semaglutide-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-24T09:59:02+00:00
+- Scraped: 2026-08-31T17:01:18+00:00
 
 ## Dosing & Reconstitution Guide
 

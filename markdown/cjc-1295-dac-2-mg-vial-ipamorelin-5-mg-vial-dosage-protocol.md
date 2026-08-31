@@ -1,7 +1,7 @@
 # CJC-1295 DAC (2 mg) + Ipamorelin (5 mg) Stack Dosage Protocol ()
 
 - Source: <https://peptidedosages.com/peptide-stack-dosages/cjc-1295-dac-2-mg-vial-ipamorelin-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-24T10:01:43+00:00
+- Scraped: 2026-08-31T17:03:56+00:00
 
 ## Dosing & Reconstitution Guide
 

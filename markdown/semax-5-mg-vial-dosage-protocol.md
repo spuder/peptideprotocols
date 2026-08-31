@@ -1,7 +1,7 @@
 # Semax Dosage (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/semax-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-24T09:59:15+00:00
+- Scraped: 2026-08-31T17:01:31+00:00
 
 ## Dosing & Reconstitution Guide
 

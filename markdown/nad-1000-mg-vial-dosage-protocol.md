@@ -1,7 +1,7 @@
 # NAD+ (1000 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/nad-1000-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-24T09:57:45+00:00
+- Scraped: 2026-08-31T17:00:02+00:00
 - Reconstitution: 3.0 mL -> 333.3 mg/mL
 
 ## Dosing & Reconstitution Guide

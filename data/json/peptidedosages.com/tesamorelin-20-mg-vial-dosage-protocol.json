@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/tesamorelin-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-24T10:00:07+00:00",
+  "scraped_at": "2026-08-31T17:02:22+00:00",
   "peptide": "Tesamorelin",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -165,5 +165,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "3405345967f97034"
+  "content_hash": "df679edf0d20d543"
 }

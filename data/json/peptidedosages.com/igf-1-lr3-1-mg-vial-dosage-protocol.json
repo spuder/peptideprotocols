@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/igf-1-lr3-1-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-24T09:56:37+00:00",
+  "scraped_at": "2026-08-31T16:58:54+00:00",
   "peptide": "IGF-1 LR3",
   "vial_size_text": "1 mg Vial",
   "vial_size_mg": 1.0,
@@ -201,5 +201,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "098e53b34f864e61"
+  "content_hash": "a4beab1dcd165092"
 }

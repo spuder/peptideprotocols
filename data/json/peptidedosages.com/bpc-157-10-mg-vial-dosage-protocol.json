@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/bpc-157-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-24T09:54:43+00:00",
+  "scraped_at": "2026-08-31T16:56:58+00:00",
   "peptide": "BPC-157",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -179,5 +179,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "e5c253aea8b9105c"
+  "content_hash": "2a293e9b888b2d0b"
 }

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/tirzepatide-30-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-24T10:00:38+00:00",
+  "scraped_at": "2026-08-31T17:02:51+00:00",
   "peptide": "Tirzepatide",
   "vial_size_text": "30 mg Vial",
   "vial_size_mg": 30.0,
@@ -181,5 +181,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "4e323cabf2386848"
+  "content_hash": "de0bc61b09e31a04"
 }

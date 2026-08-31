@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ghrp-6-2-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-24T09:56:07+00:00",
+  "scraped_at": "2026-08-31T16:58:24+00:00",
   "peptide": "GHRP-6",
   "vial_size_text": "2 mg Vial",
   "vial_size_mg": 2.0,
@@ -225,5 +225,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "9b385d2b32e3ca76"
+  "content_hash": "e8e733badae15b70"
 }

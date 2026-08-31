@@ -1,7 +1,7 @@
 # MOTS-C (40 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/mots-c-40-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-24T09:57:37+00:00
+- Scraped: 2026-08-31T16:59:53+00:00
 
 ## Dosing & Reconstitution Guide
 

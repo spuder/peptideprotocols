@@ -1,7 +1,7 @@
 # Tesamorelin 5mg + Ipamorelin 5mg (10mg Blend) Dosage Protocol ()
 
 - Source: <https://peptidedosages.com/peptide-blend-dosages/tesamorelin-5-mg-ipamorelin-5-mg-10-mg-blend-dosage-protocol/>
-- Scraped: 2026-08-24T10:01:34+00:00
+- Scraped: 2026-08-31T17:03:47+00:00
 
 ## Dosing & Reconstitution Guide
 

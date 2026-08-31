@@ -1,7 +1,7 @@
 # GLOW (70 mg Blend) Dosage Protocol ()
 
 - Source: <https://peptidedosages.com/peptide-blend-dosages/glow-peptide-blend-70-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-24T10:01:21+00:00
+- Scraped: 2026-08-31T17:03:34+00:00
 - Reconstitution: 3.0 mL -> 23.3 mg/mL
 
 ## Dosing & Reconstitution Guide

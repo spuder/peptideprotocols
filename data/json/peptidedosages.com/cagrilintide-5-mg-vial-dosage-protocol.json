@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/cagrilintide-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-24T09:54:55+00:00",
+  "scraped_at": "2026-08-31T16:57:11+00:00",
   "peptide": "Cagrilintide",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -209,5 +209,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "5ec79ff123f525a9"
+  "content_hash": "c67c354fbb197edd"
 }
