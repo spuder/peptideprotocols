@@ -1,7 +1,7 @@
 # DSIP (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/dsip-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-31T16:57:45+00:00
+- Scraped: 2026-09-07T14:57:55+00:00
 
 ## Dosing & Reconstitution Guide
 

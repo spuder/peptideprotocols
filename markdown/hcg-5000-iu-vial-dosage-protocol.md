@@ -1,7 +1,7 @@
 # HCG (5000 IU Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/hcg-5000-iu-vial-dosage-protocol/>
-- Scraped: 2026-08-31T16:58:41+00:00
+- Scraped: 2026-09-07T14:58:49+00:00
 
 ## Dosing & Reconstitution Guide
 

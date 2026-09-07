@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/chonluten-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-31T16:57:23+00:00",
+  "scraped_at": "2026-09-07T14:57:33+00:00",
   "peptide": "Chonluten",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -198,5 +198,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "345b51cd02ae3f62"
+  "content_hash": "afde53b53cc434ec"
 }

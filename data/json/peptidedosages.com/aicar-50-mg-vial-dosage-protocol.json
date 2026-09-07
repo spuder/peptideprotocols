@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/aicar-50-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-31T16:56:41+00:00",
+  "scraped_at": "2026-09-07T14:56:51+00:00",
   "peptide": "AICAR",
   "vial_size_text": "50 mg Vial",
   "vial_size_mg": 50.0,
@@ -187,5 +187,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "69683d794c8b9bae"
+  "content_hash": "8f838970871129b1"
 }

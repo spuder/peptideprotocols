@@ -1,7 +1,7 @@
 # Ovagen (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/ovagen-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-31T17:00:10+00:00
+- Scraped: 2026-09-07T15:00:18+00:00
 - Reconstitution: 2.0 mL -> 10.0 mg/mL
 
 ## Dosing & Reconstitution Guide

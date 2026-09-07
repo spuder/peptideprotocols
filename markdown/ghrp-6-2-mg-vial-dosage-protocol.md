@@ -1,7 +1,7 @@
 # GHRP-6 (2 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/ghrp-6-2-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-31T16:58:24+00:00
+- Scraped: 2026-09-07T14:58:33+00:00
 
 ## Dosing & Reconstitution Guide
 

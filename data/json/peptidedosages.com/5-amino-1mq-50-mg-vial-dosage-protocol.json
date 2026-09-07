@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/5-amino-1mq-50-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-31T16:56:28+00:00",
+  "scraped_at": "2026-09-07T14:56:38+00:00",
   "peptide": "5-Amino-1MQ",
   "vial_size_text": "50 mg Vial",
   "vial_size_mg": 50.0,
@@ -187,5 +187,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "5479da9a793ad6e1"
+  "content_hash": "a423d30aa60eb260"
 }

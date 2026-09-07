@@ -1,7 +1,7 @@
 # DSIP (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/dsip-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-31T16:57:49+00:00
+- Scraped: 2026-09-07T14:57:59+00:00
 
 ## Dosing & Reconstitution Guide
 

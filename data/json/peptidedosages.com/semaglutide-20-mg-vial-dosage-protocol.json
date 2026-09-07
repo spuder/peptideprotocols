@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/semaglutide-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-31T17:01:18+00:00",
+  "scraped_at": "2026-09-07T15:01:26+00:00",
   "peptide": "Semaglutide",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -212,5 +212,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "dc2afa16e5a1c2c0"
+  "content_hash": "d646e06e2fc50ca6"
 }

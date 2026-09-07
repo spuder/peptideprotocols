@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ss-31-50-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-31T17:02:01+00:00",
+  "scraped_at": "2026-09-07T15:02:08+00:00",
   "peptide": "SS-31",
   "vial_size_text": "50 mg Vial",
   "vial_size_mg": 50.0,
@@ -231,5 +231,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "7a262d1f1e41f241"
+  "content_hash": "86b7feefa7fed734"
 }

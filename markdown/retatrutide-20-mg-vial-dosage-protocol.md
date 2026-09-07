@@ -1,7 +1,7 @@
 # Retatrutide (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/retatrutide-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-31T17:00:52+00:00
+- Scraped: 2026-09-07T15:01:00+00:00
 
 ## Dosing & Reconstitution Guide
 

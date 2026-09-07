@@ -1,7 +1,7 @@
 # Cartalax (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/cartalax-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-31T16:57:15+00:00
+- Scraped: 2026-09-07T14:57:25+00:00
 
 ## Dosing & Reconstitution Guide
 

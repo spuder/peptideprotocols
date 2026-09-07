@@ -1,7 +1,7 @@
 # Livagen (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/livagen-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-31T16:59:20+00:00
+- Scraped: 2026-09-07T14:59:27+00:00
 
 ## Dosing & Reconstitution Guide
 

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ghk-cu-50-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-31T16:58:06+00:00",
+  "scraped_at": "2026-09-07T14:58:16+00:00",
   "peptide": "GHK-Cu",
   "vial_size_text": "50 mg Vial",
   "vial_size_mg": 50.0,
@@ -267,5 +267,5 @@
       "category": "Additional Technical and Protocol Sources"
     }
   ],
-  "content_hash": "0d2bf48d6a6a4627"
+  "content_hash": "1d396882ebaf634e"
 }

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/oxytocin-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-31T17:00:19+00:00",
+  "scraped_at": "2026-09-07T15:00:26+00:00",
   "peptide": "Oxytocin",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -223,5 +223,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "13fefad4d4311bcc"
+  "content_hash": "28eb5e13d732f9e1"
 }

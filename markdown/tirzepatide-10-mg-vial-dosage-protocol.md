@@ -1,7 +1,7 @@
 # Tirzepatide (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/tirzepatide-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-31T17:02:43+00:00
+- Scraped: 2026-09-07T15:02:51+00:00
 - Reconstitution: 2.0 mL -> 5.0 mg/mL
 
 ## Dosing & Reconstitution Guide

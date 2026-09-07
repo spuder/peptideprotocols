@@ -1,7 +1,7 @@
 # Melanotan II (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/melanotan-ii-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-31T16:59:37+00:00
+- Scraped: 2026-09-07T14:59:44+00:00
 - Reconstitution: 3.0 mL -> 3.33 mg/mL
 
 ## Dosing & Reconstitution Guide

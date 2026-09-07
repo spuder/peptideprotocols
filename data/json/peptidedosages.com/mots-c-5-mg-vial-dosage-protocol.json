@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/mots-c-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-31T16:59:57+00:00",
+  "scraped_at": "2026-09-07T15:00:05+00:00",
   "peptide": "MOTS-C",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -194,5 +194,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "b259110c1e99de2c"
+  "content_hash": "c23befb50d6b1d99"
 }

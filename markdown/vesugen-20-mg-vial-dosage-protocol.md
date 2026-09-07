@@ -1,7 +1,7 @@
 # Vesugen (Lys-Glu-Asp) (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/vesugen-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-08-31T17:03:00+00:00
+- Scraped: 2026-09-07T15:03:08+00:00
 
 ## Dosing & Reconstitution Guide
 

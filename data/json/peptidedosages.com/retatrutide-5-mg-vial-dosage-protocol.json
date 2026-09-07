@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/retatrutide-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-31T17:01:01+00:00",
+  "scraped_at": "2026-09-07T15:01:09+00:00",
   "peptide": "Retatrutide",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -261,5 +261,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "0892c3b70009aab4"
+  "content_hash": "387b158bc7eb6a5f"
 }

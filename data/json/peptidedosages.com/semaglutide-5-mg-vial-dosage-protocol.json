@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/semaglutide-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-08-31T17:01:22+00:00",
+  "scraped_at": "2026-09-07T15:01:30+00:00",
   "peptide": "Semaglutide",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -212,5 +212,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "c3170b2a2056129c"
+  "content_hash": "03e644217a09c613"
 }
