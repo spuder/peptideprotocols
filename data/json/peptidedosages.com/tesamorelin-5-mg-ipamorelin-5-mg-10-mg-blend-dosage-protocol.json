@@ -1,71 +1,18 @@
 {
   "source_url": "https://peptidedosages.com/peptide-blend-dosages/tesamorelin-5-mg-ipamorelin-5-mg-10-mg-blend-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-07T15:03:54+00:00",
-  "peptide": "Tesamorelin 5mg + Ipamorelin 5mg (10mg Blend) Dosage Protocol",
+  "scraped_at": "2026-09-14T15:56:11+00:00",
+  "peptide": "Tesamorelin 5mg + Ipamorelin 5mg(10mg Blend)Dosage Protocol",
   "vial_size_text": "",
   "vial_size_mg": null,
-  "page_updated": null,
+  "page_updated": "",
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
-    "steps": [
-      "Draw 3.0 mL bacteriostatic water with a sterile syringe.",
-      "Inject slowly down the vial wall; avoid foaming.",
-      "Gently swirl/roll until dissolved (do not shake).",
-      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light; use within 24–48 hours [5] ."
-    ]
+    "steps": []
   },
-  "protocols": [
-    {
-      "name": "Standard / Gradual Approach",
-      "heading_raw": "Standard / Gradual Approach (3 mL = ~3.33 mg/mL total)",
-      "frequency": "",
-      "rows": [
-        {
-          "week_phase": "Weeks 1–2",
-          "dose_text": "250 mcg (0.25 mg)",
-          "dose_mg": 250.0,
-          "units_text": "125 mcg (0.125 mg)",
-          "units": null,
-          "ml": null
-        },
-        {
-          "week_phase": "Weeks 3–4",
-          "dose_text": "500 mcg (0.5 mg)",
-          "dose_mg": 500.0,
-          "units_text": "250 mcg (0.25 mg)",
-          "units": null,
-          "ml": null
-        },
-        {
-          "week_phase": "Weeks 5–6",
-          "dose_text": "1000 mcg (1.0 mg)",
-          "dose_mg": 1000.0,
-          "units_text": "500 mcg (0.5 mg)",
-          "units": null,
-          "ml": null
-        },
-        {
-          "week_phase": "Weeks 7–10",
-          "dose_text": "1500 mcg (1.5 mg)",
-          "dose_mg": 1500.0,
-          "units_text": "750 mcg (0.75 mg)",
-          "units": null,
-          "ml": null
-        },
-        {
-          "week_phase": "Weeks 11–16",
-          "dose_text": "2000 mcg (2.0 mg)",
-          "dose_mg": 2000.0,
-          "units_text": "1000 mcg (1.0 mg)",
-          "units": null,
-          "ml": null
-        }
-      ]
-    }
-  ],
+  "protocols": [],
   "supplies": [
     {
       "item": "Peptide Vials (Tesamorelin 5 mg + Ipamorelin 5 mg, 10 mg blend each):",
@@ -116,84 +63,6 @@
       "unit": "mL"
     }
   ],
-  "references": [
-    {
-      "ref_id": "ref-1",
-      "citation": "PMC — The Safety and Efficacy of Growth Hormone Secretagogues",
-      "description": "GHRH + GHRP synergy; dual pathway GH stimulation mechanisms",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5632578/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-2",
-      "citation": "Endocrine Reviews — Growth Hormone Secretagogues",
-      "description": "Synergistic amplification of GH release with combined GHRH and ghrelin mimetics",
-      "url": "https://academic.oup.com/edrv/article/18/5/621/2530748",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-3",
-      "citation": "NCBI LiverTox — Tesamorelin",
-      "description": "Synthetic GHRH analog; recommended dose 2 mg SC daily for HIV lipodystrophy",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK548730/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-4",
-      "citation": "PubMed — Ipamorelin, the first selective growth hormone secretagogue",
-      "description": "High GH potency and selectivity; no cortisol/ACTH effect",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/9849822/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-5",
-      "citation": "FDA Egrifta (tesamorelin) Label",
-      "description": "SC abdomen injection; rotate sites; storage and reconstitution guidance",
-      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/022505s004lbl.pdf",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-6",
-      "citation": "CDC — Vaccine Administration: Subcutaneous Injection",
-      "description": "Subcutaneous injection technique (45° angle, pinch skin, no aspiration)",
-      "url": "https://www.cdc.gov/vaccines/hcp/admin/downloads/YCTS-VaxAdmin-Subcut-injection.pdf",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-7",
-      "citation": "European Journal of Endocrinology — Ipamorelin GH selectivity",
-      "description": "Potent and specific GH release without affecting cortisol, prolactin, or FSH/LH",
-      "url": null,
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-8",
-      "citation": "PubMed — Pharmacokinetic-pharmacodynamic modeling of ipamorelin",
-      "description": "Human GH release peaked ~0.67 h post-dose",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-9",
-      "citation": "JAMA — Tesamorelin for Abdominal Fat in HIV",
-      "description": "Phase 3 trials demonstrating visceral fat reduction with tesamorelin",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/186684",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-10",
-      "citation": "CDC — Vaccine Administration During",
-      "description": "General subcutaneous route guidance (angle/site)",
-      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-11",
-      "citation": "NCBI Bookshelf — Best Practices for Injection",
-      "description": "Asepsis, preparation, and administration guidance",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
-      "category": "References"
-    }
-  ],
-  "content_hash": "0ca436bea1679aa7"
+  "references": [],
+  "content_hash": "7ea008d6dcdbd593"
 }

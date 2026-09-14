@@ -1,116 +1,40 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ghrp-2-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-07T14:58:20+00:00",
+  "scraped_at": "2026-09-14T15:50:33+00:00",
   "peptide": "GHRP-2",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
-  "page_updated": null,
+  "page_updated": "",
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
-    "steps": [
-      "Draw 3.0 mL bacteriostatic water with a sterile syringe.",
-      "Inject slowly down the vial wall; avoid foaming.",
-      "Gently swirl/roll until dissolved (do not shake).",
-      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light."
-    ]
+    "steps": []
   },
-  "protocols": [
-    {
-      "name": "Standard / Gradual Approach",
-      "heading_raw": "Standard / Gradual Approach (3 mL = ~3.33 mg/mL)",
-      "frequency": "Frequency: Inject once daily subcutaneously, typically before sleep to coincide with natural GH pulsatility [4] . For ≤10‑unit (≤0.10 mL) administrations, consider 30‑ or 50‑unit insulin syringes for improved readability.",
-      "rows": [
-        {
-          "week_phase": "Weeks 1–2",
-          "dose_text": "100 mcg (0.1 mg)",
-          "dose_mg": 100.0,
-          "units_text": "3 units (0.03 mL)",
-          "units": 3.0,
-          "ml": 0.03
-        },
-        {
-          "week_phase": "Weeks 3–4",
-          "dose_text": "150 mcg (0.15 mg)",
-          "dose_mg": 150.0,
-          "units_text": "4.5 units (0.045 mL)",
-          "units": 4.5,
-          "ml": 0.045
-        },
-        {
-          "week_phase": "Weeks 5–8",
-          "dose_text": "200 mcg (0.2 mg)",
-          "dose_mg": 200.0,
-          "units_text": "6 units (0.06 mL)",
-          "units": 6.0,
-          "ml": 0.06
-        },
-        {
-          "week_phase": "Weeks 9–12 (optional)",
-          "dose_text": "250–300 mcg (0.25–0.3 mg)",
-          "dose_mg": 250.0,
-          "units_text": "7.5–9 units (0.075–0.09 mL)",
-          "units": 9.0,
-          "ml": null
-        }
-      ]
-    },
-    {
-      "name": "Advanced / Aggressive Approach",
-      "heading_raw": "Advanced / Aggressive Approach (Multiple Daily Dosing)",
-      "frequency": "",
-      "rows": [
-        {
-          "week_phase": "Phase 1 (Weeks 1–2)",
-          "dose_text": "100 mcg (0.1 mg)",
-          "dose_mg": 100.0,
-          "units_text": "2× daily",
-          "units": null,
-          "ml": null
-        },
-        {
-          "week_phase": "Phase 2 (Weeks 3–4)",
-          "dose_text": "150 mcg (0.15 mg)",
-          "dose_mg": 150.0,
-          "units_text": "2× daily",
-          "units": null,
-          "ml": null
-        },
-        {
-          "week_phase": "Phase 3 (Weeks 5–8)",
-          "dose_text": "200 mcg (0.2 mg)",
-          "dose_mg": 200.0,
-          "units_text": "2–3× daily",
-          "units": null,
-          "ml": null
-        }
-      ]
-    }
-  ],
+  "protocols": [],
   "supplies": [
     {
       "item": "Peptide Vials (GHRP-2, 10 mg each):",
       "schedule": null,
-      "label": "8 weeks ≈",
-      "quantity_text": "1 vial",
+      "label": "8 weeks",
+      "quantity_text": "approximately 1 vial required",
       "quantity": 1.0,
       "unit": "vial"
     },
     {
       "item": "Peptide Vials (GHRP-2, 10 mg each):",
       "schedule": null,
-      "label": "12 weeks ≈",
-      "quantity_text": "2 vials",
+      "label": "12 weeks",
+      "quantity_text": "approximately 2 vials required",
       "quantity": 2.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (GHRP-2, 10 mg each):",
       "schedule": null,
-      "label": "16 weeks ≈",
-      "quantity_text": "3 vials",
+      "label": "16 weeks",
+      "quantity_text": "approximately 3 vials required",
       "quantity": 3.0,
       "unit": "vials"
     },
@@ -118,7 +42,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (1 vial)",
-      "quantity_text": "3 mL (also: 1 × 10 mL)",
+      "quantity_text": "3 mL (also: 1 bottle required)",
       "quantity": 3.0,
       "unit": "mL"
     },
@@ -126,7 +50,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "12 weeks (2 vials)",
-      "quantity_text": "6 mL (also: 1 × 10 mL)",
+      "quantity_text": "6 mL (also: 1 bottle required)",
       "quantity": 6.0,
       "unit": "mL"
     },
@@ -134,89 +58,11 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "16 weeks (3 vials)",
-      "quantity_text": "9 mL (also: 1 × 10 mL)",
+      "quantity_text": "9 mL (also: 1 bottle required)",
       "quantity": 9.0,
       "unit": "mL"
     }
   ],
-  "references": [
-    {
-      "ref_id": "ref-1",
-      "citation": "Pralmorelin (GHRP-2) — Wikipedia",
-      "description": "Overview of GHRP-2 mechanism, ghrelin receptor agonism, and physiological effects",
-      "url": "https://en.wikipedia.org/wiki/Pralmorelin",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-2",
-      "citation": "PubMed — Growth hormone response to GHRP-2 (PMC3297037)",
-      "description": "Pituitary and hypothalamic mechanisms of GH release stimulation",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3297037/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-3",
-      "citation": "Pihoker C. et al. (1995) — J Clin Endocrinol Metab",
-      "description": "Diagnostic studies with IV and intranasal GHRP-2 in children of short stature",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/7559885/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-4",
-      "citation": "Nijland EA. et al. (1998) — Eur J Endocrinol",
-      "description": "Five‑day SC GHRP-2 treatment causes response attenuation in young men",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/9820615/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-5",
-      "citation": "Sigalos JT. et al. (2017) — Am J Mens Health (PMC5675260)",
-      "description": "GH secretagogue therapy raises IGF-1 levels (~50% increase over 3 months)",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5675260/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-6",
-      "citation": "Arvat et al., Peptides (1997)",
-      "description": "Human study of GHRP-2 effects on GH, prolactin, ACTH, and cortisol after controlled intravenous administration.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/9285939/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-7",
-      "citation": "Kim KS et al. (2003) — Asian-Australas J Anim Sci",
-      "description": "Twice‑daily GHRP-2 effects on IGF-1 and tachyphylaxis patterns",
-      "url": "https://www.animbiosci.org/upload/pdf/16_176.pdf",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-8",
-      "citation": "Sigma-Aldrich — Handling and Storage Guidelines for Peptides",
-      "description": "Lyophilized storage at −20 °C; reconstituted use within 4 weeks",
-      "url": "https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/research-and-disease-areas/cell-and-developmental-biology-research/handling-and-storage",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-9",
-      "citation": "Mountainside Medical — Bacteriostatic Water vs Sterile Water",
-      "description": "Multi‑dose vial guidelines; 28‑day use recommendation",
-      "url": "https://www.mountainside-medical.com/blogs/medical-supplies/understanding-bacteriostatic-water-vs-sterile-water-for-injection",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-10",
-      "citation": "Usach I. et al. (2019) — Adv Ther (PMC6822791)",
-      "description": "Subcutaneous injection of drugs: factors influencing pain and technique",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822791/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-11",
-      "citation": "MedlinePlus — Subcutaneous (SQ) Injections",
-      "description": "Site selection, angle guidance, and rotation best practices",
-      "url": "https://medlineplus.gov/ency/patientinstructions/000430.htm",
-      "category": "References"
-    }
-  ],
-  "content_hash": "b2c61b4fd02f5169"
+  "references": [],
+  "content_hash": "ccb203a09e7a9905"
 }

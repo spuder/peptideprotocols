@@ -1,96 +1,40 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/nad-500-mg-10ml-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-07T15:00:13+00:00",
+  "scraped_at": "2026-09-14T15:52:29+00:00",
   "peptide": "NAD+",
   "vial_size_text": "500 mg Vial",
   "vial_size_mg": 500.0,
-  "page_updated": null,
+  "page_updated": "",
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
-    "volume_ml": 3.0,
-    "concentration_mg_ml": 166.7,
-    "steps": [
-      "Allow the lyophilized vial to reach room temperature before opening to minimize moisture condensation.",
-      "Draw 3.0 mL bacteriostatic water (0.9% benzyl alcohol) with a sterile syringe.",
-      "Inject slowly down the vial wall to avoid foaming; do not aim directly at the powder.",
-      "Gently swirl or roll the vial until the powder fully dissolves (do not shake vigorously).",
-      "The resulting solution should be clear and colorless. If discoloration or precipitate appears, discard.",
-      "Label with the reconstitution date and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light.",
-      "Use within 14 days; inspect before each use for clarity."
-    ]
+    "volume_ml": null,
+    "concentration_mg_ml": null,
+    "steps": []
   },
-  "protocols": [
-    {
-      "name": "Standard / Gradual Titration Approach",
-      "heading_raw": "Standard / Gradual Titration Approach (3 mL = 166.7 mg/mL)",
-      "frequency": "Frequency: Inject once daily subcutaneously. This gradual titration protocol begins at 50 mg daily to assess tolerance, as starting too high can produce adverse reactions such as insomnia, anxiety, or fatigue [4] . Most individuals find doses in the 50–100 mg range well‑tolerated after ramp‑up [5] . The 3.0 mL dilution keeps per‑injection volumes practical and allows for accurate unit measurements on standard insulin syringes.",
-      "rows": [
-        {
-          "week_phase": "Week 1",
-          "dose_text": "50 mg",
-          "dose_mg": 50.0,
-          "units_text": "30 units (0.30 mL)",
-          "units": 30.0,
-          "ml": 0.3
-        },
-        {
-          "week_phase": "Week 2",
-          "dose_text": "75 mg",
-          "dose_mg": 75.0,
-          "units_text": "45 units (0.45 mL)",
-          "units": 45.0,
-          "ml": 0.45
-        },
-        {
-          "week_phase": "Weeks 3–8",
-          "dose_text": "100 mg",
-          "dose_mg": 100.0,
-          "units_text": "60 units (0.60 mL)",
-          "units": 60.0,
-          "ml": 0.6
-        },
-        {
-          "week_phase": "Weeks 9–12",
-          "dose_text": "100 mg",
-          "dose_mg": 100.0,
-          "units_text": "60 units (0.60 mL)",
-          "units": 60.0,
-          "ml": 0.6
-        },
-        {
-          "week_phase": "Weeks 13–16",
-          "dose_text": "100 mg",
-          "dose_mg": 100.0,
-          "units_text": "60 units (0.60 mL)",
-          "units": 60.0,
-          "ml": 0.6
-        }
-      ]
-    }
-  ],
+  "protocols": [],
   "supplies": [
     {
       "item": "Peptide Vials (NAD+, 500 mg each):",
       "schedule": null,
-      "label": "8 weeks ≈",
-      "quantity_text": "11 vials",
+      "label": "8 weeks",
+      "quantity_text": "approximately 11 vials required",
       "quantity": 11.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (NAD+, 500 mg each):",
       "schedule": null,
-      "label": "12 weeks ≈",
-      "quantity_text": "16 vials",
+      "label": "12 weeks",
+      "quantity_text": "approximately 16 vials required",
       "quantity": 16.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (NAD+, 500 mg each):",
       "schedule": null,
-      "label": "16 weeks ≈",
-      "quantity_text": "22 vials",
+      "label": "16 weeks",
+      "quantity_text": "approximately 22 vials required",
       "quantity": 22.0,
       "unit": "vials"
     },
@@ -98,7 +42,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (11 vials)",
-      "quantity_text": "33 mL (also: 4 × 10 mL)",
+      "quantity_text": "33 mL (also: 4 bottles required)",
       "quantity": 33.0,
       "unit": "mL"
     },
@@ -106,7 +50,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "12 weeks (16 vials)",
-      "quantity_text": "48 mL (also: 5 × 10 mL)",
+      "quantity_text": "48 mL (also: 5 bottles required)",
       "quantity": 48.0,
       "unit": "mL"
     },
@@ -114,145 +58,11 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "16 weeks (22 vials)",
-      "quantity_text": "66 mL (also: 7 × 10 mL)",
+      "quantity_text": "66 mL (also: 7 bottles required)",
       "quantity": 66.0,
       "unit": "mL"
     }
   ],
-  "references": [
-    {
-      "ref_id": "ref-1",
-      "citation": "Pharmaceuticals (Basel)",
-      "description": "Clinical evidence for targeting NAD+ therapeutically: metabolic pathways and therapeutic potential",
-      "url": "https://doi.org/10.3390/ph13090247",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-2",
-      "citation": "Current Psychiatry Research and Reviews",
-      "description": "NAD+ and enkephalinase infusions attenuate burden in substance use disorder (pilot of 50 cases)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/36118157/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-3",
-      "citation": "Fagron Academy (US)",
-      "description": "NAD+ dosing review: routes, protocols, and case study insights from clinical practice",
-      "url": "https://www.fagronacademy.us/blog/nicotinamide-adenine-dinucleotide-nad-a-review-on-dosing",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-4",
-      "citation": "Jinfiniti (NAD+ Dosage Chart)",
-      "description": "NAD+ injection dosage guidance: chart, timing, and safety considerations for titration",
-      "url": "https://www.jinfiniti.com/nad-injection-dosage-chart/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-5",
-      "citation": "Olympia Pharmacy",
-      "description": "NAD+ injection (Nicotinamide Adenine Dinucleotide): compounding pharmacy information and dosing guidance",
-      "url": "https://www.olympiapharmacy.com/product/nad-injection/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-6",
-      "citation": "Sigma-Aldrich Product Information",
-      "description": "β‑Nicotinamide adenine dinucleotide (NAD+) product specification and stability data",
-      "url": "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/documents/668/557/n8285pis.pdf",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-7",
-      "citation": "Empower Pharmacy",
-      "description": "NAD+ injection (lyophilized): compounding specifications and reconstitution guidance",
-      "url": "https://www.empowerpharmacy.com/compounding-pharmacy/nad-injection/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-8",
-      "citation": "PMC (Pharmacology & Potential Implications of NAD+)",
-      "description": "Comprehensive review of NAD+ metabolism, aging, and therapeutic applications",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8612620/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-9",
-      "citation": "AgelessRx",
-      "description": "NAD+ injection clinical overview and administration protocols",
-      "url": "https://agelessrx.com/nad-injection/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-10",
-      "citation": "Frontiers in Aging Neuroscience",
-      "description": "A pilot study investigating changes in human plasma and urine NAD+ metabolome during 6‑hour IV infusion (750 mg dose)",
-      "url": "https://doi.org/10.3389/fnagi.2019.00257",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-11",
-      "citation": "Pure Bio Labs",
-      "description": "NAD+ vial (500 mg): high‑purity peptide product specifications",
-      "url": "https://purebiolabs.com/products/nad-plus-500mg",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-12",
-      "citation": "Fagron Academy (NAD+ Review)",
-      "description": "Subcutaneous and intramuscular NAD+ administration: emerging practices for maintenance therapy",
-      "url": "https://www.fagronacademy.us/blog/nicotinamide-adenine-dinucleotide-nad-a-review-on-dosing",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-13",
-      "citation": "Jinfiniti (Dosage Chart)",
-      "description": "Human case reports: benefits at 100–300 mg/day ranges for cognitive and metabolic support",
-      "url": "https://www.jinfiniti.com/nad-injection-dosage-chart/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-14",
-      "citation": "American Journal of Physiology (PubMed)",
-      "description": "Evaluation of safety and effectiveness of NAD+ in different clinical conditions: a systematic review",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/37971292/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-15",
-      "citation": "Fagron Academy",
-      "description": "Dosing considerations: regimens exceeding 200–300 mg/day reserved for supervised therapeutic use",
-      "url": "https://www.fagronacademy.us/blog/nicotinamide-adenine-dinucleotide-nad-a-review-on-dosing",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-16",
-      "citation": "CDC Pink Book (Chapter 6)",
-      "description": "Vaccine administration: needle selection and injection technique for subcutaneous route",
-      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-6-vaccine-administration.html",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-17",
-      "citation": "CDC Subcutaneous Injection Guide",
-      "description": "Technique diagram and site guidance for subcutaneous injections (45–90° angle, no aspiration)",
-      "url": "https://www.cdc.gov/vaccines/hcp/admin/downloads/YCTS-VaxAdmin-Subcut-injection.pdf",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-18",
-      "citation": "NCBI Bookshelf",
-      "description": "Best practices for injections: asepsis, site preparation, administration, and rotation to prevent lipohypertrophy",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-19",
-      "citation": "PMC (Subcutaneous Drug Injection Review)",
-      "description": "Literature review of factors influencing pain at injection site and volume considerations for subcutaneous route",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822791/",
-      "category": "References"
-    }
-  ],
-  "content_hash": "9bca8fde3edeeb57"
+  "references": [],
+  "content_hash": "2958ea92b59ed074"
 }

@@ -1,69 +1,40 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/thymosin-alpha-1-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-07T15:02:42+00:00",
+  "scraped_at": "2026-09-14T15:54:58+00:00",
   "peptide": "Thymosin Alpha-1",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
-  "page_updated": null,
+  "page_updated": "",
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
-    "steps": [
-      "Draw 3.0 mL bacteriostatic water with a sterile syringe.",
-      "Inject slowly down the vial wall; avoid foaming.",
-      "Gently swirl/roll until dissolved (do not shake).",
-      "Label with reconstitution date and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light."
-    ]
+    "steps": []
   },
-  "protocols": [
-    {
-      "name": "Standard / Gradual Approach",
-      "heading_raw": "Standard / Gradual Approach (3 mL = ~3.33 mg/mL)",
-      "frequency": "Frequency: Inject once daily subcutaneously. This 8‑week protocol begins at 300 mcg to assess tolerance, then increases to a maintenance dose of 500 mcg daily from Week 2 onward. The 500 mcg daily dose yields ~3.5 mg/week, consistent with clinical dosing ranges [4] [5] . Treatment durations of 8–16 weeks are commonly reported in literature.",
-      "rows": [
-        {
-          "week_phase": "Week 1",
-          "dose_text": "300 mcg (0.3 mg)",
-          "dose_mg": 300.0,
-          "units_text": "9 units (0.09 mL)",
-          "units": 9.0,
-          "ml": 0.09
-        },
-        {
-          "week_phase": "Weeks 2–8",
-          "dose_text": "500 mcg (0.5 mg)",
-          "dose_mg": 500.0,
-          "units_text": "15 units (0.15 mL)",
-          "units": 15.0,
-          "ml": 0.15
-        }
-      ]
-    }
-  ],
+  "protocols": [],
   "supplies": [
     {
       "item": "Peptide Vials (Thymosin Alpha-1, 10 mg each):",
       "schedule": null,
-      "label": "8 weeks ≈",
-      "quantity_text": "3 vials",
+      "label": "8 weeks",
+      "quantity_text": "approximately 3 vials required",
       "quantity": 3.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (Thymosin Alpha-1, 10 mg each):",
       "schedule": null,
-      "label": "12 weeks ≈",
-      "quantity_text": "5 vials",
+      "label": "12 weeks",
+      "quantity_text": "approximately 5 vials required",
       "quantity": 5.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (Thymosin Alpha-1, 10 mg each):",
       "schedule": null,
-      "label": "16 weeks ≈",
-      "quantity_text": "6 vials",
+      "label": "16 weeks",
+      "quantity_text": "approximately 6 vials required",
       "quantity": 6.0,
       "unit": "vials"
     },
@@ -71,7 +42,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (3 vials)",
-      "quantity_text": "9 mL (also: 1 × 10 mL)",
+      "quantity_text": "9 mL (also: 1 bottle required)",
       "quantity": 9.0,
       "unit": "mL"
     },
@@ -79,7 +50,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "12 weeks (5 vials)",
-      "quantity_text": "15 mL (also: 2 × 10 mL)",
+      "quantity_text": "15 mL (also: 2 bottles required)",
       "quantity": 15.0,
       "unit": "mL"
     },
@@ -87,89 +58,11 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "16 weeks (6 vials)",
-      "quantity_text": "18 mL (also: 2 × 10 mL)",
+      "quantity_text": "18 mL (also: 2 bottles required)",
       "quantity": 18.0,
       "unit": "mL"
     }
   ],
-  "references": [
-    {
-      "ref_id": "ref-1",
-      "citation": "World Journal of Virology",
-      "description": "Dominari et al. (2020): Comprehensive review of Thymosin Alpha-1 mechanisms, dosing (0.8–6.4 mg SC), and clinical applications",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7747025/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-2",
-      "citation": "Molecules (MDPI)",
-      "description": "Tao et al. (2023): Thymosin Alpha-1 in viral diseases—mechanisms and therapeutic applications in HBV, HCV, and HIV",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10144284/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-3",
-      "citation": "Inflammopharmacology",
-      "description": "Soeroto et al. (2023): Meta-analysis of Tα1 in COVID-19; significant mortality reduction in moderate-to-critical patients",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10589223/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-4",
-      "citation": "Expert Opinion on Biological Therapy",
-      "description": "Thymalfasin (Zadaxin) clinical overview: 1.6 mg SC twice weekly for hepatitis B treatment",
-      "url": null,
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-5",
-      "citation": "Annals of the New York Academy of Sciences",
-      "description": "Thymosin Alpha-1: biological activities, clinical applications, and pharmacokinetics review",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/17804536/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-6",
-      "citation": "Clinical Immunology",
-      "description": "Mechanisms of thymosin alpha-1 immunomodulation: T-cell maturation and cytokine production",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/17200151/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-7",
-      "citation": "FDA Peptide Advisory Committee (2024)",
-      "description": "Safety data: Tα1 doses up to 16 mg SC for 12 months showed no significant toxicity",
-      "url": null,
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-8",
-      "citation": "Hospital Pharmacy",
-      "description": "Jordan et al. (2021): Small-volume injection accuracy; recommends ≥20% syringe capacity for precision",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8143611/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-9",
-      "citation": "CDC",
-      "description": "Vaccine administration: subcutaneous route (angle/site; no aspiration required)",
-      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-10",
-      "citation": "Johns Hopkins Arthritis Center",
-      "description": "How to give a subcutaneous injection: site selection, rotation, and technique",
-      "url": "https://www.hopkinsarthritis.org/patient-corner/how-to-give-a-subcutaneous-injection/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-11",
-      "citation": "NCBI Bookshelf",
-      "description": "Best practices for injection: asepsis, preparation, site rotation, and administration",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
-      "category": "References"
-    }
-  ],
-  "content_hash": "58a3740dc4ddaa0f"
+  "references": [],
+  "content_hash": "801a07a8baab2ef8"
 }

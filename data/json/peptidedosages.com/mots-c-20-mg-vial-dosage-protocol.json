@@ -1,94 +1,40 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/mots-c-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-07T14:59:57+00:00",
+  "scraped_at": "2026-09-14T15:52:11+00:00",
   "peptide": "MOTS-C",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
-  "page_updated": null,
+  "page_updated": "",
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
-    "steps": [
-      "Draw 3.0 mL bacteriostatic water with a sterile syringe.",
-      "Inject slowly down the vial wall; avoid foaming.",
-      "Gently swirl/roll until dissolved (do not shake vigorously).",
-      "Label with reconstitution date and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light.",
-      "Use within 7 days for optimal potency [7] ."
-    ]
+    "steps": []
   },
-  "protocols": [
-    {
-      "name": "Standard / Gradual Approach",
-      "heading_raw": "Standard / Gradual Approach (3 mL = ~6.67 mg/mL)",
-      "frequency": "Frequency: Inject once daily subcutaneously [7] . Stay at each dose level for approximately 2 weeks before increasing, and monitor for any adverse reactions [7] .",
-      "rows": [
-        {
-          "week_phase": "Weeks 1–2",
-          "dose_text": "200 mcg (0.2 mg)",
-          "dose_mg": 200.0,
-          "units_text": "3 units (0.03 mL)",
-          "units": 3.0,
-          "ml": 0.03
-        },
-        {
-          "week_phase": "Weeks 3–4",
-          "dose_text": "400 mcg (0.4 mg)",
-          "dose_mg": 400.0,
-          "units_text": "6 units (0.06 mL)",
-          "units": 6.0,
-          "ml": 0.06
-        },
-        {
-          "week_phase": "Weeks 5–6",
-          "dose_text": "600 mcg (0.6 mg)",
-          "dose_mg": 600.0,
-          "units_text": "9 units (0.09 mL)",
-          "units": 9.0,
-          "ml": 0.09
-        },
-        {
-          "week_phase": "Weeks 7–8",
-          "dose_text": "800 mcg (0.8 mg)",
-          "dose_mg": 800.0,
-          "units_text": "12 units (0.12 mL)",
-          "units": 12.0,
-          "ml": 0.12
-        },
-        {
-          "week_phase": "Weeks 9–10+",
-          "dose_text": "1,000 mcg (1.0 mg)",
-          "dose_mg": 1000.0,
-          "units_text": "15 units (0.15 mL)",
-          "units": 15.0,
-          "ml": 0.15
-        }
-      ]
-    }
-  ],
+  "protocols": [],
   "supplies": [
     {
       "item": "Peptide Vials (MOTS-C, 20 mg each):",
       "schedule": null,
-      "label": "8 weeks ≈",
-      "quantity_text": "2 vials",
+      "label": "8 weeks",
+      "quantity_text": "approximately 2 vials required",
       "quantity": 2.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (MOTS-C, 20 mg each):",
       "schedule": null,
-      "label": "12 weeks ≈",
-      "quantity_text": "3 vials",
+      "label": "12 weeks",
+      "quantity_text": "approximately 3 vials required",
       "quantity": 3.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (MOTS-C, 20 mg each):",
       "schedule": null,
-      "label": "16 weeks ≈",
-      "quantity_text": "5 vials",
+      "label": "16 weeks",
+      "quantity_text": "approximately 5 vials required",
       "quantity": 5.0,
       "unit": "vials"
     },
@@ -96,7 +42,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (2 vials)",
-      "quantity_text": "6 mL (also: 1 × 10 mL)",
+      "quantity_text": "6 mL (also: 1 bottle required)",
       "quantity": 6.0,
       "unit": "mL"
     },
@@ -104,7 +50,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "12 weeks (3 vials)",
-      "quantity_text": "9 mL (also: 1 × 10 mL)",
+      "quantity_text": "9 mL (also: 1 bottle required)",
       "quantity": 9.0,
       "unit": "mL"
     },
@@ -112,82 +58,11 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "16 weeks (5 vials)",
-      "quantity_text": "15 mL (also: 2 × 10 mL)",
+      "quantity_text": "15 mL (also: 2 bottles required)",
       "quantity": 15.0,
       "unit": "mL"
     }
   ],
-  "references": [
-    {
-      "ref_id": "ref-1",
-      "citation": "Cell Metabolism (2015)",
-      "description": "The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and reduces obesity and insulin resistance (Lee C, Zeng J, Drew BG, et al.)",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350682/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-2",
-      "citation": "Journal of Translational Medicine (2023)",
-      "description": "Mitochondria-derived peptide MOTS-c: effects and mechanisms related to stress, metabolism and aging (Wan W, Zhang L, Lin Y, et al.)",
-      "url": "https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-03885-2",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-3",
-      "citation": "Journal of Molecular Medicine (2019)",
-      "description": "MOTS-c peptide regulates adipose homeostasis to prevent ovariectomy-induced metabolic dysfunction (Lu H, Wei M, Zhai Y, et al.)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/30725119/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-4",
-      "citation": "Nature Communications (2021)",
-      "description": "MOTS-c is an exercise-induced mitochondrial-encoded regulator of age-dependent physical decline and muscle homeostasis (Reynolds JC, Lai RW, Woodhead JST, et al.)",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7817689/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-5",
-      "citation": "Frontiers in Physiology (2023)",
-      "description": "Role of MOTS-c in the regulation of bone metabolism (Yi X, Hu G, Yang Y, et al.)",
-      "url": "https://doi.org/10.3389/fphys.2023.1149120",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-7",
-      "citation": "Cognitive Vitality Reports (2021)",
-      "description": "MOTS-c (Cognitive Vitality Profile) – Alzheimer’s Drug Discovery Foundation (ADDF)",
-      "url": "https://www.alzdiscovery.org/uploads/cognitive_vitality_media/MOTS-c.pdf",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-8",
-      "citation": "USADA Spirit of Sport (2023)",
-      "description": "What is the MOTS-c peptide? – U.S. Anti-Doping Agency education article",
-      "url": "https://www.usada.org/spirit-of-sport/what-is-mots-c-peptide/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-9",
-      "citation": "CDC Vaccine Administration Guidelines",
-      "description": "Subcutaneous route technique (angle, site selection, no aspiration)",
-      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-10",
-      "citation": "Experimental & Molecular Medicine (2025)",
-      "description": "Mitochondrial-encoded peptide MOTS-c prevents pancreatic islet cell senescence to delay diabetes (Kong BS, Lee H, L’Yi S, et al.)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40855115/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-11",
-      "citation": "MedlinePlus Medical Encyclopedia (2023)",
-      "description": "Subcutaneous (SQ) injections – Patient instructions for proper technique",
-      "url": "https://medlineplus.gov/ency/patientinstructions/000430.htm",
-      "category": "References"
-    }
-  ],
-  "content_hash": "3557f2cefa213ab1"
+  "references": [],
+  "content_hash": "d2d1d270c73add6d"
 }

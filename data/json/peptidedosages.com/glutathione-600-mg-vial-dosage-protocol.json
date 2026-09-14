@@ -1,55 +1,18 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/glutathione-600-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-07T14:58:41+00:00",
+  "scraped_at": "2026-09-14T15:50:54+00:00",
   "peptide": "Glutathione",
   "vial_size_text": "600 mg Vial",
   "vial_size_mg": 600.0,
-  "page_updated": null,
+  "page_updated": "",
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
-    "volume_ml": 2.0,
-    "concentration_mg_ml": 300.0,
-    "steps": [
-      "Draw 2.0 mL bacteriostatic water with a sterile syringe.",
-      "Inject slowly down the vial wall; avoid foaming.",
-      "Gently swirl/roll until dissolved (do not shake).",
-      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light."
-    ]
+    "volume_ml": null,
+    "concentration_mg_ml": null,
+    "steps": []
   },
-  "protocols": [
-    {
-      "name": "Standard / Gradual Approach",
-      "heading_raw": "Standard / Gradual Approach (2 mL = 300 mg/mL)",
-      "frequency": "Frequency: Inject once daily subcutaneously, or split into every-other-day dosing based on protocol goals [5] . Some protocols utilize 200 mg 1–2 × weekly for maintenance [6] . This schedule uses a practical 2.0 mL dilution for accurate measurements with standard insulin syringes.",
-      "rows": [
-        {
-          "week_phase": "Weeks 1–2",
-          "dose_text": "100 mg",
-          "dose_mg": 100.0,
-          "units_text": "33 units (0.33 mL)",
-          "units": 33.0,
-          "ml": 0.33
-        },
-        {
-          "week_phase": "Weeks 3–4",
-          "dose_text": "150 mg",
-          "dose_mg": 150.0,
-          "units_text": "50 units (0.50 mL)",
-          "units": 50.0,
-          "ml": 0.5
-        },
-        {
-          "week_phase": "Weeks 5–8",
-          "dose_text": "200 mg",
-          "dose_mg": 200.0,
-          "units_text": "67 units (0.67 mL)",
-          "units": 67.0,
-          "ml": 0.67
-        }
-      ]
-    }
-  ],
+  "protocols": [],
   "supplies": [
     {
       "item": "Peptide Vials (Glutathione, 600 mg each):",
@@ -84,140 +47,6 @@
       "unit": "mL"
     }
   ],
-  "references": [
-    {
-      "ref_id": "ref-1",
-      "citation": "PubMed",
-      "description": "The antioxidant glutathione: protective roles, cofactor functions, and regeneration mechanisms",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/36707132/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-2",
-      "citation": "PubMed",
-      "description": "Glutathione and glutathione-dependent enzymes: coordinated defense against oxidative stress",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/10517533/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-3",
-      "citation": "PMC",
-      "description": "Glutathione: roles in immune function, detoxification, and clinical applications",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684116/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-4",
-      "citation": "PubMed",
-      "description": "The interplay of glutathione-related processes in antioxidant defense",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/21782570/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-5",
-      "citation": "PMC",
-      "description": "Exploring safety and efficacy of glutathione supplementation: narrative review",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11862975/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-6",
-      "citation": "PubMed",
-      "description": "Glutathione as a skin-lightening agent and in melasma: systematic review",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39444151/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-7",
-      "citation": "PMC",
-      "description": "Glutathione: pharmacological aspects and implications for clinical use in NAFLD",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10075255/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-8",
-      "citation": "PubMed",
-      "description": "Oxidative stress: role of mitochondria and protection by glutathione",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/9699001/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-9",
-      "citation": "PMC",
-      "description": "Efficacy of glutathione for NAFLD treatment: open-label pilot study",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549431/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-10",
-      "citation": "PMC",
-      "description": "Protective effect of glutathione against oxidative stress-induced cytotoxicity via Nrf2/HO-1 pathway",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6523540/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-11",
-      "citation": "PubMed",
-      "description": "Glutathione in the treatment of liver diseases: clinical practice insights",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/27603810/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-12",
-      "citation": "Nature",
-      "description": "Glutathione system enhancement for cardiac protection against oxidative stress",
-      "url": "https://www.nature.com/articles/s41419-023-05645-y",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-13",
-      "citation": "PubMed",
-      "description": "Clinical effect of glutathione on skin color and related conditions: systematic review",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/30895708/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-14",
-      "citation": "PMC",
-      "description": "Glutathione and its antiaging and antimelanogenic effects: RCT at 250 mg/day",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5413479/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-15",
-      "citation": "PubMed",
-      "description": "Oxidative stress and regulation of glutathione in lung inflammation",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/11028671/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-16",
-      "citation": "PMC",
-      "description": "Subcutaneous drug injection review: pharmacologic considerations",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822791/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-17",
-      "citation": "CDC",
-      "description": "Vaccine administration: subcutaneous route (angle/site; no aspiration)",
-      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-18",
-      "citation": "CDC (Subcut Injection PDF)",
-      "description": "Technique diagram and site guidance for subcutaneous injections",
-      "url": "https://www.cdc.gov/vaccines/hcp/admin/downloads/YCTS-VaxAdmin-Subcut-injection.pdf",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-19",
-      "citation": "NCBI Bookshelf",
-      "description": "Best practices for injection (asepsis, preparation, and administration)",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
-      "category": "References"
-    }
-  ],
-  "content_hash": "7c7f97cafbd9b5fe"
+  "references": [],
+  "content_hash": "1bc3d06f89a979b5"
 }

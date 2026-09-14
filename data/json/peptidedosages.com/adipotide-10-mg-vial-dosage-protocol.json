@@ -1,63 +1,18 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/adipotide-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-07T14:56:47+00:00",
+  "scraped_at": "2026-09-14T15:48:59+00:00",
   "peptide": "Adipotide",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
-  "page_updated": null,
+  "page_updated": "",
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
-    "steps": [
-      "Draw 3.0 mL bacteriostatic water with a sterile syringe.",
-      "Inject slowly down the vial wall; avoid foaming.",
-      "Gently swirl/roll until dissolved (do not shake).",
-      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light [5] ."
-    ]
+    "steps": []
   },
-  "protocols": [
-    {
-      "name": "Standard / Gradual Approach",
-      "heading_raw": "Standard / Gradual Approach (3 mL = ~3.33 mg/mL)",
-      "frequency": "Frequency: Inject once daily subcutaneously. This schedule uses the largest practical dilution (3.0 mL) and starts at a conservative dose with gradual escalation to mitigate potential renal side effects observed at higher doses in preclinical studies [1] [2] . For ≤10‑unit (≤0.10 mL) administrations, consider 30‑ or 50‑unit insulin syringes for improved readability.",
-      "rows": [
-        {
-          "week_phase": "Weeks 1–2",
-          "dose_text": "250 mcg",
-          "dose_mg": 250.0,
-          "units_text": "7.5 units (0.08 mL)",
-          "units": 7.5,
-          "ml": 0.08
-        },
-        {
-          "week_phase": "Weeks 3–4",
-          "dose_text": "500 mcg",
-          "dose_mg": 500.0,
-          "units_text": "15 units (0.15 mL)",
-          "units": 15.0,
-          "ml": 0.15
-        },
-        {
-          "week_phase": "Weeks 5–6",
-          "dose_text": "750 mcg",
-          "dose_mg": 750.0,
-          "units_text": "22.5 units (0.23 mL)",
-          "units": 22.5,
-          "ml": 0.23
-        },
-        {
-          "week_phase": "Weeks 7–8",
-          "dose_text": "1000 mcg (1.0 mg)",
-          "dose_mg": 1000.0,
-          "units_text": "30 units (0.30 mL)",
-          "units": 30.0,
-          "ml": 0.3
-        }
-      ]
-    }
-  ],
+  "protocols": [],
   "supplies": [
     {
       "item": "Peptide Vials (Adipotide, 10 mg each):",
@@ -108,70 +63,6 @@
       "unit": "mL"
     }
   ],
-  "references": [
-    {
-      "ref_id": "ref-1",
-      "citation": "Science Translational Medicine (PubMed)",
-      "description": "A peptidomimetic targeting white fat causes weight loss and improved insulin resistance in obese monkeys",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/22072637/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-2",
-      "citation": "MD Anderson Cancer Center",
-      "description": "Obese Monkeys Lose Weight on Drug that Attacks Blood Supply of Fat Cells",
-      "url": "https://www.mdanderson.org/newsroom/obese-monkeys-lose-weight-on-drug-that-attacks-blood-supply-of-f.h00-158676579.html",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-3",
-      "citation": "Arrowhead Pharmaceuticals (2012)",
-      "description": "Official announcement of first-patient dosing in the Adipotide phase 1 clinical trial.",
-      "url": "https://arrowheadpharma.com/en-us/newsroom/arrowhead-announces-dosing-first-patient-anti-obesity-treatment",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-4",
-      "citation": "Cardiovascular Diabetology (PMC)",
-      "description": "Advances and challenges of targeting epicardial adipose tissue (EAT) and perivascular adipose tissue (PVAT)",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12323123/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-5",
-      "citation": "Bachem Technical Note",
-      "description": "Care and Handling of Peptides",
-      "url": "https://www.bachem.com/knowledge-center/technical-notes/care-and-handling-of-peptides/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-6",
-      "citation": "BC Open Textbook Project",
-      "description": "7.3 Intradermal and Subcutaneous Injections – Clinical Procedures for Safer Patient Care",
-      "url": "https://opentextbc.ca/clinicalskills/chapter/6-7-intradermal-subcutaneous-and-intramuscular-injections/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-7",
-      "citation": "Immunize.org (IAC)",
-      "description": "Ask the Experts: Administering Vaccines – General Issues (no aspiration guidance)",
-      "url": "http://www.immunize.org/ask-experts/topic/admin-vaccines/general-issues/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-8",
-      "citation": "Los Angeles Times",
-      "description": "Cancer treatment shows promise for rapid weight loss",
-      "url": "https://www.latimes.com/local/la-xpm-2011-nov-10-la-he-drug-fat-loss-20111110-story.html",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-9",
-      "citation": "ScienceDaily",
-      "description": "Obese monkeys lose weight on drug that attacks blood supply of fat cells",
-      "url": "https://www.sciencedaily.com/releases/2011/11/111109143009.htm",
-      "category": "References"
-    }
-  ],
-  "content_hash": "592b3063a9cbb4b9"
+  "references": [],
+  "content_hash": "444f552cbb226ad6"
 }

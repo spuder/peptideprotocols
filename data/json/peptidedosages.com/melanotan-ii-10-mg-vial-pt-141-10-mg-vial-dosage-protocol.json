@@ -1,97 +1,18 @@
 {
   "source_url": "https://peptidedosages.com/peptide-stack-dosages/melanotan-ii-10-mg-vial-pt-141-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-07T15:04:11+00:00",
+  "scraped_at": "2026-09-14T15:56:28+00:00",
   "peptide": "PT-141 (10 mg) + Melanotan II (10 mg) Stack Dosage Protocol",
   "vial_size_text": "",
   "vial_size_mg": null,
-  "page_updated": null,
+  "page_updated": "",
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
     "steps": []
   },
-  "protocols": [
-    {
-      "name": "PT-141",
-      "heading_raw": "PT-141 (Bremelanotide) — On-Demand Protocol (3 mL = ~3.33 mg/mL)",
-      "frequency": "",
-      "rows": [
-        {
-          "week_phase": "Initial / Titration",
-          "dose_text": "500–750 mcg",
-          "dose_mg": 500.0,
-          "units_text": "15–22 units (0.15–0.22 mL)",
-          "units": 22.0,
-          "ml": null
-        },
-        {
-          "week_phase": "Standard",
-          "dose_text": "1000–1500 mcg",
-          "dose_mg": 1000.0,
-          "units_text": "30–45 units (0.30–0.45 mL)",
-          "units": 45.0,
-          "ml": null
-        },
-        {
-          "week_phase": "Full / FDA-Approved",
-          "dose_text": "1750 mcg (1.75 mg)",
-          "dose_mg": 1750.0,
-          "units_text": "52 units (0.52 mL)",
-          "units": 52.0,
-          "ml": 0.52
-        }
-      ]
-    },
-    {
-      "name": "Melanotan II — Daily Protocol",
-      "heading_raw": "Melanotan II — Daily Protocol (3 mL = ~3.33 mg/mL)",
-      "frequency": "",
-      "rows": [
-        {
-          "week_phase": "Week 1",
-          "dose_text": "250 mcg",
-          "dose_mg": 250.0,
-          "units_text": "7.5 units (0.075 mL)*",
-          "units": 7.5,
-          "ml": 0.075
-        },
-        {
-          "week_phase": "Week 2",
-          "dose_text": "500 mcg",
-          "dose_mg": 500.0,
-          "units_text": "15 units (0.15 mL)",
-          "units": 15.0,
-          "ml": 0.15
-        },
-        {
-          "week_phase": "Weeks 3–4",
-          "dose_text": "750 mcg",
-          "dose_mg": 750.0,
-          "units_text": "22 units (0.22 mL)",
-          "units": 22.0,
-          "ml": 0.22
-        },
-        {
-          "week_phase": "Weeks 5+ (Loading)",
-          "dose_text": "1000 mcg",
-          "dose_mg": 1000.0,
-          "units_text": "30 units (0.30 mL)",
-          "units": 30.0,
-          "ml": 0.3
-        },
-        {
-          "week_phase": "Maintenance",
-          "dose_text": "500–1000 mcg (2–3×/week)",
-          "dose_mg": 500.0,
-          "units_text": "15–30 units (0.15–0.30 mL)",
-          "units": 30.0,
-          "ml": null
-        }
-      ]
-    }
-  ],
+  "protocols": [],
   "supplies": [
     {
       "item": "Peptide Vials (PT-141, 10 mg each):",
@@ -142,77 +63,6 @@
       "unit": "bottles"
     }
   ],
-  "references": [
-    {
-      "ref_id": "ref-1",
-      "citation": "FDA",
-      "description": "Bremelanotide (Vyleesi) prescribing information: dosing, safety, and use limitations",
-      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/210557s000lbl.pdf",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-2",
-      "citation": "NCBI Bookshelf (LiverTox)",
-      "description": "Bremelanotide: mechanism, clinical use, and hepatic safety profile",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK573221/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-3",
-      "citation": "PMC",
-      "description": "Bremelanotide for treatment of female hypoactive sexual desire disorder: clinical trial review",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8788464/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-4",
-      "citation": "Mayo Clinic",
-      "description": "Bremelanotide (subcutaneous route): side effects, dosage, and precautions",
-      "url": "https://www.mayoclinic.org/drugs-supplements/bremelanotide-subcutaneous-route/description/drg-20466805",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-5",
-      "citation": "PubMed",
-      "description": "Evaluation of Melanotan-II: pilot phase-I clinical study on safety and efficacy",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/8637402/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-6",
-      "citation": "RxList",
-      "description": "Melanotan-II: uses, side effects, dosing, and precautions overview",
-      "url": "https://www.rxlist.com/supplements/melanotan-ii.htm",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-7",
-      "citation": "Bachem",
-      "description": "Handling and storage guidelines for peptides: lyophilized and reconstituted stability",
-      "url": "https://www.bachem.com/knowledge-center/peptide-guide/handling-and-storage-guidelines-for-peptides/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-8",
-      "citation": "NCBI Bookshelf (WHO)",
-      "description": "Best practices for injections and related procedures: asepsis and technique",
-      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-9",
-      "citation": "Healthline",
-      "description": "Subcutaneous injection: technique, sites, and step-by-step guidance",
-      "url": "https://www.healthline.com/health/subcutaneous-injection",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-10",
-      "citation": "CDC",
-      "description": "Vaccine administration: subcutaneous injection angle and site selection",
-      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
-      "category": "References"
-    }
-  ],
-  "content_hash": "99b12c97edbc8b38"
+  "references": [],
+  "content_hash": "53647a17a658fe87"
 }

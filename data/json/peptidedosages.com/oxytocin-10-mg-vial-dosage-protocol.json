@@ -1,93 +1,40 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/oxytocin-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-07T15:00:22+00:00",
+  "scraped_at": "2026-09-14T15:52:37+00:00",
   "peptide": "Oxytocin",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
-  "page_updated": null,
+  "page_updated": "",
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
-    "steps": [
-      "Draw 3.0 mL bacteriostatic water with a sterile syringe.",
-      "Inject slowly down the vial wall; avoid foaming.",
-      "Gently swirl/roll until dissolved (do not shake).",
-      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light."
-    ]
+    "steps": []
   },
-  "protocols": [
-    {
-      "name": "Standard / Gradual Approach",
-      "heading_raw": "Standard / Gradual Approach (3 mL = ~3.33 mg/mL)",
-      "frequency": "Frequency: Inject once daily subcutaneously. This schedule uses the standard 3.0 mL dilution for practical unit measurements on insulin syringes. For ≤10‑unit (≤0.10 mL) administrations, consider 30‑ or 50‑unit insulin syringes for improved readability.",
-      "rows": [
-        {
-          "week_phase": "Weeks 1–2",
-          "dose_text": "100 mcg",
-          "dose_mg": 100.0,
-          "units_text": "3 units (0.03 mL)",
-          "units": 3.0,
-          "ml": 0.03
-        },
-        {
-          "week_phase": "Weeks 3–4",
-          "dose_text": "200 mcg",
-          "dose_mg": 200.0,
-          "units_text": "6 units (0.06 mL)",
-          "units": 6.0,
-          "ml": 0.06
-        },
-        {
-          "week_phase": "Weeks 5–6",
-          "dose_text": "300 mcg",
-          "dose_mg": 300.0,
-          "units_text": "9 units (0.09 mL)",
-          "units": 9.0,
-          "ml": 0.09
-        },
-        {
-          "week_phase": "Weeks 7–8",
-          "dose_text": "400 mcg",
-          "dose_mg": 400.0,
-          "units_text": "12 units (0.12 mL)",
-          "units": 12.0,
-          "ml": 0.12
-        },
-        {
-          "week_phase": "Weeks 9–12",
-          "dose_text": "500 mcg",
-          "dose_mg": 500.0,
-          "units_text": "15 units (0.15 mL)",
-          "units": 15.0,
-          "ml": 0.15
-        }
-      ]
-    }
-  ],
+  "protocols": [],
   "supplies": [
     {
       "item": "Peptide Vials (Oxytocin, 10 mg each):",
       "schedule": null,
-      "label": "8 weeks ≈",
-      "quantity_text": "3 vials",
+      "label": "8 weeks",
+      "quantity_text": "approximately 3 vials required",
       "quantity": 3.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (Oxytocin, 10 mg each):",
       "schedule": null,
-      "label": "12 weeks ≈",
-      "quantity_text": "5 vials",
+      "label": "12 weeks",
+      "quantity_text": "approximately 5 vials required",
       "quantity": 5.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (Oxytocin, 10 mg each):",
       "schedule": null,
-      "label": "16 weeks ≈",
-      "quantity_text": "6 vials",
+      "label": "16 weeks",
+      "quantity_text": "approximately 6 vials required",
       "quantity": 6.0,
       "unit": "vials"
     },
@@ -95,7 +42,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (3 vials)",
-      "quantity_text": "9 mL (also: 1 × 10 mL)",
+      "quantity_text": "9 mL (also: 1 bottle required)",
       "quantity": 9.0,
       "unit": "mL"
     },
@@ -103,7 +50,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "12 weeks (5 vials)",
-      "quantity_text": "15 mL (also: 2 × 10 mL)",
+      "quantity_text": "15 mL (also: 2 bottles required)",
       "quantity": 15.0,
       "unit": "mL"
     },
@@ -111,117 +58,11 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "16 weeks (6 vials)",
-      "quantity_text": "18 mL (also: 2 × 10 mL)",
+      "quantity_text": "18 mL (also: 2 bottles required)",
       "quantity": 18.0,
       "unit": "mL"
     }
   ],
-  "references": [
-    {
-      "ref_id": "ref-1",
-      "citation": "Cleveland Clinic",
-      "description": "Oxytocin: What It Is, Function & Effects (overview of oxytocin hormone and its physiological roles)",
-      "url": "https://my.clevelandclinic.org/health/articles/22618-oxytocin",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-2",
-      "citation": "Wikipedia",
-      "description": "Oxytocin (comprehensive encyclopedia entry on oxytocin biochemistry, physiology, and research)",
-      "url": "https://en.wikipedia.org/wiki/Oxytocin",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-3",
-      "citation": "Pure Lab Peptides",
-      "description": "Buy Oxytocin 10mg (product page for research oxytocin peptide)",
-      "url": "https://purelabpeptides.com/buy-peptides/buy-oxytocin-10mg/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-4",
-      "citation": "PubMed",
-      "description": "Intranasal Oxytocin for Obesity (8‑week trial using 96 IU per day in adults)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38815173/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-5",
-      "citation": "Aging Journal",
-      "description": "Peripheral oxytocin treatment ameliorates obesity by reducing food intake and visceral fat mass",
-      "url": "https://www.aging-us.com/article/100408/text",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-6",
-      "citation": "PLOS One",
-      "description": "Prolonged Subcutaneous Administration of Oxytocin in Male Rats (study on SC oxytocin effects)",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138048",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-7",
-      "citation": "Science Direct",
-      "description": "The physiology and pharmacology of oxytocin in labor and in the puerperium",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0002937823002429",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-8",
-      "citation": "PubMed",
-      "description": "Subcutaneous Oxytocin Injection Reduces Heat Pain: A Randomized‑Controlled Trial",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38642595/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-9",
-      "citation": "PubMed",
-      "description": "A review of safety, side‑effects and subjective reactions to intranasal oxytocin in human research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/21429671/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-10",
-      "citation": "PubMed",
-      "description": "The effects of oxytocin on eating behaviour and metabolism in humans",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/28960210/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-11",
-      "citation": "PMC",
-      "description": "Oxytocin: A Potential Therapeutic for Obesity (review of oxytocin’s metabolic effects)",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8277591/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-12",
-      "citation": "Johns Hopkins Arthritis Center",
-      "description": "How to give a subcutaneous injection (step‑by‑step technique guide)",
-      "url": "https://www.hopkinsarthritis.org/patient-corner/how-to-give-a-subcutaneous-injection/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-13",
-      "citation": "PMC",
-      "description": "Pharmacologic Considerations in the Disposition of Antibodies and Antibody‑Drug Conjugates (subcutaneous drug injection review)",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822791/",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-14",
-      "citation": "Eurogentec (HiLyte Biosciences)",
-      "description": "Oxytocin Peptide Technical Data Sheet (peptide storage and handling specifications)",
-      "url": "https://www.eurogentec.com/assets/11f65032-5f01-4ae0-82a6-52f1fe209a25/tds-en-as-24275-oxytocin-peptide.pdf",
-      "category": "References"
-    },
-    {
-      "ref_id": "ref-15",
-      "citation": "FDA Accessdata",
-      "description": "Chemistry Review Document (oxytocin drug chemistry and stability information)",
-      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/761074Orig1s000ChemR.pdf",
-      "category": "References"
-    }
-  ],
-  "content_hash": "dc50b2a2524fe397"
+  "references": [],
+  "content_hash": "774406d91efb1713"
 }
