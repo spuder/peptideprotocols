@@ -1,7 +1,7 @@
 # TB-500 (5 mg) + BPC-157 (5 mg) Stack Dosage Protocol ()
 
 - Source: <https://peptidedosages.com/peptide-stack-dosages/tb-500-5-mg-vial-bpc-157-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-14T15:56:32+00:00
+- Scraped: 2026-09-21T15:56:01+00:00
 
 ## Dosing & Reconstitution Guide
 

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/semax-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:53:50+00:00",
+  "scraped_at": "2026-09-21T15:53:18+00:00",
   "peptide": "Semax Dosage",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -15,5 +15,5 @@
   "protocols": [],
   "supplies": [],
   "references": [],
-  "content_hash": "5979e05df6fdb7df"
+  "content_hash": "d18fa7e3d195be59"
 }

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/aod-9604-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:49:12+00:00",
+  "scraped_at": "2026-09-21T15:48:39+00:00",
   "peptide": "AOD-9604",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "4944db68ff91e09b"
+  "content_hash": "596825dd3edaa3d9"
 }

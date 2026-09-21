@@ -1,18 +1,63 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/dsip-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:50:12+00:00",
+  "scraped_at": "2026-09-21T15:49:39+00:00",
   "peptide": "DSIP",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
-  "page_updated": "",
+  "page_updated": null,
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
-    "steps": []
+    "steps": [
+      "Draw 3.0 mL bacteriostatic water with a sterile syringe.",
+      "Inject slowly down the vial wall; avoid foaming.",
+      "Gently swirl/roll until dissolved (do not shake).",
+      "Label and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light."
+    ]
   },
-  "protocols": [],
+  "protocols": [
+    {
+      "name": "Standard / Gradual Approach",
+      "heading_raw": "Standard / Gradual Approach (3 mL = ~1.67 mg/mL)",
+      "frequency": "Frequency: Inject once daily subcutaneously, typically in the evening before bedtime [5] [6] . For ≤10-unit (≤0.10 mL) administrations (Weeks 1–2), consider 30- or 50-unit insulin syringes for improved readability.",
+      "rows": [
+        {
+          "week_phase": "Week 1",
+          "dose_text": "100 mcg",
+          "dose_mg": 100.0,
+          "units_text": "6 units (0.06 mL)",
+          "units": 6.0,
+          "ml": 0.06
+        },
+        {
+          "week_phase": "Week 2",
+          "dose_text": "150 mcg",
+          "dose_mg": 150.0,
+          "units_text": "9 units (0.09 mL)",
+          "units": 9.0,
+          "ml": 0.09
+        },
+        {
+          "week_phase": "Week 3",
+          "dose_text": "200 mcg",
+          "dose_mg": 200.0,
+          "units_text": "12 units (0.12 mL)",
+          "units": 12.0,
+          "ml": 0.12
+        },
+        {
+          "week_phase": "Weeks 4–8",
+          "dose_text": "250–300 mcg",
+          "dose_mg": 250.0,
+          "units_text": "15–18 units (0.15–0.18 mL)",
+          "units": 18.0,
+          "ml": null
+        }
+      ]
+    }
+  ],
   "supplies": [
     {
       "item": "Peptide Vials (DSIP, 5 mg each):",
@@ -63,6 +108,217 @@
       "unit": "mL"
     }
   ],
-  "references": [],
-  "content_hash": "b6a2b409bd70d812"
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Schoenenberger GA, Monnier M (1977)",
+      "description": "Characterization of a delta-electroencephalogram (-sleep)-inducing peptide. Proc Natl Acad Sci USA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16592440/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "European Journal of Anaesthesiology (2001)",
+      "description": "Delta sleep-inducing peptide: editorial review of mechanisms and clinical context",
+      "url": "https://doi.org/10.1046/j.1365-2346.2001.00917.x",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Schneider-Helmert D, Schoenenberger GA (1983)",
+      "description": "Effects of DSIP in man: multifunctional psychophysiological properties. Neuropsychobiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6633115/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Sudakov KV et al. (2004)",
+      "description": "Delta-sleep-inducing peptide sequelae: stress protective effect. Ann N Y Acad Sci",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15677401/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "Schneider-Helmert D (1981)",
+      "description": "Acute and delayed effects of DSIP on human sleep behavior. Int J Clin Pharmacol Ther Toxicol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6895513/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "Graf MV, Kastin AJ (1984)",
+      "description": "Delta-sleep-inducing peptide (DSIP): a review. Neurosci Biobehav Rev",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6392951/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "Iyer KS et al. (1988)",
+      "description": "Sleep-inducing effect of low doses of DSIP in rats. Indian J Exp Biol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3253200/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "Manning MC et al. (2010)",
+      "description": "Stability of protein pharmaceuticals: an update. Pharm Res",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20499141/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "Wang W (2000)",
+      "description": "Lyophilization and development of solid protein pharmaceuticals. Int J Pharm",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10967747/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "Yehuda S, Carasso RL (1988)",
+      "description": "DSIP: brain mechanisms and function. Int J Neurosci",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3069909/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "Khvatova EM et al. (2003)",
+      "description": "Delta sleep-inducing peptide: effect on oxidative stress in brain during different models. Biull Eksp Biol Med",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12937682/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-12",
+      "citation": "CDC",
+      "description": "Vaccine administration: subcutaneous route (angle/site; no aspiration)",
+      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-13",
+      "citation": "NCBI Bookshelf",
+      "description": "Medication Administration: Subcutaneous Injections (Open RN Nursing Skills)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK596739/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-14",
+      "citation": "Pure Lab Peptides",
+      "description": "DSIP (5 mg) product page (quality and batch documentation)",
+      "url": "https://purelabpeptides.com/buy-peptides/buy-dsip-5mg/",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-reviewed-source-25d4f5022d76",
+      "citation": "Proceedings of the National Academy of Sciences (PubMed)",
+      "description": "Original characterization and sequence context for delta sleep-inducing peptide",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/568769/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-15",
+      "citation": "Human Chronic-Insomnia Study (PubMed)",
+      "description": "Single 25 nmol/kg IV exposure in six middle-aged patients with chronic insomnia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7028502/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-16",
+      "citation": "Human Repeated-Exposure Insomnia Study (PubMed)",
+      "description": "25 nmol/kg IV on three consecutive study nights in 16 patients with chronic insomnia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1299794/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-17",
+      "citation": "Human Endocrine Study in Healthy Men (PubMed)",
+      "description": "Single 25 nmol/kg IV exposure in 11 healthy men",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2554357/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-18",
+      "citation": "Human Endocrine and Circadian Study in Healthy Women (PubMed)",
+      "description": "Single 25 mcg/kg IV infusion over 30 minutes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8475226/",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-family-source-0de306f61d33",
+      "citation": "European Journal of Anaesthesiology",
+      "description": "Delta sleep-inducing peptide: discovery, structure, and pharmacological overview",
+      "url": "https://journals.lww.com/ejanaesthesiology/abstract/2001/07000/delta_sleep_inducing_peptide.1.aspx",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-family-source-7482e097247c",
+      "citation": "Neuroscience & Biobehavioral Reviews (PubMed)",
+      "description": "Delta-sleep-inducing peptide (DSIP): a review of sleep-promoting and neuromodulatory effects",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6145137/",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-family-source-fded362b56e4",
+      "citation": "European Neurology (PubMed)",
+      "description": "Effects of delta-sleep-inducing peptide on 24-hour sleep-wake behaviour in severe chronic insomnia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3622582/",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-family-source-fbb160758ea9",
+      "citation": "European Neurology (PubMed)",
+      "description": "DSIP in insomnia: timing and frequency of administration in clinical trials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6391925/",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-family-source-ae86cb073d30",
+      "citation": "MedlinePlus (U.S. National Library of Medicine)",
+      "description": "Subcutaneous (SQ) injections: technique, site selection, and procedure",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000430.htm",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-family-source-20dd5e12740d",
+      "citation": "Frontiers in Pharmacology",
+      "description": "DSIP fusion peptides crossing the blood-brain barrier and efficacy in insomnia models",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1439536/full",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-family-source-9e33029d9d34",
+      "citation": "European Neurology (PubMed)",
+      "description": "Therapeutic effects of delta-sleep-inducing peptide (DSIP) in patients with chronic pain episodes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6548970/",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-family-source-5d25a00d8e6f",
+      "citation": "European Neurology (PubMed)",
+      "description": "DSIP in the treatment of withdrawal syndromes from alcohol and opiates",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6548969/",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-family-source-293c1f079259",
+      "citation": "Johns Hopkins Arthritis Center",
+      "description": "How to give a subcutaneous injection: site rotation and best practices",
+      "url": "https://www.hopkinsarthritis.org/patient-corner/how-to-give-a-subcutaneous-injection/",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-family-source-3cebe446d018",
+      "citation": "NCBI Bookshelf",
+      "description": "Best practices for injection (asepsis, preparation, and administration)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
+      "category": "References"
+    },
+    {
+      "ref_id": "pdpb-family-source-a883dc621175",
+      "citation": "Subcutaneous Drug Injection Review (PMC)",
+      "description": "Pharmacologic considerations of the subcutaneous route",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822791/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "d3335856862dac2b"
 }

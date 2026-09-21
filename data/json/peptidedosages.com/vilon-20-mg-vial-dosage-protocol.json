@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/vilon-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:55:28+00:00",
+  "scraped_at": "2026-09-21T15:54:56+00:00",
   "peptide": "Vilon",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -48,5 +48,5 @@
     }
   ],
   "references": [],
-  "content_hash": "7f7b835ce6f899de"
+  "content_hash": "8748fdebfd2c5ca5"
 }

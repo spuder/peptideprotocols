@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ghrp-6-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:50:50+00:00",
+  "scraped_at": "2026-09-21T15:50:18+00:00",
   "peptide": "GHRP-6",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -32,5 +32,5 @@
     }
   ],
   "references": [],
-  "content_hash": "7217d4a1c59a1d49"
+  "content_hash": "4c0da34ace4fe436"
 }

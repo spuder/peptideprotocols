@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/nad-1000-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:52:24+00:00",
+  "scraped_at": "2026-09-21T15:51:52+00:00",
   "peptide": "NAD+",
   "vial_size_text": "1000 mg Vial",
   "vial_size_mg": 1000.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "b2ae6d8412b12fd1"
+  "content_hash": "3120724e3e95b930"
 }

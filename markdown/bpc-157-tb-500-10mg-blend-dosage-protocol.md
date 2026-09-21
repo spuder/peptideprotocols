@@ -1,7 +1,7 @@
 # BPC-157 + TB-500(10 mg Blend)Dosage Protocol ()
 
 - Source: <https://peptidedosages.com/peptide-blend-dosages/bpc-157-tb-500-10mg-blend-dosage-protocol/>
-- Scraped: 2026-09-14T15:55:36+00:00
+- Scraped: 2026-09-21T15:55:05+00:00
 
 ## Dosing & Reconstitution Guide
 

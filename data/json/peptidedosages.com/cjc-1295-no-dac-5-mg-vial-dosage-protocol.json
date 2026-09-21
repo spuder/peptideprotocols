@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/cjc-1295-no-dac-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:49:59+00:00",
+  "scraped_at": "2026-09-21T15:49:26+00:00",
   "peptide": "CJC-1295 NO DAC",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "49aec4363110d605"
+  "content_hash": "d25c059c2812f3af"
 }

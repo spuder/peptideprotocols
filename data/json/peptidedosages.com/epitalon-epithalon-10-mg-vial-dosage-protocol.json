@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/epitalon-epithalon-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:50:16+00:00",
+  "scraped_at": "2026-09-21T15:49:43+00:00",
   "peptide": "Epitalon",
   "vial_size_text": "Epithalon)(10 mg Vial",
   "vial_size_mg": 10.0,
@@ -32,5 +32,5 @@
     }
   ],
   "references": [],
-  "content_hash": "8c2ac7e9c5fb1dbc"
+  "content_hash": "6cfff7c2201377e2"
 }

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ovagen-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:52:33+00:00",
+  "scraped_at": "2026-09-21T15:52:01+00:00",
   "peptide": "Ovagen",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -32,5 +32,5 @@
     }
   ],
   "references": [],
-  "content_hash": "5a84a7cbbc869672"
+  "content_hash": "20df6e11314e0957"
 }

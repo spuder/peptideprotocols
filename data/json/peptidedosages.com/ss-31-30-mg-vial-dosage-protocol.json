@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ss-31-30-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:54:19+00:00",
+  "scraped_at": "2026-09-21T15:53:48+00:00",
   "peptide": "SS-31",
   "vial_size_text": "30 mg Vial",
   "vial_size_mg": 30.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "94428a79138218c9"
+  "content_hash": "3f7f16796b903d95"
 }

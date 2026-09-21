@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/livagen-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:51:41+00:00",
+  "scraped_at": "2026-09-21T15:51:09+00:00",
   "peptide": "Livagen",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "d1d279921a221a44"
+  "content_hash": "12c6a461eada40af"
 }

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/peptide-stack-dosages/melanotan-ii-10-mg-vial-pt-141-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:56:28+00:00",
+  "scraped_at": "2026-09-21T15:55:57+00:00",
   "peptide": "PT-141 (10 mg) + Melanotan II (10 mg) Stack Dosage Protocol",
   "vial_size_text": "",
   "vial_size_mg": null,
@@ -15,54 +15,78 @@
   "protocols": [],
   "supplies": [
     {
-      "item": "Peptide Vials (PT-141, 10 mg each):",
+      "item": "PT-141 Vials (10 mg each):",
       "schedule": null,
-      "label": "8 weeks",
-      "quantity_text": "2 vials",
+      "label": "8 weeks",
+      "quantity_text": "2 vials",
       "quantity": 2.0,
       "unit": "vials"
     },
     {
-      "item": "Peptide Vials (PT-141, 10 mg each):",
+      "item": "PT-141 Vials (10 mg each):",
       "schedule": null,
-      "label": "12 weeks",
-      "quantity_text": "3 vials",
+      "label": "12 weeks",
+      "quantity_text": "3 vials",
       "quantity": 3.0,
       "unit": "vials"
     },
     {
-      "item": "Peptide Vials (PT-141, 10 mg each):",
+      "item": "PT-141 Vials (10 mg each):",
       "schedule": null,
-      "label": "16 weeks",
-      "quantity_text": "4 vials",
+      "label": "16 weeks",
+      "quantity_text": "4 vials",
       "quantity": 4.0,
       "unit": "vials"
     },
     {
-      "item": "Bacteriostatic Water (10 mL bottles):",
+      "item": "Melanotan II Vials (10 mg each):",
       "schedule": null,
-      "label": "8 weeks (2 vials × 3 mL)",
-      "quantity_text": "1 bottle",
-      "quantity": 1.0,
-      "unit": "bottle"
+      "label": "8 weeks",
+      "quantity_text": "6 vials",
+      "quantity": 6.0,
+      "unit": "vials"
     },
     {
-      "item": "Bacteriostatic Water (10 mL bottles):",
+      "item": "Melanotan II Vials (10 mg each):",
       "schedule": null,
-      "label": "12 weeks (3 vials × 3 mL)",
-      "quantity_text": "1 bottle",
-      "quantity": 1.0,
-      "unit": "bottle"
+      "label": "12 weeks",
+      "quantity_text": "9 vials",
+      "quantity": 9.0,
+      "unit": "vials"
     },
     {
-      "item": "Bacteriostatic Water (10 mL bottles):",
+      "item": "Melanotan II Vials (10 mg each):",
       "schedule": null,
-      "label": "16 weeks (4 vials × 3 mL)",
-      "quantity_text": "2 bottles",
-      "quantity": 2.0,
-      "unit": "bottles"
+      "label": "16 weeks",
+      "quantity_text": "12 vials",
+      "quantity": 12.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Shared Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "8 weeks",
+      "quantity_text": "24 mL, 3 bottles",
+      "quantity": 24.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Shared Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "12 weeks",
+      "quantity_text": "36 mL, 4 bottles",
+      "quantity": 36.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Shared Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "16 weeks",
+      "quantity_text": "48 mL, 5 bottles",
+      "quantity": 48.0,
+      "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "53647a17a658fe87"
+  "content_hash": "639156da9b7272ce"
 }

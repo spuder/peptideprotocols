@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/kpv-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:51:32+00:00",
+  "scraped_at": "2026-09-21T15:51:00+00:00",
   "peptide": "KPV",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "2ab053e6a212872c"
+  "content_hash": "8df9ab5c2566c7d2"
 }

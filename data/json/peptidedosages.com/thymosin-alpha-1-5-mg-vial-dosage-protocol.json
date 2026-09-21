@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/thymosin-alpha-1-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:55:02+00:00",
+  "scraped_at": "2026-09-21T15:54:30+00:00",
   "peptide": "Thymosin Alpha-1",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "6ae327e1a89db176"
+  "content_hash": "ef5726a83e37240d"
 }

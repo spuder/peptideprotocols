@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ara-290-16-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:49:16+00:00",
+  "scraped_at": "2026-09-21T15:48:43+00:00",
   "peptide": "Ara-290",
   "vial_size_text": "16 mg Vial",
   "vial_size_mg": 16.0,
@@ -17,24 +17,24 @@
     {
       "item": "Peptide Vials (Ara-290, 16 mg each):",
       "schedule": null,
-      "label": "8 weeks ≈",
-      "quantity_text": "14 vials",
+      "label": "8 weeks",
+      "quantity_text": "approximately 14 vials required",
       "quantity": 14.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (Ara-290, 16 mg each):",
       "schedule": null,
-      "label": "12 weeks ≈",
-      "quantity_text": "21 vials",
+      "label": "12 weeks",
+      "quantity_text": "approximately 21 vials required",
       "quantity": 21.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (Ara-290, 16 mg each):",
       "schedule": null,
-      "label": "16 weeks ≈",
-      "quantity_text": "28 vials",
+      "label": "16 weeks",
+      "quantity_text": "approximately 28 vials required",
       "quantity": 28.0,
       "unit": "vials"
     },
@@ -42,7 +42,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (14 vials)",
-      "quantity_text": "28 mL (also: 3 × 10 mL)",
+      "quantity_text": "28 mL (also: 3 bottles required)",
       "quantity": 28.0,
       "unit": "mL"
     },
@@ -50,7 +50,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "12 weeks (21 vials)",
-      "quantity_text": "42 mL (also: 5 × 10 mL)",
+      "quantity_text": "42 mL (also: 5 bottles required)",
       "quantity": 42.0,
       "unit": "mL"
     },
@@ -58,11 +58,11 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "16 weeks (28 vials)",
-      "quantity_text": "56 mL (also: 6 × 10 mL)",
+      "quantity_text": "56 mL (also: 6 bottles required)",
       "quantity": 56.0,
       "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "5c0817c7b18dbb33"
+  "content_hash": "2897de01ca5b5030"
 }

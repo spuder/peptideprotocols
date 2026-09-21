@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/selank-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:53:33+00:00",
+  "scraped_at": "2026-09-21T15:53:01+00:00",
   "peptide": "Selank Dosage",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -15,5 +15,5 @@
   "protocols": [],
   "supplies": [],
   "references": [],
-  "content_hash": "128db5a4b6b62f5e"
+  "content_hash": "e42655e6ac5f0aeb"
 }

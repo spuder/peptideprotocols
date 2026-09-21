@@ -1,7 +1,7 @@
 # MOTS-C (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/mots-c-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-14T15:52:20+00:00
+- Scraped: 2026-09-21T15:51:48+00:00
 
 ## Dosing & Reconstitution Guide
 

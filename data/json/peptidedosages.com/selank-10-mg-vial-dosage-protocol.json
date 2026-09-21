@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/selank-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:53:28+00:00",
+  "scraped_at": "2026-09-21T15:52:56+00:00",
   "peptide": "Selank Dosage",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -15,5 +15,5 @@
   "protocols": [],
   "supplies": [],
   "references": [],
-  "content_hash": "191605bf0e8f713a"
+  "content_hash": "f245790cb878065b"
 }

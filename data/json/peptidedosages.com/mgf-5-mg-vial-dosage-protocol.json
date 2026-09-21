@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/mgf-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:52:03+00:00",
+  "scraped_at": "2026-09-21T15:51:31+00:00",
   "peptide": "MGF",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "0431d135df5a369c"
+  "content_hash": "e9cc42c07a7bf445"
 }

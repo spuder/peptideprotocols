@@ -1,7 +1,7 @@
 # CJC-1295 + GHRP-2(10 mg Blend)Dosage Protocol ()
 
 - Source: <https://peptidedosages.com/peptide-blend-dosages/cjc-1295-ghrp-2-10mg-blend-dosage-protocol/>
-- Scraped: 2026-09-14T15:55:49+00:00
+- Scraped: 2026-09-21T15:55:18+00:00
 
 ## Dosing & Reconstitution Guide
 

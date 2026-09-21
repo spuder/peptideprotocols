@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/pt-141-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:53:07+00:00",
+  "scraped_at": "2026-09-21T15:52:35+00:00",
   "peptide": "PT-141",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "8492b7ae283d8175"
+  "content_hash": "dd76b934fc94b9cd"
 }

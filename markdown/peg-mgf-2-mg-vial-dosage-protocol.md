@@ -1,7 +1,7 @@
 # PEG MGF (2 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/peg-mgf-2-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-14T15:52:50+00:00
+- Scraped: 2026-09-21T15:52:18+00:00
 
 ## Dosing & Reconstitution Guide
 

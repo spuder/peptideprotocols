@@ -1,7 +1,7 @@
 # AOD-9604 + CJC-1295 + Ipamorelin(12 mg Blend)Dosage Protocol ()
 
 - Source: <https://peptidedosages.com/peptide-blend-dosages/aod-9604-cjc-1295-ipamorelin-12-mg-blend-dosage-protocol/>
-- Scraped: 2026-09-14T15:55:32+00:00
+- Scraped: 2026-09-21T15:55:00+00:00
 
 ## Dosing & Reconstitution Guide
 

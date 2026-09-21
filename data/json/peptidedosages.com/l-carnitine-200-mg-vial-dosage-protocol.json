@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/l-carnitine-200-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:51:37+00:00",
+  "scraped_at": "2026-09-21T15:51:05+00:00",
   "peptide": "L-Carnitine",
   "vial_size_text": "200 mg Vial",
   "vial_size_mg": 200.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "3552aea2590eaa86"
+  "content_hash": "8269178bf83938ac"
 }

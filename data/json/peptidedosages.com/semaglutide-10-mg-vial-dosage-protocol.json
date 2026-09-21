@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/semaglutide-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-14T15:53:37+00:00",
+  "scraped_at": "2026-09-21T15:53:05+00:00",
   "peptide": "Semaglutide",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -48,5 +48,5 @@
     }
   ],
   "references": [],
-  "content_hash": "4041474ed1d8cb87"
+  "content_hash": "978119d63c665716"
 }
