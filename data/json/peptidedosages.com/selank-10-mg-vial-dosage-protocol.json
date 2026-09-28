@@ -1,19 +1,113 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/selank-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:52:56+00:00",
+  "scraped_at": "2026-09-28T17:35:26+00:00",
   "peptide": "Selank Dosage",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
-  "page_updated": "",
+  "page_updated": null,
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
-    "steps": []
+    "steps": [
+      "Confirm: Verify the 10 mg vial, compatible sterile research vehicle, actuator bottle capacity, and documented pump output.",
+      "Dissolve: Add 3.0 mL of compatible sterile vehicle to the vial with aseptic transfer technique, then gently swirl until dissolved. Do not shake.",
+      "Transfer and measure: Transfer the complete solution into the sterile actuator bottle and add enough vehicle to reach exactly 5.0 mL or 10.0 mL final volume.",
+      "Label and prime: Secure the pump; label the peptide amount, final volume, concentration, pump output, and preparation date; then prime according to the actuator instructions and record the priming actuations."
+    ]
   },
-  "protocols": [],
+  "protocols": [
+    {
+      "name": "Selank 10 mg Nasal Spray Dosage Calculations",
+      "heading_raw": "Selank 10 mg Nasal Spray Dosage Calculations",
+      "frequency": "",
+      "rows": [
+        {
+          "week_phase": "5.0 mL",
+          "dose_text": "About 2.0 mL",
+          "dose_mg": 2.0,
+          "units_text": "2,000 mcg/mL",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "10.0 mL",
+          "dose_text": "About 7.0 mL",
+          "dose_mg": 7.0,
+          "units_text": "1,000 mcg/mL",
+          "units": null,
+          "ml": null
+        },
+        {
+          "week_phase": "6.67 mL (registered-product concentration reference)",
+          "dose_text": "About 3.67 mL",
+          "dose_mg": 3.67,
+          "units_text": "1,500 mcg/mL",
+          "units": null,
+          "ml": null
+        }
+      ]
+    }
+  ],
   "supplies": [],
-  "references": [],
-  "content_hash": "f245790cb878065b"
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Zozulia et al. (2008)",
+      "description": "Human comparative study of Selank in adults with generalized anxiety disorder or neurasthenia. The PubMed record summarizes the study design and population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18454096/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Syunyakov et al. (2012)",
+      "description": "Rapid and slow response during treatment of generalized anxiety disorder with peptide anxiolytic Selank. Reports 2,700 mcg per day intranasally and a 900 mcg pharmaco-EEG exposure.",
+      "url": "https://doi.org/10.1016/S0924-9338(12)75281-1",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Medvedev et al. (2014)",
+      "description": "Comparative human study of Selank and phenazepam in 60 participants with anxiety-spectrum or somatoform diagnoses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25176261/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "Panikratova et al. (2020)",
+      "description": "Functional connectomic study of acute intranasal Selank exposure in healthy volunteers.",
+      "url": "https://doi.org/10.1134/S001249662001007X",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "Trows et al. (2014)",
+      "description": "Analytical challenges and regulatory requirements for nasal drug products in Europe and the United States. Reviews pump output and device variables.",
+      "url": "https://doi.org/10.3390/pharmaceutics6020195",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "U.S. Food and Drug Administration",
+      "description": "Nasal Spray and Inhalation Solution, Suspension, and actuation Drug Products. CMC guidance covering pump delivery, priming, dose uniformity, and product performance.",
+      "url": "https://www.fda.gov/media/70857/download",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "Volkova et al. (2016)",
+      "description": "Preclinical study of Selank exposure and expression of genes involved in GABAergic neurotransmission.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4757669/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "Pure Lab Peptides",
+      "description": "Selank 10 mg research product page and batch documentation.",
+      "url": "https://purelabpeptides.com/buy-peptides/buy-selank-10mg/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "549e90f1c33ca3d1"
 }

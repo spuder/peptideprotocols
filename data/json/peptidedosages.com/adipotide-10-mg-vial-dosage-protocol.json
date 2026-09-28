@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/adipotide-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:48:26+00:00",
+  "scraped_at": "2026-09-28T17:30:50+00:00",
   "peptide": "Adipotide",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -17,24 +17,24 @@
     {
       "item": "Peptide Vials (Adipotide, 10 mg each):",
       "schedule": null,
-      "label": "8 weeks ≈",
-      "quantity_text": "4 vials",
+      "label": "8 weeks",
+      "quantity_text": "approximately 4 vials required",
       "quantity": 4.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (Adipotide, 10 mg each):",
       "schedule": null,
-      "label": "12 weeks ≈",
-      "quantity_text": "7 vials",
+      "label": "12 weeks",
+      "quantity_text": "approximately 7 vials required",
       "quantity": 7.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (Adipotide, 10 mg each):",
       "schedule": null,
-      "label": "16 weeks ≈",
-      "quantity_text": "10 vials",
+      "label": "16 weeks",
+      "quantity_text": "approximately 10 vials required",
       "quantity": 10.0,
       "unit": "vials"
     },
@@ -42,7 +42,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (4 vials)",
-      "quantity_text": "12 mL (also: 2 × 10 mL)",
+      "quantity_text": "12 mL (also: 2 bottles required)",
       "quantity": 12.0,
       "unit": "mL"
     },
@@ -50,7 +50,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "12 weeks (7 vials)",
-      "quantity_text": "21 mL (also: 3 × 10 mL)",
+      "quantity_text": "21 mL (also: 3 bottles required)",
       "quantity": 21.0,
       "unit": "mL"
     },
@@ -58,11 +58,11 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "16 weeks (10 vials)",
-      "quantity_text": "30 mL (also: 3 × 10 mL)",
+      "quantity_text": "30 mL (also: 3 bottles required)",
       "quantity": 30.0,
       "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "16efc3f06e84ac21"
+  "content_hash": "efb5e68dfa083bbb"
 }

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ara-290-16-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:48:43+00:00",
+  "scraped_at": "2026-09-28T17:31:08+00:00",
   "peptide": "Ara-290",
   "vial_size_text": "16 mg Vial",
   "vial_size_mg": 16.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "2897de01ca5b5030"
+  "content_hash": "ebb327a6c38afdd6"
 }

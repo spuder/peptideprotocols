@@ -1,68 +1,223 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/cagrilintide-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:49:00+00:00",
+  "scraped_at": "2026-09-28T17:31:26+00:00",
   "peptide": "Cagrilintide",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
-  "page_updated": "",
+  "page_updated": null,
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
-    "steps": []
+    "steps": [
+      "Prepare: Verify the 5 mg vial, compatible sterile diluent, alcohol swabs, and sterile syringes; clean the vial stopper.",
+      "Add: Introduce diluent slowly down the vial wall until the final volume is 1.0 mL .",
+      "Dissolve: Gently swirl or roll the vial until the solution is clear; do not shake.",
+      "Label and store: Mark 5 mg/mL and the preparation date, then refrigerate at 2–8 °C (35.6–46.4 °F) protected from light."
+    ]
   },
-  "protocols": [],
+  "protocols": [
+    {
+      "name": "Phase 2 4.5 mg Target Arm",
+      "heading_raw": "Phase 2 4.5 mg Target Arm",
+      "frequency": "",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2",
+          "dose_text": "0.6 mg",
+          "dose_mg": 0.6,
+          "units_text": "12 units",
+          "units": 12.0,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 3–4",
+          "dose_text": "1.2 mg",
+          "dose_mg": 1.2,
+          "units_text": "24 units",
+          "units": 24.0,
+          "ml": null
+        },
+        {
+          "week_phase": "Weeks 5–6",
+          "dose_text": "2.4 mg",
+          "dose_mg": 2.4,
+          "units_text": "48 units",
+          "units": 48.0,
+          "ml": null
+        },
+        {
+          "week_phase": "Week 7 onward in the 26-week trial",
+          "dose_text": "4.5 mg",
+          "dose_mg": 4.5,
+          "units_text": "90 units",
+          "units": 90.0,
+          "ml": null
+        }
+      ]
+    }
+  ],
   "supplies": [
     {
-      "item": "Peptide Vials (Cagrilintide, 5 mg each):",
+      "item": "Peptide vials (Cagrilintide, 5 mg each):",
       "schedule": null,
-      "label": "8 weeks",
-      "quantity_text": "approximately 4 vials required",
-      "quantity": 4.0,
+      "label": "26 weeks",
+      "quantity_text": "20 vials",
+      "quantity": 20.0,
       "unit": "vials"
     },
     {
-      "item": "Peptide Vials (Cagrilintide, 5 mg each):",
+      "item": "Bacteriostatic water (10 mL bottles):",
       "schedule": null,
-      "label": "12 weeks",
-      "quantity_text": "approximately 8 vials required",
-      "quantity": 8.0,
-      "unit": "vials"
-    },
-    {
-      "item": "Peptide Vials (Cagrilintide, 5 mg each):",
-      "schedule": null,
-      "label": "16 weeks",
-      "quantity_text": "approximately 11 vials required",
-      "quantity": 11.0,
-      "unit": "vials"
-    },
-    {
-      "item": "Bacteriostatic Water (10 mL bottles):",
-      "schedule": null,
-      "label": "8 weeks (4 vials)",
-      "quantity_text": "12 mL (also: 2 bottles required)",
-      "quantity": 12.0,
+      "label": "Use",
+      "quantity_text": "1.0 mL per vial",
+      "quantity": 1.0,
       "unit": "mL"
     },
     {
-      "item": "Bacteriostatic Water (10 mL bottles):",
+      "item": "Bacteriostatic water (10 mL bottles):",
       "schedule": null,
-      "label": "12 weeks (8 vials)",
-      "quantity_text": "24 mL (also: 3 bottles required)",
-      "quantity": 24.0,
-      "unit": "mL"
-    },
-    {
-      "item": "Bacteriostatic Water (10 mL bottles):",
-      "schedule": null,
-      "label": "16 weeks (11 vials)",
-      "quantity_text": "33 mL (also: 4 bottles required)",
-      "quantity": 33.0,
+      "label": "20 vials",
+      "quantity_text": "20 mL (also: 2 bottles)",
+      "quantity": 20.0,
       "unit": "mL"
     }
   ],
-  "references": [],
-  "content_hash": "312435cf1b2afb74"
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "The Lancet (2021)",
+      "description": "Once‑weekly cagrilintide for weight management: phase 2 dose‑finding trial (Lau et al.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34798060/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Int J Mol Sci (2024)",
+      "description": "Amylin, another important neuroendocrine hormone for treatment of diabesity",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38338796/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "PMC (2022)",
+      "description": "Mediators of amylin action in metabolic control",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9025724/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "The Lancet (2021)",
+      "description": "Cagrilintide phase 2 trial: 10.8% weight loss at 4.5 mg dose over 26 weeks",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0140673621017517",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "N Engl J Med (2025)",
+      "description": "REDEFINE 1: Coadministered cagrilintide and semaglutide in adults with overweight or obesity",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2502081",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "The Lancet (2021)",
+      "description": "Cagrilintide + semaglutide phase 1b trial: safety, tolerability, pharmacokinetics (Enebo et al.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33894838/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "J Med Chem (2021)",
+      "description": "Development of cagrilintide: a long‑acting amylin analogue",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00565",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "Brain Res Rev (2005)",
+      "description": "Pancreatic amylin as a centrally acting satiating hormone",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15777188/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "PMC (2006)",
+      "description": "Pancreatic signals controlling food intake: insulin, glucagon, and amylin",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1642707/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "PMC (2016)",
+      "description": "Amylin‑mediated control of glycemia, energy balance, and cognition",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4899204/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "PMC (2024)",
+      "description": "Clinical pharmacokinetics of semaglutide: systematic review (includes cagrilintide PK data)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11215664/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-12",
+      "citation": "N Engl J Med (2025)",
+      "description": "REDEFINE 2: Cagrilintide–semaglutide in adults with overweight/obesity and type 2 diabetes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40544432/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-13",
+      "citation": "CDC",
+      "description": "Vaccine administration: subcutaneous injection technique and site guidance",
+      "url": "https://www.cdc.gov/vaccines/hcp/administration/during.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-14",
+      "citation": "CDC (PDF)",
+      "description": "You Call the Shots: subcutaneous injection diagram and best practices",
+      "url": "https://www.cdc.gov/vaccines/hcp/admin/downloads/YCTS-VaxAdmin-Subcut-injection.pdf",
+      "category": "References"
+    },
+    {
+      "ref_id": "",
+      "citation": "PMC (2019)",
+      "description": "Subcutaneous drug delivery: pharmacologic considerations and techniques",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822791/",
+      "category": "References"
+    },
+    {
+      "ref_id": "",
+      "citation": "American College of Cardiology (2025)",
+      "description": "REDEFINE 1 and REDEFINE 2 journal scan summary",
+      "url": "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2025/07/02/14/43/REDEFINE-1-and-REDEFINE-2",
+      "category": "References"
+    },
+    {
+      "ref_id": "",
+      "citation": "The Lancet (2023)",
+      "description": "Efficacy and safety of CagriSema in type 2 diabetes: phase 2 trial (Frias et al.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37364590/",
+      "category": "References"
+    },
+    {
+      "ref_id": "",
+      "citation": "PMC (2024)",
+      "description": "Efficacy and safety of cagrilintide and CagriSema: systematic review and meta‑analysis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11642503/",
+      "category": "References"
+    },
+    {
+      "ref_id": "",
+      "citation": "Pure Lab Peptides",
+      "description": "Cagrilintide (5 mg) product page (quality and batch documentation)",
+      "url": null,
+      "category": "References"
+    }
+  ],
+  "content_hash": "f6c5fe28de50625d"
 }

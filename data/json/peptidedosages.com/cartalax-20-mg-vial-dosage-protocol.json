@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/cartalax-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:49:04+00:00",
+  "scraped_at": "2026-09-28T17:31:30+00:00",
   "peptide": "Cartalax",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -17,24 +17,24 @@
     {
       "item": "Peptide Vials (Cartalax, 20 mg each):",
       "schedule": null,
-      "label": "8 weeks ≈",
-      "quantity_text": "10 vials",
+      "label": "8 weeks",
+      "quantity_text": "approximately 10 vials required",
       "quantity": 10.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (Cartalax, 20 mg each):",
       "schedule": null,
-      "label": "12 weeks ≈",
-      "quantity_text": "15 vials",
+      "label": "12 weeks",
+      "quantity_text": "approximately 15 vials required",
       "quantity": 15.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (Cartalax, 20 mg each):",
       "schedule": null,
-      "label": "16 weeks ≈",
-      "quantity_text": "20 vials",
+      "label": "16 weeks",
+      "quantity_text": "approximately 20 vials required",
       "quantity": 20.0,
       "unit": "vials"
     },
@@ -42,7 +42,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (10 vials)",
-      "quantity_text": "30 mL (also: 3 × 10 mL)",
+      "quantity_text": "30 mL (also: 3 bottles required)",
       "quantity": 30.0,
       "unit": "mL"
     },
@@ -50,7 +50,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "12 weeks (15 vials)",
-      "quantity_text": "45 mL (also: 5 × 10 mL)",
+      "quantity_text": "45 mL (also: 5 bottles required)",
       "quantity": 45.0,
       "unit": "mL"
     },
@@ -58,11 +58,11 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "16 weeks (20 vials)",
-      "quantity_text": "60 mL (also: 6 × 10 mL)",
+      "quantity_text": "60 mL (also: 6 bottles required)",
       "quantity": 60.0,
       "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "7497c7ee97f24c27"
+  "content_hash": "d79dbdb6a31fd2a3"
 }

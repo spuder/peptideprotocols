@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/tesamorelin-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:54:09+00:00",
+  "scraped_at": "2026-09-28T17:36:42+00:00",
   "peptide": "Tesamorelin",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -18,15 +18,15 @@
       "item": "Peptide Vials (Tesamorelin, 10 mg each):",
       "schedule": null,
       "label": "8 weeks",
-      "quantity_text": "approximately 11 vials required",
-      "quantity": 11.0,
+      "quantity_text": "12 vials",
+      "quantity": 12.0,
       "unit": "vials"
     },
     {
       "item": "Peptide Vials (Tesamorelin, 10 mg each):",
       "schedule": null,
       "label": "12 weeks",
-      "quantity_text": "approximately 17 vials required",
+      "quantity_text": "17 vials",
       "quantity": 17.0,
       "unit": "vials"
     },
@@ -34,16 +34,16 @@
       "item": "Peptide Vials (Tesamorelin, 10 mg each):",
       "schedule": null,
       "label": "16 weeks",
-      "quantity_text": "approximately 22 vials required",
-      "quantity": 22.0,
+      "quantity_text": "23 vials",
+      "quantity": 23.0,
       "unit": "vials"
     },
     {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
-      "label": "8 weeks (11 vials)",
-      "quantity_text": "33 mL (also: 4 bottles required)",
-      "quantity": 33.0,
+      "label": "8 weeks (12 vials)",
+      "quantity_text": "36 mL (also: 4 bottles required)",
+      "quantity": 36.0,
       "unit": "mL"
     },
     {
@@ -57,12 +57,12 @@
     {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
-      "label": "16 weeks (22 vials)",
-      "quantity_text": "66 mL (also: 7 bottles required)",
-      "quantity": 66.0,
+      "label": "16 weeks (23 vials)",
+      "quantity_text": "69 mL (also: 7 bottles required)",
+      "quantity": 69.0,
       "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "dfb0f6af367435a6"
+  "content_hash": "8908f084cb561da1"
 }

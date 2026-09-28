@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/peptide-blend-dosages/bpc-157-tb-500-10mg-blend-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:55:05+00:00",
+  "scraped_at": "2026-09-28T17:37:39+00:00",
   "peptide": "BPC-157 + TB-500(10 mg Blend)Dosage Protocol",
   "vial_size_text": "",
   "vial_size_mg": null,
@@ -15,54 +15,62 @@
   "protocols": [],
   "supplies": [
     {
-      "item": "Peptide Vials (BPC-157 + TB-500, 10 mg blend each):",
+      "item": "BPC-157 + TB-500 10 mg blend vials:",
       "schedule": null,
-      "label": "8 weeks ≈",
+      "label": "4 weeks",
+      "quantity_text": "2 vials",
+      "quantity": 2.0,
+      "unit": "vials"
+    },
+    {
+      "item": "BPC-157 + TB-500 10 mg blend vials:",
+      "schedule": null,
+      "label": "6 weeks",
       "quantity_text": "4 vials",
       "quantity": 4.0,
       "unit": "vials"
     },
     {
-      "item": "Peptide Vials (BPC-157 + TB-500, 10 mg blend each):",
+      "item": "BPC-157 + TB-500 10 mg blend vials:",
       "schedule": null,
-      "label": "12 weeks ≈",
-      "quantity_text": "6 vials",
+      "label": "8 weeks",
+      "quantity_text": "5 vials",
+      "quantity": 5.0,
+      "unit": "vials"
+    },
+    {
+      "item": "Bacteriostatic water (10 mL bottles):",
+      "schedule": null,
+      "label": "Use",
+      "quantity_text": "3.0 mL per vial",
+      "quantity": 3.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic water (10 mL bottles):",
+      "schedule": null,
+      "label": "4 weeks",
+      "quantity_text": "6 mL (also: 1 bottle)",
       "quantity": 6.0,
-      "unit": "vials"
+      "unit": "mL"
     },
     {
-      "item": "Peptide Vials (BPC-157 + TB-500, 10 mg blend each):",
+      "item": "Bacteriostatic water (10 mL bottles):",
       "schedule": null,
-      "label": "16 weeks ≈",
-      "quantity_text": "8 vials",
-      "quantity": 8.0,
-      "unit": "vials"
-    },
-    {
-      "item": "Bacteriostatic Water (10 mL bottles):",
-      "schedule": null,
-      "label": "8 weeks (4 vials)",
-      "quantity_text": "12 mL (also: 2 × 10 mL)",
+      "label": "6 weeks",
+      "quantity_text": "12 mL (also: 2 bottles)",
       "quantity": 12.0,
       "unit": "mL"
     },
     {
-      "item": "Bacteriostatic Water (10 mL bottles):",
+      "item": "Bacteriostatic water (10 mL bottles):",
       "schedule": null,
-      "label": "12 weeks (6 vials)",
-      "quantity_text": "18 mL (also: 2 × 10 mL)",
-      "quantity": 18.0,
-      "unit": "mL"
-    },
-    {
-      "item": "Bacteriostatic Water (10 mL bottles):",
-      "schedule": null,
-      "label": "16 weeks (8 vials)",
-      "quantity_text": "24 mL (also: 3 × 10 mL)",
-      "quantity": 24.0,
+      "label": "8 weeks",
+      "quantity_text": "15 mL (also: 2 bottles)",
+      "quantity": 15.0,
       "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "f837971a3b6d8503"
+  "content_hash": "09867f4522c17e4f"
 }

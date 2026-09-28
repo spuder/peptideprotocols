@@ -1,7 +1,7 @@
 # Semaglutide (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/semaglutide-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-21T15:53:05+00:00
+- Scraped: 2026-09-28T17:35:35+00:00
 
 ## Dosing & Reconstitution Guide
 

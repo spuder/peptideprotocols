@@ -1,7 +1,7 @@
 # Sermorelin (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/sermorelin-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-21T15:53:26+00:00
+- Scraped: 2026-09-28T17:35:58+00:00
 
 ## Dosing & Reconstitution Guide
 
@@ -12,7 +12,7 @@
 - 12 weeks (similar daily range): **4 vials**
 
 **Bacteriostatic Water (10 mL bottles):**
-- 8 weeks (2 vials): **6 mL (also: 1 bottle required)**
-- 12 weeks (4 vials): **12 mL (also: 2 bottles required)**
+- 8 weeks (2 vials): **6 mL (also: 1 × 10 mL)**
+- 12 weeks (4 vials): **12 mL (also: 2 × 10 mL)**
 
 ## References

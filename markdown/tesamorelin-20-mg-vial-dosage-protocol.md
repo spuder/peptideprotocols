@@ -1,20 +1,21 @@
 # Tesamorelin (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/tesamorelin-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-21T15:54:13+00:00
+- Scraped: 2026-09-28T17:36:46+00:00
 
 ## Dosing & Reconstitution Guide
 
 ## Supplies Needed
 
-**Peptide Vials (Tesamorelin, 20 mg each):**
-- 8 weeks: **approximately 6 vials required**
-- 12 weeks: **approximately 9 vials required**
-- 16 weeks: **approximately 11 vials required**
+**Peptide vials (Tesamorelin, 20 mg each):**
+- 8 weeks: **6 vials**
+- 12 weeks: **9 vials**
+- 16 weeks: **12 vials**
 
-**Bacteriostatic Water (10 mL bottles):**
-- 8 weeks (6 vials): **18 mL (also: 2 bottles required)**
-- 12 weeks (9 vials): **27 mL (also: 3 bottles required)**
-- 16 weeks (11 vials): **33 mL (also: 4 bottles required)**
+**Bacteriostatic water (10 mL bottles):**
+- Use: **3.0 mL per vial**
+- 8 weeks: **18 mL (also: 2 bottles)**
+- 12 weeks: **27 mL (also: 3 bottles)**
+- 16 weeks: **36 mL (also: 4 bottles)**
 
 ## References

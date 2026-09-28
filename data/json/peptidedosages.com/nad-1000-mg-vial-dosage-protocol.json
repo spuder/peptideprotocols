@@ -1,24 +1,77 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/nad-1000-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:51:52+00:00",
+  "scraped_at": "2026-09-28T17:34:22+00:00",
   "peptide": "NAD+",
   "vial_size_text": "1000 mg Vial",
   "vial_size_mg": 1000.0,
-  "page_updated": "",
+  "page_updated": null,
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
-    "steps": []
+    "steps": [
+      "Wash hands, prepare a clean work area, and clean the NAD+ vial stopper and diluent stopper with separate alcohol swabs.",
+      "Draw 3.0 mL of bacteriostatic water with a sterile syringe and inject it slowly down the inside wall of the container.",
+      "Gently swirl or roll the vial until the powder dissolves. Do not shake.",
+      "Label the vial with the compound, 333.33 mg/mL concentration, and preparation date; refrigerate at 2–8°C (36–46°F) and protect from light."
+    ]
   },
-  "protocols": [],
+  "protocols": [
+    {
+      "name": "Community-Reported Use",
+      "heading_raw": "Community-Reported Use",
+      "frequency": "Frequency: The calculation schedule uses one administration per day. U-100 syringe units are volume markings, not peptide international units.",
+      "rows": [
+        {
+          "week_phase": "Week 1",
+          "dose_text": "50 mg",
+          "dose_mg": 50.0,
+          "units_text": "15 units (0.15 mL)",
+          "units": 15.0,
+          "ml": 0.15
+        },
+        {
+          "week_phase": "Week 2",
+          "dose_text": "75 mg",
+          "dose_mg": 75.0,
+          "units_text": "22.5 units (0.225 mL)",
+          "units": 22.5,
+          "ml": 0.225
+        },
+        {
+          "week_phase": "Weeks 3–8",
+          "dose_text": "100 mg",
+          "dose_mg": 100.0,
+          "units_text": "30 units (0.30 mL)",
+          "units": 30.0,
+          "ml": 0.3
+        },
+        {
+          "week_phase": "Weeks 9–12",
+          "dose_text": "100 mg",
+          "dose_mg": 100.0,
+          "units_text": "30 units (0.30 mL)",
+          "units": 30.0,
+          "ml": 0.3
+        },
+        {
+          "week_phase": "Weeks 13–16",
+          "dose_text": "100 mg",
+          "dose_mg": 100.0,
+          "units_text": "30 units (0.30 mL)",
+          "units": 30.0,
+          "ml": 0.3
+        }
+      ]
+    }
+  ],
   "supplies": [
     {
       "item": "Peptide Vials (NAD+, 1000 mg each):",
       "schedule": null,
       "label": "8 weeks",
-      "quantity_text": "approximately 6 vials required",
+      "quantity_text": "6 vials",
       "quantity": 6.0,
       "unit": "vials"
     },
@@ -26,7 +79,7 @@
       "item": "Peptide Vials (NAD+, 1000 mg each):",
       "schedule": null,
       "label": "12 weeks",
-      "quantity_text": "approximately 8 vials required",
+      "quantity_text": "8 vials",
       "quantity": 8.0,
       "unit": "vials"
     },
@@ -34,35 +87,120 @@
       "item": "Peptide Vials (NAD+, 1000 mg each):",
       "schedule": null,
       "label": "16 weeks",
-      "quantity_text": "approximately 11 vials required",
+      "quantity_text": "11 vials",
       "quantity": 11.0,
       "unit": "vials"
     },
     {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
-      "label": "8 weeks (6 vials)",
-      "quantity_text": "18 mL (also: 2 bottles required)",
-      "quantity": 18.0,
-      "unit": "mL"
+      "label": "8 weeks: 18 mL →",
+      "quantity_text": "2 bottles",
+      "quantity": 2.0,
+      "unit": "bottles"
     },
     {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
-      "label": "12 weeks (8 vials)",
-      "quantity_text": "24 mL (also: 3 bottles required)",
-      "quantity": 24.0,
-      "unit": "mL"
+      "label": "12 weeks: 24 mL →",
+      "quantity_text": "3 bottles",
+      "quantity": 3.0,
+      "unit": "bottles"
     },
     {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
-      "label": "16 weeks (11 vials)",
-      "quantity_text": "33 mL (also: 4 bottles required)",
-      "quantity": 33.0,
-      "unit": "mL"
+      "label": "16 weeks: 33 mL →",
+      "quantity_text": "4 bottles",
+      "quantity": 4.0,
+      "unit": "bottles"
     }
   ],
-  "references": [],
-  "content_hash": "3120724e3e95b930"
+  "references": [
+    {
+      "ref_id": "ref-1",
+      "citation": "Pharmaceuticals (Basel)",
+      "description": "Clinical evidence and biological pathways relevant to therapeutic NAD+ targeting",
+      "url": "https://doi.org/10.3390/ph13090247",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-2",
+      "citation": "Current Psychiatry Research and Reviews",
+      "description": "Observational NAD+ and enkephalinase-inhibitor infusion report in substance-use disorder",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36118157/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-3",
+      "citation": "Frontiers in Aging Neuroscience",
+      "description": "Plasma and urine NAD+ metabolome during a six-hour 750 mg intravenous infusion",
+      "url": "https://doi.org/10.3389/fnagi.2019.00257",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-4",
+      "citation": "American Journal of Physiology",
+      "description": "Systematic review of NAD+ and NADH safety and effectiveness across clinical conditions",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37971292/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-5",
+      "citation": "Pharmacology Research & Perspectives",
+      "description": "Review of NAD+ pharmacology, metabolism, aging, and potential implications",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8612620/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-6",
+      "citation": "Endocrine Reviews",
+      "description": "Critical appraisal of NAD+ biology, clinical applications, and unresolved questions",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12102727/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-7",
+      "citation": "Nature Metabolism",
+      "description": "NAD+ precursor supplementation in human aging: clinical evidence and challenges",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41083806/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-8",
+      "citation": "Ageing Research Reviews",
+      "description": "Systematic review of NAD+ supplementation evidence for anti-aging and wellness",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41655607/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-9",
+      "citation": "CDC Pink Book",
+      "description": "General subcutaneous administration and needle-selection guidance",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-6-vaccine-administration.html",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-10",
+      "citation": "NCBI Bookshelf",
+      "description": "General injection best practices, asepsis, administration, and site rotation",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK138495/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-11",
+      "citation": "Advances in Therapy",
+      "description": "Review of factors that influence pain with subcutaneous injections",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822791/",
+      "category": "References"
+    },
+    {
+      "ref_id": "ref-12",
+      "citation": "Pure Lab Peptides",
+      "description": "NAD+ 1000 mg product identity and supplier documentation",
+      "url": "https://purelabpeptides.com/buy-peptides/buy-nad-1000mg/",
+      "category": "References"
+    }
+  ],
+  "content_hash": "58ed34d55165d0cc"
 }

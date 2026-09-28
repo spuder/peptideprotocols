@@ -1,7 +1,7 @@
 # Retatrutide Dosage Protocol (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/retatrutide-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-21T15:52:39+00:00
+- Scraped: 2026-09-28T17:35:09+00:00
 
 ## Dosing & Reconstitution Guide
 

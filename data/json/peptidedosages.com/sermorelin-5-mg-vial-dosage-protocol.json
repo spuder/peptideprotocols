@@ -1,10 +1,10 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/sermorelin-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:53:30+00:00",
-  "peptide": "Sermorelin",
-  "vial_size_text": "5 mg Vial",
-  "vial_size_mg": 5.0,
+  "scraped_at": "2026-09-28T17:36:03+00:00",
+  "peptide": "Sermorelin 5 mg Dosage Chart and Protocol",
+  "vial_size_text": "",
+  "vial_size_mg": null,
   "page_updated": "",
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
@@ -34,7 +34,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (4 vials)",
-      "quantity_text": "12 mL (also: 2 bottles required)",
+      "quantity_text": "12 mL (also: 2 × 10 mL)",
       "quantity": 12.0,
       "unit": "mL"
     },
@@ -42,11 +42,11 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "12 weeks (7 vials)",
-      "quantity_text": "21 mL (also: 3 bottles required)",
+      "quantity_text": "21 mL (also: 3 × 10 mL)",
       "quantity": 21.0,
       "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "fbe2a4f5cefb2853"
+  "content_hash": "56ad594b4e07d6eb"
 }

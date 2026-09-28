@@ -1,9 +1,25 @@
 # MOTS-C (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/mots-c-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-21T15:51:48+00:00
+- Scraped: 2026-09-28T17:34:17+00:00
 
 ## Dosing & Reconstitution Guide
+
+### Community-reported use
+*Community-reported use (3 mL = ~1.67 mg/mL)*
+
+| Week/Phase | Dose | Units (mL) |
+|---|---|---|
+| Weeks 1–2 | 500 mcg (0.5 mg) | 30 units (0.30 mL) |
+| Weeks 3–4 | 1000 mcg (1.0 mg) | 60 units (0.60 mL) |
+| Weeks 5–6 | 1500 mcg (1.5 mg) | 90 units (0.90 mL) |
+| Weeks 7–8 | 2000 mcg (2.0 mg) | 120 units (two 60‑unit injections)* |
+
+### Reconstitution Steps
+1. Draw 3.0 mL bacteriostatic water with a sterile syringe.
+2. Inject slowly down the vial wall; avoid foaming.
+3. Gently swirl/roll until dissolved (do not shake vigorously).
+4. Label with reconstitution date and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light. Follow documented, formulation-specific discard guidance [12] .
 
 ## Supplies Needed
 

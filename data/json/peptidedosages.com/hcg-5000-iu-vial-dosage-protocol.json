@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/hcg-5000-iu-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:50:30+00:00",
+  "scraped_at": "2026-09-28T17:32:58+00:00",
   "peptide": "HCG",
   "vial_size_text": "5000 IU Vial",
   "vial_size_mg": 5000.0,
@@ -42,7 +42,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (3 vials)",
-      "quantity_text": "6 mL (also: 1 × 10 mL)",
+      "quantity_text": "6 mL (also: 1 bottle required)",
       "quantity": 6.0,
       "unit": "mL"
     },
@@ -50,7 +50,7 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "12 weeks (4 vials)",
-      "quantity_text": "8 mL (also: 1 × 10 mL)",
+      "quantity_text": "8 mL (also: 1 bottle required)",
       "quantity": 8.0,
       "unit": "mL"
     },
@@ -58,11 +58,11 @@
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "16 weeks (5 vials)",
-      "quantity_text": "10 mL (also: 1 × 10 mL)",
+      "quantity_text": "10 mL (also: 1 bottle required)",
       "quantity": 10.0,
       "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "7330e39dcfb0655a"
+  "content_hash": "53256aa039381d79"
 }

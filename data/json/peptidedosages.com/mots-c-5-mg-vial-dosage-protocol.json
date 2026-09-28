@@ -1,18 +1,63 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/mots-c-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:51:48+00:00",
+  "scraped_at": "2026-09-28T17:34:17+00:00",
   "peptide": "MOTS-C",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
-  "page_updated": "",
+  "page_updated": null,
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
     "volume_ml": null,
     "concentration_mg_ml": null,
-    "steps": []
+    "steps": [
+      "Draw 3.0 mL bacteriostatic water with a sterile syringe.",
+      "Inject slowly down the vial wall; avoid foaming.",
+      "Gently swirl/roll until dissolved (do not shake vigorously).",
+      "Label with reconstitution date and refrigerate at 2–8 °C (35.6–46.4 °F) , protected from light. Follow documented, formulation-specific discard guidance [12] ."
+    ]
   },
-  "protocols": [],
+  "protocols": [
+    {
+      "name": "Community-reported use",
+      "heading_raw": "Community-reported use (3 mL = ~1.67 mg/mL)",
+      "frequency": "",
+      "rows": [
+        {
+          "week_phase": "Weeks 1–2",
+          "dose_text": "500 mcg (0.5 mg)",
+          "dose_mg": 500.0,
+          "units_text": "30 units (0.30 mL)",
+          "units": 30.0,
+          "ml": 0.3
+        },
+        {
+          "week_phase": "Weeks 3–4",
+          "dose_text": "1000 mcg (1.0 mg)",
+          "dose_mg": 1000.0,
+          "units_text": "60 units (0.60 mL)",
+          "units": 60.0,
+          "ml": 0.6
+        },
+        {
+          "week_phase": "Weeks 5–6",
+          "dose_text": "1500 mcg (1.5 mg)",
+          "dose_mg": 1500.0,
+          "units_text": "90 units (0.90 mL)",
+          "units": 90.0,
+          "ml": 0.9
+        },
+        {
+          "week_phase": "Weeks 7–8",
+          "dose_text": "2000 mcg (2.0 mg)",
+          "dose_mg": 2000.0,
+          "units_text": "120 units (two 60‑unit injections)*",
+          "units": 120.0,
+          "ml": null
+        }
+      ]
+    }
+  ],
   "supplies": [
     {
       "item": "Peptide Vials (MOTS-C, 5 mg each):",
@@ -64,5 +109,5 @@
     }
   ],
   "references": [],
-  "content_hash": "c9cbc7bddbeb1dfc"
+  "content_hash": "822ac464520528d2"
 }

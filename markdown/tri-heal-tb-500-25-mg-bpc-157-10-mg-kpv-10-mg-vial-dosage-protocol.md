@@ -1,7 +1,7 @@
 # Tri-Heal(45 mg Blend)Dosage Protocol ()
 
 - Source: <https://peptidedosages.com/peptide-blend-dosages/tri-heal-tb-500-25-mg-bpc-157-10-mg-kpv-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-21T15:55:44+00:00
+- Scraped: 2026-09-28T17:38:20+00:00
 
 ## Dosing & Reconstitution Guide
 

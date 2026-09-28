@@ -1,7 +1,7 @@
 # Chonluten (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/chonluten-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-21T15:49:13+00:00
+- Scraped: 2026-09-28T17:31:39+00:00
 
 ## Dosing & Reconstitution Guide
 

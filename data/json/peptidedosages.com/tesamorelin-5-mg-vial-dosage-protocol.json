@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/tesamorelin-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:54:18+00:00",
+  "scraped_at": "2026-09-28T17:36:51+00:00",
   "peptide": "Tesamorelin",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -15,54 +15,62 @@
   "protocols": [],
   "supplies": [
     {
-      "item": "Peptide Vials (Tesamorelin, 5 mg each):",
+      "item": "Peptide vials (Tesamorelin, 5 mg each):",
       "schedule": null,
       "label": "8 weeks",
-      "quantity_text": "approximately 23 vials required",
+      "quantity_text": "23 vials",
       "quantity": 23.0,
       "unit": "vials"
     },
     {
-      "item": "Peptide Vials (Tesamorelin, 5 mg each):",
+      "item": "Peptide vials (Tesamorelin, 5 mg each):",
       "schedule": null,
       "label": "12 weeks",
-      "quantity_text": "approximately 34 vials required",
+      "quantity_text": "34 vials",
       "quantity": 34.0,
       "unit": "vials"
     },
     {
-      "item": "Peptide Vials (Tesamorelin, 5 mg each):",
+      "item": "Peptide vials (Tesamorelin, 5 mg each):",
       "schedule": null,
       "label": "16 weeks",
-      "quantity_text": "approximately 45 vials required",
+      "quantity_text": "45 vials",
       "quantity": 45.0,
       "unit": "vials"
     },
     {
-      "item": "Bacteriostatic Water (10 mL bottles):",
+      "item": "Bacteriostatic water (10 mL bottles):",
       "schedule": null,
-      "label": "8 weeks (23 vials)",
-      "quantity_text": "57.5 mL (also: 6 bottles required)",
+      "label": "Use",
+      "quantity_text": "2.5 mL per vial",
+      "quantity": 2.5,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic water (10 mL bottles):",
+      "schedule": null,
+      "label": "8 weeks",
+      "quantity_text": "57.5 mL (also: 6 bottles)",
       "quantity": 57.5,
       "unit": "mL"
     },
     {
-      "item": "Bacteriostatic Water (10 mL bottles):",
+      "item": "Bacteriostatic water (10 mL bottles):",
       "schedule": null,
-      "label": "12 weeks (34 vials)",
-      "quantity_text": "85 mL (also: 9 bottles required)",
+      "label": "12 weeks",
+      "quantity_text": "85 mL (also: 9 bottles)",
       "quantity": 85.0,
       "unit": "mL"
     },
     {
-      "item": "Bacteriostatic Water (10 mL bottles):",
+      "item": "Bacteriostatic water (10 mL bottles):",
       "schedule": null,
-      "label": "16 weeks (45 vials)",
-      "quantity_text": "112.5 mL (also: 12 bottles required)",
+      "label": "16 weeks",
+      "quantity_text": "112.5 mL (also: 12 bottles)",
       "quantity": 112.5,
       "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "fcc4df556e792ade"
+  "content_hash": "1aeb6497136b63ae"
 }

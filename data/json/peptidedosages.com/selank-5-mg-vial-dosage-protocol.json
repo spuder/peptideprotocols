@@ -1,10 +1,10 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/selank-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-21T15:53:01+00:00",
-  "peptide": "Selank Dosage",
-  "vial_size_text": "5 mg Vial",
-  "vial_size_mg": 5.0,
+  "scraped_at": "2026-09-28T17:35:31+00:00",
+  "peptide": "Selank 5 mg Dosage Chart and Protocol",
+  "vial_size_text": "",
+  "vial_size_mg": null,
   "page_updated": "",
   "reconstitution_summary": {
     "diluent": "sterile/bacteriostatic water",
@@ -15,5 +15,5 @@
   "protocols": [],
   "supplies": [],
   "references": [],
-  "content_hash": "e42655e6ac5f0aeb"
+  "content_hash": "127871875c553402"
 }
