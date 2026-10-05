@@ -1,7 +1,7 @@
 # Sermorelin (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/sermorelin-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-28T17:35:58+00:00
+- Scraped: 2026-10-05T18:16:52+00:00
 
 ## Dosing & Reconstitution Guide
 

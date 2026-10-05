@@ -1,7 +1,7 @@
 # Retatrutide Dosage Protocol (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/retatrutide-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-28T17:35:22+00:00
+- Scraped: 2026-10-05T18:16:16+00:00
 
 ## Dosing & Reconstitution Guide
 

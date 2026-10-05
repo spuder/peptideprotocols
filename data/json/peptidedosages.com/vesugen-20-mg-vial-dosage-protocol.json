@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/vesugen-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-28T17:37:26+00:00",
+  "scraped_at": "2026-10-05T18:18:20+00:00",
   "peptide": "Vesugen",
   "vial_size_text": "Lys-Glu-Asp)(20 mg Vial",
   "vial_size_mg": 20.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "db057c91d6eb215e"
+  "content_hash": "8be2c0660e2fd968"
 }

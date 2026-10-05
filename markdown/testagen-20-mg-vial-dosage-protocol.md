@@ -1,7 +1,7 @@
 # Testagen (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/testagen-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-28T17:36:55+00:00
+- Scraped: 2026-10-05T18:17:49+00:00
 
 ## Dosing & Reconstitution Guide
 

@@ -1,7 +1,7 @@
 # LL-37 (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/ll-37-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-28T17:33:42+00:00
+- Scraped: 2026-10-05T18:14:34+00:00
 
 ## Dosing & Reconstitution Guide
 

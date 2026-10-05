@@ -1,7 +1,7 @@
 # Epitalon (Epithalon)(10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/epitalon-epithalon-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-09-28T17:32:10+00:00
+- Scraped: 2026-10-05T18:12:59+00:00
 
 ## Dosing & Reconstitution Guide
 

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/prostamax-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-09-28T17:35:01+00:00",
+  "scraped_at": "2026-10-05T18:15:54+00:00",
   "peptide": "Prostamax",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "6d14bbb95dbd0221"
+  "content_hash": "48269b348ddf0b55"
 }
