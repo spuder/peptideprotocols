@@ -1,7 +1,7 @@
 # Tesamorelin (20 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/tesamorelin-20-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-05T18:17:40+00:00
+- Scraped: 2026-10-12T18:56:03+00:00
 
 ## Dosing & Reconstitution Guide
 

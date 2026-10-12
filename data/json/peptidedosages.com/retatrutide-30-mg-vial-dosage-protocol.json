@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/retatrutide-30-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-05T18:16:11+00:00",
+  "scraped_at": "2026-10-12T18:54:25+00:00",
   "peptide": "Retatrutide Dosage Protocol",
   "vial_size_text": "30 mg Vial",
   "vial_size_mg": 30.0,
@@ -80,5 +80,5 @@
     }
   ],
   "references": [],
-  "content_hash": "d4133d7a071ad090"
+  "content_hash": "7d599fc8d40296cf"
 }

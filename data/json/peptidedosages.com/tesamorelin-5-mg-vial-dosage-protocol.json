@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/tesamorelin-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-05T18:17:44+00:00",
+  "scraped_at": "2026-10-12T18:56:07+00:00",
   "peptide": "Tesamorelin",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -72,5 +72,5 @@
     }
   ],
   "references": [],
-  "content_hash": "b1e7192d5406a90c"
+  "content_hash": "6736b09c9935dca1"
 }

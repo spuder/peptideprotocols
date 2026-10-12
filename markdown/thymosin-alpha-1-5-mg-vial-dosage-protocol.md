@@ -1,7 +1,7 @@
 # Thymosin Alpha-1 (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/thymosin-alpha-1-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-05T18:17:58+00:00
+- Scraped: 2026-10-12T18:56:20+00:00
 
 ## Dosing & Reconstitution Guide
 

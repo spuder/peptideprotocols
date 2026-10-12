@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/peg-mgf-2-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-05T18:15:41+00:00",
+  "scraped_at": "2026-10-12T18:53:53+00:00",
   "peptide": "PEG MGF",
   "vial_size_text": "2 mg Vial",
   "vial_size_mg": 2.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "9ef3fca7a1528a1f"
+  "content_hash": "11c987f835df67cc"
 }

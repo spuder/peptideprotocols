@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/thymosin-alpha-1-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-05T18:17:53+00:00",
+  "scraped_at": "2026-10-12T18:56:16+00:00",
   "peptide": "Thymosin Alpha-1",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "04fbd8c8bed8f2fa"
+  "content_hash": "ad412207fcbb2930"
 }

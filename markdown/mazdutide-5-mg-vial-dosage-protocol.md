@@ -1,7 +1,7 @@
 # Mazdutide (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/mazdutide-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-05T18:14:43+00:00
+- Scraped: 2026-10-12T18:52:49+00:00
 
 ## Dosing & Reconstitution Guide
 

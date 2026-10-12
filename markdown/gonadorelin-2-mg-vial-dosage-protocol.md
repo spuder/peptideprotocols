@@ -1,7 +1,7 @@
 # Gonadorelin (2 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/gonadorelin-2-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-05T18:13:44+00:00
+- Scraped: 2026-10-12T18:51:48+00:00
 
 ## Dosing & Reconstitution Guide
 

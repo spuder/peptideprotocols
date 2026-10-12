@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/oxytocin-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-05T18:15:27+00:00",
+  "scraped_at": "2026-10-12T18:53:39+00:00",
   "peptide": "Oxytocin",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "8e0ef62f3de45e63"
+  "content_hash": "f756a8cc7508a304"
 }
