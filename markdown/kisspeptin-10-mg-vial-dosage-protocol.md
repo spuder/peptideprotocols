@@ -1,7 +1,7 @@
 # Kisspeptin (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/kisspeptin-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-12T18:52:20+00:00
+- Scraped: 2026-10-19T16:23:56+00:00
 
 ## Dosing & Reconstitution Guide
 

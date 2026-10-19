@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/dsip-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-12T18:50:53+00:00",
+  "scraped_at": "2026-10-19T16:22:37+00:00",
   "peptide": "DSIP",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "2af44622d3672c01"
+  "content_hash": "e5111ad67a659a0e"
 }

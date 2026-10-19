@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/aod-9604-2-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-12T18:49:40+00:00",
+  "scraped_at": "2026-10-19T16:21:23+00:00",
   "peptide": "AOD-9604",
   "vial_size_text": "2 mg Vial",
   "vial_size_mg": 2.0,
@@ -31,14 +31,6 @@
       "unit": "vials"
     },
     {
-      "item": "Peptide Vials (AOD-9604, 2 mg each):",
-      "schedule": null,
-      "label": "16 weeks",
-      "quantity_text": "approximately 26 vials required",
-      "quantity": 26.0,
-      "unit": "vials"
-    },
-    {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (12 vials)",
@@ -53,16 +45,8 @@
       "quantity_text": "57 mL (also: 6 bottles required)",
       "quantity": 57.0,
       "unit": "mL"
-    },
-    {
-      "item": "Bacteriostatic Water (10 mL bottles):",
-      "schedule": null,
-      "label": "16 weeks (26 vials)",
-      "quantity_text": "78 mL (also: 8 bottles required)",
-      "quantity": 78.0,
-      "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "c16b13adac05f50b"
+  "content_hash": "5fa02cd306107724"
 }

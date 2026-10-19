@@ -1,7 +1,7 @@
 # MOTS-C (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/mots-c-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-12T18:53:05+00:00
+- Scraped: 2026-10-19T16:24:35+00:00
 
 ## Dosing & Reconstitution Guide
 

@@ -1,7 +1,7 @@
 # PNC-27 (30 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/pnc-27-30-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-12T18:54:02+00:00
+- Scraped: 2026-10-19T16:25:29+00:00
 
 ## Dosing & Reconstitution Guide
 

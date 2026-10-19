@@ -1,7 +1,7 @@
 # GHRP-2 (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/ghrp-2-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-12T18:51:24+00:00
+- Scraped: 2026-10-19T16:23:03+00:00
 
 ## Dosing & Reconstitution Guide
 

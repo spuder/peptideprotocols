@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/5-amino-1mq-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-12T18:49:16+00:00",
+  "scraped_at": "2026-10-19T16:20:56+00:00",
   "peptide": "5-Amino-1MQ",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -17,7 +17,7 @@
     {
       "item": "5-Amino-1MQ Vials (10 mg each):",
       "schedule": null,
-      "label": "1 week (5 mg/day = 35 mg total)  —",
+      "label": "1 week (5 mg/day = 35 mg total) -",
       "quantity_text": "4 vials required",
       "quantity": 4.0,
       "unit": "vials"
@@ -25,7 +25,7 @@
     {
       "item": "5-Amino-1MQ Vials (10 mg each):",
       "schedule": null,
-      "label": "2 weeks (5 mg/day = 70 mg total)  —",
+      "label": "2 weeks (5 mg/day = 70 mg total) -",
       "quantity_text": "7 vials required",
       "quantity": 7.0,
       "unit": "vials"
@@ -33,7 +33,7 @@
     {
       "item": "5-Amino-1MQ Vials (10 mg each):",
       "schedule": null,
-      "label": "4 weeks (5 mg/day = 140 mg total)  —",
+      "label": "4 weeks (5 mg/day = 140 mg total) -",
       "quantity_text": "14 vials required",
       "quantity": 14.0,
       "unit": "vials"
@@ -41,7 +41,7 @@
     {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
-      "label": "1 week (8 mL total for 4 vials)  —",
+      "label": "1 week (8 mL total for 4 vials) -",
       "quantity_text": "1 bottle required",
       "quantity": 1.0,
       "unit": "bottle"
@@ -49,7 +49,7 @@
     {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
-      "label": "2 weeks (14 mL total for 7 vials)  —",
+      "label": "2 weeks (14 mL total for 7 vials) -",
       "quantity_text": "2 bottles required",
       "quantity": 2.0,
       "unit": "bottles"
@@ -57,12 +57,12 @@
     {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
-      "label": "4 weeks (28 mL total for 14 vials)  —",
+      "label": "4 weeks (28 mL total for 14 vials) -",
       "quantity_text": "3 bottles required",
       "quantity": 3.0,
       "unit": "bottles"
     }
   ],
   "references": [],
-  "content_hash": "5c5d0646694a6044"
+  "content_hash": "6a9baaf81bd1cebf"
 }

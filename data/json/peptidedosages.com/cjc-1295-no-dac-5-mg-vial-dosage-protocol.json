@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/cjc-1295-no-dac-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-12T18:50:36+00:00",
+  "scraped_at": "2026-10-19T16:22:24+00:00",
   "peptide": "CJC-1295 NO DAC",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -18,14 +18,6 @@
       "item": "Peptide Vials (CJC-1295 NO DAC, 5 mg each):",
       "schedule": null,
       "label": "8 weeks ≈",
-      "quantity_text": "2 vials",
-      "quantity": 2.0,
-      "unit": "vials"
-    },
-    {
-      "item": "Peptide Vials (CJC-1295 NO DAC, 5 mg each):",
-      "schedule": null,
-      "label": "12 weeks ≈",
       "quantity_text": "3 vials",
       "quantity": 3.0,
       "unit": "vials"
@@ -33,23 +25,23 @@
     {
       "item": "Peptide Vials (CJC-1295 NO DAC, 5 mg each):",
       "schedule": null,
-      "label": "16 weeks ≈",
+      "label": "12 weeks ≈",
       "quantity_text": "4 vials",
       "quantity": 4.0,
       "unit": "vials"
     },
     {
-      "item": "Bacteriostatic Water (10 mL bottles):",
+      "item": "Peptide Vials (CJC-1295 NO DAC, 5 mg each):",
       "schedule": null,
-      "label": "8 weeks (2 vials)",
-      "quantity_text": "6 mL (also: 1 × 10 mL)",
+      "label": "16 weeks ≈",
+      "quantity_text": "6 vials",
       "quantity": 6.0,
-      "unit": "mL"
+      "unit": "vials"
     },
     {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
-      "label": "12 weeks (3 vials)",
+      "label": "8 weeks (3 vials)",
       "quantity_text": "9 mL (also: 1 × 10 mL)",
       "quantity": 9.0,
       "unit": "mL"
@@ -57,12 +49,20 @@
     {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
-      "label": "16 weeks (4 vials)",
+      "label": "12 weeks (4 vials)",
       "quantity_text": "12 mL (also: 2 × 10 mL)",
       "quantity": 12.0,
+      "unit": "mL"
+    },
+    {
+      "item": "Bacteriostatic Water (10 mL bottles):",
+      "schedule": null,
+      "label": "16 weeks (6 vials)",
+      "quantity_text": "18 mL (also: 2 × 10 mL)",
+      "quantity": 18.0,
       "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "f0b7c93d3763d369"
+  "content_hash": "4547427c671e1776"
 }

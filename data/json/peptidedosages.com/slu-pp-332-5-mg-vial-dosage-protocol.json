@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/slu-pp-332-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-12T18:55:18+00:00",
+  "scraped_at": "2026-10-19T16:26:41+00:00",
   "peptide": "SLU-PP-332",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "445cb0326d3b057e"
+  "content_hash": "7006487f9ddac893"
 }

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ipamorelin-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-12T18:52:12+00:00",
+  "scraped_at": "2026-10-19T16:23:48+00:00",
   "peptide": "Ipamorelin",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "0aabdf9dfa31f120"
+  "content_hash": "b6e37a6d029eb77a"
 }

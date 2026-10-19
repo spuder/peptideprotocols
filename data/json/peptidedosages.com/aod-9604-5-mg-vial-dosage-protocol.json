@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/aod-9604-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-12T18:49:45+00:00",
+  "scraped_at": "2026-10-19T16:21:27+00:00",
   "peptide": "AOD-9604",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -31,14 +31,6 @@
       "unit": "vials"
     },
     {
-      "item": "Peptide Vials (AOD-9604, 5 mg each):",
-      "schedule": null,
-      "label": "16 weeks",
-      "quantity_text": "approximately 11 vials required",
-      "quantity": 11.0,
-      "unit": "vials"
-    },
-    {
       "item": "Bacteriostatic Water (10 mL bottles):",
       "schedule": null,
       "label": "8 weeks (5 vials)",
@@ -53,16 +45,8 @@
       "quantity_text": "24 mL (also: 3 bottles required)",
       "quantity": 24.0,
       "unit": "mL"
-    },
-    {
-      "item": "Bacteriostatic Water (10 mL bottles):",
-      "schedule": null,
-      "label": "16 weeks (11 vials)",
-      "quantity_text": "33 mL (also: 4 bottles required)",
-      "quantity": 33.0,
-      "unit": "mL"
     }
   ],
   "references": [],
-  "content_hash": "5982a83f2ae0289e"
+  "content_hash": "d717fc9775d60053"
 }

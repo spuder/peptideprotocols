@@ -1,7 +1,7 @@
 # Retatrutide Dosage Protocol (30 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/retatrutide-30-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-12T18:54:25+00:00
+- Scraped: 2026-10-19T16:25:51+00:00
 
 ## Dosing & Reconstitution Guide
 

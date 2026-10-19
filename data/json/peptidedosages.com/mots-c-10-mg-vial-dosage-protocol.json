@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/mots-c-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-12T18:53:05+00:00",
+  "scraped_at": "2026-10-19T16:24:35+00:00",
   "peptide": "MOTS-C",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "45e4a0fc7a7335ef"
+  "content_hash": "8480b5db05b0f665"
 }

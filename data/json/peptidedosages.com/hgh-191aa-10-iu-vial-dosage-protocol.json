@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/hgh-191aa-10-iu-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-12T18:51:56+00:00",
+  "scraped_at": "2026-10-19T16:23:34+00:00",
   "peptide": "HGH 191AA",
   "vial_size_text": "10IU Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "1f3d1f601b42b4a1"
+  "content_hash": "c420c41c50921b51"
 }

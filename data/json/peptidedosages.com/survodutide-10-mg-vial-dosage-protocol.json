@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/survodutide-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-12T18:55:45+00:00",
+  "scraped_at": "2026-10-19T16:27:05+00:00",
   "peptide": "Survodutide",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "4a145dcfb0868405"
+  "content_hash": "dedd7947e7303cfa"
 }

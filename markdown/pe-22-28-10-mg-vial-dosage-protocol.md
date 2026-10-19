@@ -1,7 +1,7 @@
 # PE-22-28 (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/pe-22-28-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-12T18:53:49+00:00
+- Scraped: 2026-10-19T16:25:15+00:00
 
 ## Dosing & Reconstitution Guide
 
