@@ -1,7 +1,7 @@
 # PT-141 (10 mg) + Melanotan II (10 mg) Stack Dosage Protocol ()
 
 - Source: <https://peptidedosages.com/peptide-stack-dosages/melanotan-ii-10-mg-vial-pt-141-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-19T16:29:08+00:00
+- Scraped: 2026-10-26T16:07:54+00:00
 
 ## Dosing & Reconstitution Guide
 

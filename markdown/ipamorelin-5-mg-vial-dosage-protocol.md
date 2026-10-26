@@ -1,7 +1,7 @@
 # Ipamorelin (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/ipamorelin-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-19T16:23:52+00:00
+- Scraped: 2026-10-26T16:02:49+00:00
 
 ## Dosing & Reconstitution Guide
 

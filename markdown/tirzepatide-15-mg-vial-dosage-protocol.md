@@ -1,7 +1,7 @@
 # Tirzepatide (15 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/tirzepatide-15-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-19T16:27:48+00:00
+- Scraped: 2026-10-26T16:06:37+00:00
 
 ## Dosing & Reconstitution Guide
 

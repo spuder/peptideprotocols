@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/adamax-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-19T16:21:06+00:00",
+  "scraped_at": "2026-10-26T16:00:18+00:00",
   "peptide": "Adamax",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "3eeaac1d1bfe9bcf"
+  "content_hash": "45845eea0d5841ba"
 }
