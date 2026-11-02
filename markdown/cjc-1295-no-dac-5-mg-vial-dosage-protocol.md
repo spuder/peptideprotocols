@@ -1,7 +1,7 @@
 # CJC-1295 NO DAC (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/cjc-1295-no-dac-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-10-26T16:01:23+00:00
+- Scraped: 2026-11-02T19:21:58+00:00
 
 ## Dosing & Reconstitution Guide
 

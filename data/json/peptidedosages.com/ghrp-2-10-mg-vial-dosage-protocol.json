@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ghrp-2-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-10-26T16:01:57+00:00",
+  "scraped_at": "2026-11-02T19:22:32+00:00",
   "peptide": "GHRP-2",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "9a21789ee1e926ad"
+  "content_hash": "2d7b00a7c1a0e658"
 }
