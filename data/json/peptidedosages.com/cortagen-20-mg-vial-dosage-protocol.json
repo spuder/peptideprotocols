@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/cortagen-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-02T19:22:02+00:00",
+  "scraped_at": "2026-11-09T19:40:49+00:00",
   "peptide": "Cortagen",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -48,5 +48,5 @@
     }
   ],
   "references": [],
-  "content_hash": "d624d56255cbba70"
+  "content_hash": "18c9e7c20dbf2608"
 }

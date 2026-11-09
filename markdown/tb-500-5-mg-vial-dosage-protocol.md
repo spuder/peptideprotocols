@@ -1,7 +1,7 @@
 # TB-500 (5 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/tb-500-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-11-02T19:26:35+00:00
+- Scraped: 2026-11-09T19:46:06+00:00
 
 ## Dosing & Reconstitution Guide
 

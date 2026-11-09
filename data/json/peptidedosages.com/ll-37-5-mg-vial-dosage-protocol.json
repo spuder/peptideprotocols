@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ll-37-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-02T19:23:44+00:00",
+  "scraped_at": "2026-11-09T19:42:35+00:00",
   "peptide": "LL-37",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "6f2e9436695b5e6f"
+  "content_hash": "75ff7c0d6308b90e"
 }

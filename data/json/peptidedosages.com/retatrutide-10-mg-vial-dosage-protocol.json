@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/retatrutide-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-02T19:25:10+00:00",
+  "scraped_at": "2026-11-09T19:44:05+00:00",
   "peptide": "Retatrutide Dosage Protocol",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -80,5 +80,5 @@
     }
   ],
   "references": [],
-  "content_hash": "ef65f1c9bb875169"
+  "content_hash": "241e141490208230"
 }

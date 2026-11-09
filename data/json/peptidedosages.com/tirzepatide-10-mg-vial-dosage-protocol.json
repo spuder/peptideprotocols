@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/tirzepatide-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-02T19:27:06+00:00",
+  "scraped_at": "2026-11-09T19:46:36+00:00",
   "peptide": "Tirzepatide",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -48,5 +48,5 @@
     }
   ],
   "references": [],
-  "content_hash": "8e2f0ae5149ba7e9"
+  "content_hash": "d5269ceb6184dd1e"
 }

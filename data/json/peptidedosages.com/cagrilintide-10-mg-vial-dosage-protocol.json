@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/cagrilintide-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-02T19:21:27+00:00",
+  "scraped_at": "2026-11-09T19:40:16+00:00",
   "peptide": "Cagrilintide",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -219,5 +219,5 @@
       "category": "References"
     }
   ],
-  "content_hash": "6c678931d10269f1"
+  "content_hash": "b052a59a0acfff43"
 }

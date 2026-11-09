@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/pe-22-28-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-02T19:24:43+00:00",
+  "scraped_at": "2026-11-09T19:43:39+00:00",
   "peptide": "PE-22-28",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "924258ceb58dabd0"
+  "content_hash": "1068770c36867877"
 }

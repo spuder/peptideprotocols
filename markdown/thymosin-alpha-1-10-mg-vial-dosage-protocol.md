@@ -1,7 +1,7 @@
 # Thymosin Alpha-1 (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/thymosin-alpha-1-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-11-02T19:26:57+00:00
+- Scraped: 2026-11-09T19:46:27+00:00
 
 ## Dosing & Reconstitution Guide
 

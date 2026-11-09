@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/mazdutide-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-02T19:23:48+00:00",
+  "scraped_at": "2026-11-09T19:42:40+00:00",
   "peptide": "Mazdutide",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "d02baa818f177d26"
+  "content_hash": "f213b57db3818b4d"
 }

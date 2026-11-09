@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/cerebrolysin-60-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-02T19:21:40+00:00",
+  "scraped_at": "2026-11-09T19:40:28+00:00",
   "peptide": "Cerebrolysin",
   "vial_size_text": "60 mg Vial",
   "vial_size_mg": 60.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "38b9adc717d832fe"
+  "content_hash": "ac33c53f0dfd413f"
 }

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/tirzepatide-15-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-02T19:27:10+00:00",
+  "scraped_at": "2026-11-09T19:46:40+00:00",
   "peptide": "Tirzepatide",
   "vial_size_text": "15 mg Vial",
   "vial_size_mg": 15.0,
@@ -48,5 +48,5 @@
     }
   ],
   "references": [],
-  "content_hash": "b22af4a850682bc7"
+  "content_hash": "ad8e8ac6af46093a"
 }

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/mots-c-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-02T19:24:10+00:00",
+  "scraped_at": "2026-11-09T19:43:03+00:00",
   "peptide": "MOTS-C",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "4a6fa25731fe3479"
+  "content_hash": "b447a10046150b6a"
 }

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/tirzepatide-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-02T19:27:18+00:00",
+  "scraped_at": "2026-11-09T19:46:49+00:00",
   "peptide": "Tirzepatide",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -48,5 +48,5 @@
     }
   ],
   "references": [],
-  "content_hash": "bbfc1e91f69e74bc"
+  "content_hash": "5f70303aafc30872"
 }

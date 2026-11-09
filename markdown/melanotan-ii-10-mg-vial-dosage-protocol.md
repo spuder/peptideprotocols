@@ -1,7 +1,7 @@
 # Melanotan II (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/melanotan-ii-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-11-02T19:23:57+00:00
+- Scraped: 2026-11-09T19:42:49+00:00
 
 ## Dosing & Reconstitution Guide
 
