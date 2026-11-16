@@ -1,7 +1,7 @@
 # HGH 191AA (10IU Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/hgh-191aa-10-iu-vial-dosage-protocol/>
-- Scraped: 2026-11-09T19:41:56+00:00
+- Scraped: 2026-11-16T19:29:06+00:00
 
 ## Dosing & Reconstitution Guide
 

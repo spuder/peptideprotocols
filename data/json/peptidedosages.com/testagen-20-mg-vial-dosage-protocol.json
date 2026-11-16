@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/testagen-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-09T19:46:23+00:00",
+  "scraped_at": "2026-11-16T19:33:29+00:00",
   "peptide": "Testagen",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "9ab608ad90763e8d"
+  "content_hash": "4483097c03c79baa"
 }

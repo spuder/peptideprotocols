@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/semax-5-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-09T19:45:15+00:00",
+  "scraped_at": "2026-11-16T19:32:15+00:00",
   "peptide": "Semax Dosage",
   "vial_size_text": "5 mg Vial",
   "vial_size_mg": 5.0,
@@ -15,5 +15,5 @@
   "protocols": [],
   "supplies": [],
   "references": [],
-  "content_hash": "172ed85bec8218bc"
+  "content_hash": "6c1afcc3c49c4e50"
 }

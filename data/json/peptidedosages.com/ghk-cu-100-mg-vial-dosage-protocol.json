@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/ghk-cu-100-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-09T19:41:10+00:00",
+  "scraped_at": "2026-11-16T19:28:19+00:00",
   "peptide": "GHK-Cu",
   "vial_size_text": "100 mg Vial",
   "vial_size_mg": 100.0,
@@ -88,5 +88,5 @@
     }
   ],
   "references": [],
-  "content_hash": "2f06c08171e2f4ad"
+  "content_hash": "933ea3a916ef3c7b"
 }
