@@ -1,7 +1,7 @@
 # Survodutide (10 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/survodutide-10-mg-vial-dosage-protocol/>
-- Scraped: 2026-11-16T19:33:04+00:00
+- Scraped: 2026-11-23T21:09:04+00:00
 
 ## Dosing & Reconstitution Guide
 

@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/gonadorelin-2-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-16T19:28:57+00:00",
+  "scraped_at": "2026-11-23T21:05:28+00:00",
   "peptide": "Gonadorelin",
   "vial_size_text": "2 mg Vial",
   "vial_size_mg": 2.0,
@@ -56,5 +56,5 @@
     }
   ],
   "references": [],
-  "content_hash": "4d794381b06420d8"
+  "content_hash": "8f9f6dc1b504d147"
 }

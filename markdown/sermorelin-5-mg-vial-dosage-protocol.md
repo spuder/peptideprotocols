@@ -1,7 +1,7 @@
 # Sermorelin 5 mg Dosage Chart and Protocol ()
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/sermorelin-5-mg-vial-dosage-protocol/>
-- Scraped: 2026-11-16T19:32:25+00:00
+- Scraped: 2026-11-23T21:08:39+00:00
 
 ## Dosing & Reconstitution Guide
 

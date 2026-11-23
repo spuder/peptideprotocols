@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/peptide-blend-dosages/neuroxelin-48-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-16T19:34:48+00:00",
+  "scraped_at": "2026-11-23T21:10:45+00:00",
   "peptide": "Neuroxelin",
   "vial_size_text": "48 mg Vial",
   "vial_size_mg": 48.0,
@@ -56,5 +56,5 @@
     }
   ],
   "references": [],
-  "content_hash": "b29c1fcac1539b79"
+  "content_hash": "54dd15d11ecf1f35"
 }

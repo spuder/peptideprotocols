@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/cartalax-20-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-16T19:27:14+00:00",
+  "scraped_at": "2026-11-23T21:04:02+00:00",
   "peptide": "Cartalax",
   "vial_size_text": "20 mg Vial",
   "vial_size_mg": 20.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "47fc709a452f781c"
+  "content_hash": "8f9666d1d9e1e5c3"
 }

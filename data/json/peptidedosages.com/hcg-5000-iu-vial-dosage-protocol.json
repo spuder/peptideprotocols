@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/hcg-5000-iu-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-16T19:29:02+00:00",
+  "scraped_at": "2026-11-23T21:05:32+00:00",
   "peptide": "HCG",
   "vial_size_text": "5000 IU Vial",
   "vial_size_mg": 5000.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "317337d54f71ce00"
+  "content_hash": "efb19f30daf5e8ef"
 }

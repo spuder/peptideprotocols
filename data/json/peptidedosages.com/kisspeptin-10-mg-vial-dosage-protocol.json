@@ -1,7 +1,7 @@
 {
   "source_url": "https://peptidedosages.com/single-peptide-dosages/kisspeptin-10-mg-vial-dosage-protocol/",
   "domain": "peptidedosages.com",
-  "scraped_at": "2026-11-16T19:29:28+00:00",
+  "scraped_at": "2026-11-23T21:05:58+00:00",
   "peptide": "Kisspeptin",
   "vial_size_text": "10 mg Vial",
   "vial_size_mg": 10.0,
@@ -64,5 +64,5 @@
     }
   ],
   "references": [],
-  "content_hash": "b293709b3b9acd01"
+  "content_hash": "904875fb9db0f65e"
 }

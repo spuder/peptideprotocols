@@ -1,7 +1,7 @@
 # GHK-Cu (100 mg Vial)
 
 - Source: <https://peptidedosages.com/single-peptide-dosages/ghk-cu-100-mg-vial-dosage-protocol/>
-- Scraped: 2026-11-16T19:28:19+00:00
+- Scraped: 2026-11-23T21:04:52+00:00
 
 ## Dosing & Reconstitution Guide
 
